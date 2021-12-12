@@ -1,17 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/cdc-vouchers-site-logo-h3.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
+  - title: About
+    collection: about
+  - title: Residents
+    collection: residents
+  - title: Merchants
+    collection: merchants
   - title: Resources
     resource_room: true
+  - title: Contact Us
+    url: /contact-us
+  - title: CDC Official Site
+    url: https://www.cdc.gov.sg
