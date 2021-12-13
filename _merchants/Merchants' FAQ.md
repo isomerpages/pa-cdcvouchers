@@ -51,11 +51,17 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
     <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">I was approached by individuals claiming to be Ambassadors for the CDC Vouchers Scheme. How can I verify that they are authorised personnel?</span></label>
     <div>
 			<p>To assist merchants in the registration of interests and onboarding process, IMDA's Digital Ambassadors and CDC Ambassadors are deployed island-wide. The IMDA's Digital Ambassadors can be identified by the uniform and button badge that they will be wearing during deployment:</p>
-			<p><img src="/images/merchants/m-sample-digital-ambassador-uniform.png" alt="Sample Digital Ambassadors and CDC Ambassadors Uniform" style="width:486px !important;height:329px !important;" /></p>
+			<p><img src="/images/merchants/m-sample-digital-ambassador-uniform-wo-text.png" alt="Sample Digital Ambassadors and CDC Ambassadors Uniform" style="width:448px !important; height:288px !important;" />
+				<div style="text-align: center;"><i>Sample of Digital Ambassador's Uniform</i></div>
+			</p>
 			<p>The CDC Ambassadors can be identified by the official lanyard and button badge during deployment as shown below:</p>
-			<p><img src="/images/merchants/m-sample-digital-ambassador-badge.png" alt="Sample Digital Ambassadors and CDC Ambassadors badge" style="width:719px !important;height:387px !important;" /></p>
+			<p><img src="/images/merchants/m-sample-digital-ambassador-badge-wo-text.png" alt="Sample Digital Ambassadors and CDC Ambassadors badge" style="width:368px !important;height:323px !important;" />
+				<div style="text-align: center;"><i>Sample of Button Badge worn by Digital Ambassador and CDC Ambassador</i></div>
+	</p>
 			<br>
-				<p><img src="/images/merchants/m-sample-digital-ambassador-lanyard.png" alt="Sample Digital Ambassadors and CDC Ambassadors lanyard" style="width:500px !important;height:508.125px !important;" /></p>
+				<p><img src="/images/merchants/m-sample-digital-ambassador-lanyard2.png" alt="Sample Digital Ambassadors and CDC Ambassadors lanyard" style="width:400px !important;height:342px !important;" />
+	<div style="text-align: center;"><i>Sample of CDC Ambassador's lanyard</i></div>
+</p>
 					    </div>
   </li>
     
@@ -91,7 +97,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
     <input type="checkbox" id="accordion8">
     <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How can I check my application status after I have submitted my interest to participate?</span></label>
     <div>
-			<p>If you have submitted your application and have not received a reply after 14 calendar days from the date of submission, please contact your respective CDCs to check on the status of your application. Wer seek you patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
+			<p>If you have submitted your application and have not received a reply after 14 calendar days from the date of submission, please contact your respective CDCs to check on the status of your application. We seek your patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
 			<p><table border="0" cellspacing="2" cellpadding="2">
 <tbody>
 <tr >
@@ -134,10 +140,8 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
 
 <p>You will need to prepare supporting documents for your bank account or PayNow proxy (handphone, NRIC or UEN), depending on which mode of payment was chosen.</p>
 		
-<p><img src="/images/merchants/m-bank-supporting-doc.png" alt="Sample Bank documents" style="width:784px !important;height:452px !important;" />
-	</p>
-
-<p>Samples of supporting documents for merchant's PayNow (left) and bank account details (right). Merchants may prepare either type of supporting document based on mode of payment chosen.
+<p><img src="/images/merchants/m-bank-supporting-doc-bankprofile.png" alt="Sample Bank documents" style="width:270px !important;height:447px !important;" /><br><img src="/images/merchants/m-bank-supporting-doc-bankstatement.png" alt="Sample Bank documents" style="width:488px !important;height:335px !important;" />	
+	<br><i>Samples of supporting documents for merchant's PayNow (top) and bank account details (bottom). Merchants may prepare either type of supporting document based on mode of payment chosen.</i>
 	</p>
 </div>
   </li></ul>
@@ -157,7 +161,7 @@ b) alternatively, <a href="/merchants/info#merchantreginterest">register your in
 	
 			<li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do get my shop code?</span></label>
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#DB3B18">How do I get my shop code?</span></label>
     <div>
 			<p>You will receive your shop code from the CDC Ambassador during your onboarding session. It will also be sent to you via SMS to your registered mobile number.</p>
 				</div>
