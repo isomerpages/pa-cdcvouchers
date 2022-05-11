@@ -37,30 +37,30 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/-OBickuGtms?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/YMp3rmAWGcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொள்வதும் பயன்படுத்துவதும் எப்படி
 
 
-1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் சென்று</strong> சிங்பாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள். ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.
+1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் சென்று</strong> சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் 2022 தேர்ந்தெடுங்கள்.
 
-<img src="/images/residents/screengrabs-for-infographics/tamil/M_Log%20in_ta_5novupdated.png" alt="Step 1" style="width:300px !important;" />
-
-
-2: <strong>உங்கள் கைப்பேசி எண்ணை உள்ளிட்டு</strong> ஒரு முறை கடவுச்சொல்லைப் (One-Time Password) பெற்றுக்கொள்ளுங்கள் 
-
-<img src="/images/residents/screengrabs-for-infographics/tamil/M_MobileNumber_TA_5Nov.png" alt="Step 2" style="width:300px !important;" />
+<img src="/images/residents/Tam_Screengrab%201.png" alt="Step 1" style="width:300px !important;" />
 
 
-3: **CDC பற்றுச்சீட்டுகளின் இணைப்பைக் குறுந்தகவல் (SMS) மூலம் பெற்றவுடன்** இணைப்பை கிளிக் (click) செய்து பற்றுச்சீட்டுகளை அடையுங்கள் 
+2: <strong>சிங்கபாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள்.</strong> ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.  
 
-<img src="/images/residents/screengrabs-for-infographics/tamil/SMSTamil_5%20Nov%20New%20Link.png" alt="Step 3" style="width:300px !important;" />
+<img src="/images/residents/Tam_Screengrab%202.png" alt="Step 2" style="width:300px !important;" />
 
 
-4: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து** பங்குபெறும் உணவங்காடிக் கடைக்காரரிடம் அல்லது வணிகரிடம் QR குறியீட்டைக் காட்டுங்கள். பற்றுச்சீட்டின் இணைப்பை உங்கள் குடும்பத்தாருடனும் பகிர்ந்துக்கொள்ளலாம்!
+3: **உங்களுக்கான CDC பற்றுச்சீட்டுகளின் இணைப்பைக் குறுந்தகவல் (SMS) மூலம் பெறுங்கள்.** பற்றுச்சீட்டுகளைக் குடும்பத்தாருடன் பகிர்ந்துகொள்ள குறுந்தகவலை அவர்களுக்கு அனுப்பி வையுங்கள். 
 
-<img src="/images/residents/screengrabs-for-infographics/tamil/10%20NovTamil%20mixed%20vouchers_17.png" alt="Step 4" style="width:300px !important;" />
+<img src="/images/residents/Tam_Screengrab%203.png" alt="Step 3" style="width:300px !important;" />
+
+
+4: **நீங்கள் பயன்படுத்த விரும்பும் தொகையைத் தேர்ந்தெடுத்து,** பங்குபெறும் உணவங்காடிக் கடைக்காரர் அல்லது குடியிருப்பு வட்டார வணிகர் ஸ்கேன் செய்வதற்காக QR குறியீட்டை காட்டுங்கள்.
+
+<img src="/images/residents/Tam_Screengrab%204.png" alt="Step 4" style="width:300px !important;" />
 
 
 பங்குபெறும் உணவங்காடிக் கடைகளிலும் குடியிருப்பு வட்டார வணிகக் கடைகளிலும் இந்தச் சின்னம் இருக்கிறதா எனப் பாருங்கள்!

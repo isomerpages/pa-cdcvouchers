@@ -9,8 +9,6 @@ notification: Visit your CC if you do not have a smartphone or Singpass or need
   help to claim your vouchers.
 sections:
   - hero:
-      title: CDC Vouchers <br>Scheme
-      background: /images/Hero%20Banner%20Light%20v3--.png
       key_highlights:
         - title: I am a Resident
           description: Click here for next steps
@@ -18,22 +16,24 @@ sections:
         - title: I am a Merchant
           description: Click here for next steps
           url: /merchants/info/
-      button: Claim my CDC vouchers
-      url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e?lang=en-GB
+      button: Claim my CDC vouchers 2022
+      url: https://go.gov.sg/cdcv
+      title: CDC Vouchers Scheme 2022
+      background: /images/CDCV Banner 7.png
   - infobar:
-      title: About the CDC Vouchers Scheme
-      description: Announced as part of the Household Support Package in Budget 2021,
-        about 1.3 million Singaporean households will receive $100 CDC Vouchers.
+      title: Latest Announcement
+      description: As announced in Budget 2022, the CDCs will distribute an additional
+        set of $100 CDC vouchers to each Singaporean Household in May 2022.
       button: Find out more
       url: /about/about-cdc-vouchers-scheme
   - infopic:
-      title: Claim your CDC Vouchers
+      title: Claim your CDC Vouchers 2021 & 2022
       subtitle: Residents
-      description: No need to download a mobile app. Claim your digital vouchers
-        easily with just a few taps.
+      description: No need to download a mobile app. Claim your digital CDC Vouchers
+        2021 & 2022 easily with just a few taps.
       button: Claim now
-      url: https://signup.redeem.gov.sg/campaign_df2e6812-0192-491e-b1cc-d9887600639e
-      image: /images/residents/Hero%20banner%20no%20button.png
+      url: https://go.gov.sg/cdcv
+      image: /images/residents/resident banner without button.png
       alt: Calling Singaporean households
   - infobar:
       title: Where to spend your CDC Vouchers?

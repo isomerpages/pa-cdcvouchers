@@ -20,10 +20,6 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 			<td style="width:122px !important;"><img src="/images/merchants/next-day-payout.png" alt="Next-Day Payout icon" style="width:120px !important;" /></td>
 		<td><p><strong>Next-Day Payout</strong><br>Merchant would need to ensure bank account/PayNow proxy (handphone, NRIC, or UEN), provided to PA are accurate in order to achieve the reimbursement timeline.</p></td>
 	</tr>
-<tr>
-			<td style="width:122px !important;"><img src="/images/merchants/fuss-free-redemption.png" alt="Fuss-free-Redemption &amp; Transaction Tracking icon" style="width:120px !important;" /></td>
-		<td style="vertical-align: middle;"><p><strong>Fuss-free-Redemption &amp; Transaction Tracking</strong></p></td>
-	</tr>
 	<tr>
 			<td style="width:122px !important;"><img src="/images/merchants/no-handling-of-physical-vouchers.png" alt="No Handling of Physical Vouchers icon" style="width:120px !important;" /></td>
 		<td style="vertical-align: middle;"><p><strong>No Handling of Physical Vouchers</strong></p></td>
@@ -104,28 +100,28 @@ description: Sign up as participating hawkers and merchants to accept CDC vouche
 #### English
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/cQGlktNKq3s?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/2YD2J-EMRSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <p><a href="/merchants/merchant-guide-english">Onboard RedeemSG Merchant App</a></p>
 
 
 #### 中文
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/2l6hem1eMps?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/ym2nJf-L85E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p><a href="/merchants/merchant-guide-chinese">加入 RedeemSG Merchant 手机应用程序</a></p>
 
 
 #### Melayu
 <div class="youtubecontainer">
-	<iframe class="youtubevideo" src="https://www.youtube.com/embed/WlXbDqiPN6k?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe class="youtubevideo" src="https://www.youtube.com/embed/JRXJgFCowaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p><a href="/merchants/merchant-guide-malay">Bagaimana untuk menggunakan RedeemSG Merchant</a></p>	
 
 
 #### தமிழ் 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/NGkGTUoF1BE?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/6ao4P3NRX6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p><a href="/merchants/merchant-guide-tamil">RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்</a></p>
