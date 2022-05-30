@@ -1,9 +1,10 @@
 ---
-title: RedeemSG Merchant செயலியில் பதிவு செய்யுங்கள்
+title: RedeemSG Merchant செயலிக்கான வழிகாட்டி
 permalink: /merchants/merchant-guide-tamil
 description: ""
 third_nav_title: Merchants' Guide
 ---
+
 <span id="cdcv_page_top"></span>
 [English](merchant-guide-english) &nbsp;&nbsp;&#124;&nbsp;&nbsp; [华文](merchant-guide-chinese)  &nbsp;&nbsp;&#124;&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;&#124;&nbsp;&nbsp; **[தமிழ்](merchant-guide-tamil)**
 
