@@ -1,8 +1,9 @@
 ---
 title: Newsroom
-permalink: /newsroom
+permalink: /newsroom/
 description: ""
 ---
+
 ## Newsroom
 
 #### 11 May 2022 - <br>Launch of CDC Vouchers Scheme 2022
