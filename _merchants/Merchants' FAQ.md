@@ -1,6 +1,6 @@
 ---
 title: Merchants' FAQ
-permalink: /merchants/faq
+permalink: /merchants/faq/
 description: Merchants' FAQ
 ---
 <span id="cdcv_page_top"></span>
@@ -99,7 +99,7 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
 		    <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
 				<div>
-	<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using <a href="https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts" target="_blank">CDC's district locator</a>. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration.</p>
+	<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using the <a href="https://www.pa.gov.sg/our-network/community-development-councils" >district locator</a>. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration.</p>
 <table border="0" cellspacing="2" cellpadding="2">
     <tbody>
         <tr>
@@ -179,7 +179,6 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
     <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I had previously participated as a merchant in CDC Vouchers 2021. Do I auto-qualify or do I still need to register to join CDC Vouchers Scheme 2022 and future tranches? Also will I receive the $30 onboarding incentive again for CDC Vouchers Scheme 2022 and future tranches?</span></label>
     <div>
 			<p>No, there is no need to register again to participate in CDC Vouchers 2022 if you have already been onboarded to the CDC Vouchers scheme launched in Dec 2021. Our CDC Ambassadors will reach out to you to update on the new scheme and provide the welcome letter. </p>
-			<p>The $30 onboarding incentive is only for newly onboarded merchants.</p>
     </div>
   </li>
 <li><input type="checkbox" id="accordion10">
