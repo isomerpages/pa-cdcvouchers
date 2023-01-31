@@ -1,8 +1,9 @@
 ---
 title: FAQs on Donation
-permalink: /donate/FAQ/
+permalink: /donate/FAQclosed/
 description: ""
 ---
+
 ## Frequently Asked Questions about donation of CDC Vouchers 2021 & 2022
 
 <ul class="jekyllcodex_accordion">

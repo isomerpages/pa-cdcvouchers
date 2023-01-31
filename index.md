@@ -16,9 +16,6 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-        - title: Donate CDC VOUCHERS 2021 & 2022
-          description: Find out how
-          url: /donate/
       background: /images/CDCV2023/Cover Banner.png
   - infobar:
       title: Latest Announcement
@@ -44,12 +41,6 @@ sections:
       url: https://go.gov.sg/cdcvouchers
       alt: Image alt text
       image: /images/CDCV2023/PA-CDC-2023-Hero-Image.png
-  - infobar:
-      title: How to donate your CDC Vouchers 2021 & 2022?
-      description: Choose from a list of charities that you may donate your CDC
-        Vouchers 2021 and 2022 to.
-      button: Find out more
-      url: \donate\
   - infobar:
       title: Residents
       description: Check out the Frequently Asked Questions.
