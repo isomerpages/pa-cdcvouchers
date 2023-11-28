@@ -2,6 +2,7 @@
 title: Residents' FAQ
 permalink: /residents/faq/
 description: CDC Vouchers Scheme Residents FAQ
+variant: markdown
 ---
 <span id="cdcv_page_top"></span>
 <a href="#cdcv_page_claiming"><strong>Claiming Of CDC Vouchers</strong></a> | <a href="#cdcv_page_spending"><strong>Spending Your CDC Vouchers</strong></a>
@@ -14,14 +15,14 @@ description: CDC Vouchers Scheme Residents FAQ
     <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2023?</span></label>
     <div>
 					<p>
-In January 2023, every Singaporean household can claim $300 in CDC Vouchers. This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods &amp; Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022. The value of the vouchers will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2023 to claim and spend their CDC Vouchers 2023. </p>
+In January 2023, every Singaporean household can claim $300 in CDC Vouchers. This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods &amp; Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022. The value of the vouchers will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean households have until 31 December 2023 to claim and spend their CDC Vouchers 2023. </p>
 			</div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Who is eligible for the CDC Vouchers Scheme?</span></label>
     <div>
-      <p>Each Singaporean household can claim $300 in CDC vouchers. $150 can be spent at participating heartland merchants and hawkers, and the other $150 can be spent at participating supermarkets.
+      <p>Each Singaporean household can claim $300 in CDC Vouchers 2023. $150 can be spent at participating heartland merchants and hawkers, and the other $150 can be spent at participating supermarkets.
 			</p>
     </div>
   </li>
@@ -50,13 +51,13 @@ For the CDC Vouchers to be used at supermarkets, the larger denominations ($5 an
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can the vouchers be shared with my household members?</span></label>
     <div>
- 			<p>Yes, the vouchers can be shared with your household members via the following method. 
+ 			<p>The vouchers can be shared with your household members via the following method. 
 			</p>
 			
-<p>Click on “Share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration. 
+<p>1. Click on “Share” button to copy the unique voucher link<br> 2. Paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration. 
 			</p>
 			<p>
-				Recipients are advised to be careful with sharing unique voucher links with others, as this would allow them to spend the household’s vouchers. To ensure that you safekeep your unique voucher links, we urge you to share only when necessary and to the right parties. We seek your understanding that there will be no reinstatement made for vouchers that were shared erroneously.
+				Recipients are advised to be careful with sharing unique voucher links with others, as this would allow others to spend the household’s vouchers. To ensure that you safekeep your unique voucher links, we urge you to share only when necessary and to the right parties. We seek your understanding that there will be no reinstatement made for vouchers that were shared erroneously.
 			</p>
 		<p>				
 			<table border="1" cellspacing="0" cellpadding="0">
@@ -79,9 +80,9 @@ For the CDC Vouchers to be used at supermarkets, the larger denominations ($5 an
   </li>
 <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Customers are required to scan the merchant’s QR Code to make payment on some of the other e-payment platforms.  Why are merchants required to scan the customer’s voucher QR code for the CDC Vouchers Scheme instead? </span></label>
+    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">On some other e-payment platforms, the customers scan the merchant's QR code to make payment. For the CDC Vouchers Scheme, why must merchants scan the customer's voucher QR code instead? </span></label>
     <div>
- 			<p>CDCs in partnership with Open Government Products, GovTech, had previously tested the model in which the customer scans the merchant’s QR. While this is technically possible, we identified it would come with the following drawbacks:</p>
+ 			<p>CDCs in partnership with Open Government Products, GovTech, had previously tested the model in which the customer scans the merchant’s QR code. While this is technically possible, we identified it would come with the following drawbacks:</p>
 <p>
 	a) If customers were to scan merchants’ QR, all citizens will need to download a mobile app. </p>
 			<p>
@@ -90,7 +91,7 @@ b) Digitally less-savvy residents would be excluded from the scheme if they do n
 c) We have also found through previous trials with residents that selecting the exact amount to be spent (as in an e-wallet model) was confusing for some residents and error prone.
 			</p>
 			<p>
-To ensure that the digital system caters to both digitally savvy and digitally less-savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper is used -- residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers. 
+To ensure that the digital system caters to both digitally savvy and  less-savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper voucher is used -- i.e., residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers. 
  			</p>
 	</div>
   </li>
@@ -327,7 +328,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion27">
     <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">         Previously the CDCs provided an option for residents to donate their CDC Vouchers 2021 and 2022. Similarly, can I donate my 2023 vouchers for a good cause?</span></label>
     <div>
-			<p>The option to donate the CDC Vouchers 2023 is currently not available. &nbsp;As this Scheme is designed to help Singaporean households in cushioning the impact of the Goods and Service Tax increase and support participating heartland merchants and hawkers, we encourage you to spend your CDC Vouchers.</p>
+			<p>The option to donate the CDC Vouchers 2023 will be available from 1 December 2023 to 31 January 2024. &nbsp;As this Scheme is designed to help Singaporean households in cushioning the impact of the Goods and Service Tax increase and support participating heartland merchants and hawkers, we encourage you to spend your CDC Vouchers before they expire on 31 December 2023.</p>
     </div>
   </li>
 <li>

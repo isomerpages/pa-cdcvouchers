@@ -5,13 +5,11 @@ description: This is an informational site about CDC Vouchers scheme for
   Singapore residents.
 image: /images/isomer-logo.svg
 permalink: /
-notification: There will be a scheduled downtime on all CDC websites on 17
-  April. The website may not be available during this period. We apologise for
-  the inconvenience caused.
+notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: " I AM A RESIDENT"
+        - title: I AM A RESIDENT
           description: Click here for next steps
           url: /residents/info/
         - title: I am a Heartland Merchant
@@ -19,7 +17,7 @@ sections:
           url: /merchants/info/
       background: /images/CDCV2023/Cover Banner.png
   - infobar:
-      title: Latest Announcement
+      title: About CDC Vouchers Scheme
       description: More vouchers, more places to spend! In 2023, every Singaporean
         household will receive $300 CDC Vouchers to help with daily essentials.
       url: /about/
