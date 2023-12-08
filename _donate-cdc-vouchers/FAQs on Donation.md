@@ -134,7 +134,7 @@ The list of participating IPCs is available on the CDC Vouchers website at https
     <input type="checkbox" id="accordion13">
     <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate my household’s CDC Vouchers to an organisation that is not stated on the CDC Vouchers website?  </span></label>
     <div>
-			<p>No, residents will only be able to pledge the donation of the balance of their household’s CDC Vouchers to one charity listed on the CDC Vouchers website.</p>
+			<p>No, residents will only be able to pledge the donation of the balance of their household’s CDC Vouchers to one IPC listed on the CDC Vouchers website.</p>
 			</div>
   </li>
 	</ul>
