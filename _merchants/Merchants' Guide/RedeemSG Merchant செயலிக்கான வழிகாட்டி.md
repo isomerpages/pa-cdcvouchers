@@ -6,7 +6,7 @@ third_nav_title: Merchants' Guide
 variant: markdown
 ---
 <span id="cdcv_page_top"></span>
-[English](merchant-guide-english) &nbsp;&nbsp;|&nbsp;&nbsp; [华文](merchant-guide-chinese)  &nbsp;&nbsp;|&nbsp;&nbsp; [Melayu](merchant-guide-malay) &nbsp;&nbsp;|&nbsp;&nbsp; **[தமிழ்](merchant-guide-tamil)**
+[English](merchants/merchant-guide-english) &nbsp;&nbsp;|&nbsp;&nbsp; [华文](merchants/merchant-guide-chinese)  &nbsp;&nbsp;|&nbsp;&nbsp; [Melayu](merchants/merchant-guide-malay) &nbsp;&nbsp;|&nbsp;&nbsp; **[தமிழ்](merchants/merchant-guide-tamil)**
 
 <style>
 a.bp-button {
