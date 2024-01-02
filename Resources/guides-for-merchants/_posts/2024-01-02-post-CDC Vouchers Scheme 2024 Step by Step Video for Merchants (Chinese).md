@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>CDC Vouchers Scheme - Step-by-Step Video for Merchants (Chinese)</p><p></p><div class="iframe-wrapper"><iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nia5zfijP_4?si=IOWVErachL6fekOc"></iframe></div><p></p>
