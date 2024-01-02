@@ -59,4 +59,17 @@ sections:
       description: Check out the Frequently Asked Questions.
       button: Read our FAQ for Merchants
       url: /merchants/faq
+  - textcards:
+      title: Have Questions?
+      id: textcards
+      description: Check out the Frequently Asked Questions (FAQ).
+      cards:
+        - title: FOR RESIDENTS
+          description: ""
+          linktext: Learn more
+          url: /residents/faq
+        - title: FOR HEARTLAND MERCHANTS AND HAWKERS
+          description: ""
+          linktext: Learn more
+          url: /merchants/faq
 ---
