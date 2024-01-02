@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>CDC Vouchers Scheme - Step-by-Step Video for Merchants (Tamil)</p><p></p><div class="iframe-wrapper"><iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1WdP3wcP-q8?si=ot7djlIewFOxVXgw"></iframe></div><p></p>
