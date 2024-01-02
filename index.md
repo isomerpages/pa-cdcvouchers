@@ -23,10 +23,10 @@ sections:
       url: /about/
       button: Find out more
   - infopic:
-      title: Claim your CDC Vouchers 2023
+      title: Claim your CDC Vouchers 2024
       subtitle: Residents
       description: Similar to previous tranches, there is no need to download a mobile
-        app. Claim your digital CDC Vouchers 2023 easily with just a few taps.
+        app. Claim your digital CDC Vouchers 2024 easily with just a few taps.
       button: Claim now
       url: https://go.gov.sg/cdcv
       image: /images/CDCV2023/Cover Banner No Text.png
