@@ -29,7 +29,7 @@ sections:
         app. Claim your digital CDC Vouchers 2024 easily with just a few taps.
       button: Claim now
       url: https://go.gov.sg/cdcv
-      image: /images/CDCV2023/Cover Banner No Text.png
+      image: /images/Key_Visual.png
       alt: Image alt text
   - infopic:
       title: Where to spend your CDC Vouchers?
