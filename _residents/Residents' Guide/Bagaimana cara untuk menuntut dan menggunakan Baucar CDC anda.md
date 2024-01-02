@@ -6,8 +6,7 @@ third_nav_title: Residents' Guide
 variant: markdown
 ---
 <span id="cdcv_page_top"></span>
-
-[English](/residents/how-to-claim-cdc-vouchers) &nbsp;&nbsp;|&nbsp;&nbsp; [中文](/residents/how-to-claim-cdc-vouchers-chinese) &nbsp;&nbsp;|&nbsp;&nbsp; **[Melayu](/residents/how-to-claim-cdc-vouchers-malay)** &nbsp;&nbsp;|&nbsp;&nbsp; [தமிழ்](/residents/how-to-claim-cdc-vouchers-tamil)
+[English](/residents/how-to-claim-cdc-vouchers) &nbsp;&nbsp;|&nbsp;&nbsp; [中文](/residents/how-to-claim-cdc-vouchers-chinese)  &nbsp;&nbsp;|&nbsp;&nbsp; **[Melayu](/residents/how-to-claim-cdc-vouchers-malay)** &nbsp;&nbsp;|&nbsp;&nbsp; [தமிழ்](/residents/how-to-claim-cdc-vouchers-tamil)
 
 <style>
 a.bp-button {
