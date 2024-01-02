@@ -30,7 +30,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/oX4CPL8L_OY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/jLqF82GsCdM?si=OshgbHXpea0PDuM6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
