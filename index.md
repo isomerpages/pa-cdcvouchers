@@ -47,18 +47,6 @@ sections:
         donate their CDC Vouchers 2023.
       button: Learn more
       url: /donate/
-  - infobar:
-      title: Residents
-      description: Check out the Frequently Asked Questions.
-      button: Read our FAQ for Residents
-      url: /residents/faq/
-      subtitle: Have questions?
-  - infobar:
-      title: Heartland Merchants
-      subtitle: Have questions?
-      description: Check out the Frequently Asked Questions.
-      button: Read our FAQ for Merchants
-      url: /merchants/faq
   - textcards:
       title: Have Questions?
       id: textcards
