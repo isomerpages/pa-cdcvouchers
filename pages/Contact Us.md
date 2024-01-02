@@ -4,6 +4,7 @@ permalink: /contact-us/
 date: 2021-12-09
 layout: post
 description: Contact Us page
+variant: markdown
 ---
 <span id="cdcv_page_top"></span>
 ## Community Development Councils (CDCs)
