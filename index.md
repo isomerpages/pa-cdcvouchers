@@ -34,12 +34,12 @@ sections:
   - infopic:
       title: Where to spend your CDC Vouchers?
       subtitle: Residents
-      description: "[NEW!] Spend $150 CDC Vouchers at participating hawkers/heartland
-        merchants, and the other $150 at participating supermarkets."
+      description: Spend $250 CDC Vouchers at participating hawkers/heartland
+        merchants, and the other $250 at participating supermarkets.
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
       alt: Image alt text
-      image: /images/CDCV2023/PA-CDC-2023-Hero-Image.png
+      image: /images/hero_image_19Dec_v3.png
   - infobar:
       title: How to Donate Your CDC Vouchers 2023
       id: infobar
