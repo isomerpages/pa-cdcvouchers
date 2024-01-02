@@ -31,7 +31,7 @@ variant: markdown
 
 ## Register Interest Online Form
 
-**Step 1**: If you do not have the CDC details of your stall, enter the postal code of your stall using <a href="https://www.pa.gov.sg/our-network/community-development-councils" target="_blank">the district locator</a> to find out.
+**Step 1**: If you do not have the CDC details of your stall, enter the postal code of your stall using <a href="https://www.gowhere.gov.sg/cdc" target="_blank">the district locator</a> to find out.
 
 **Step 2**: Click on the relevant CDC logo below and fill in the online form. Our Ambassadors will get in touch with you after you have submitted the form.
 
