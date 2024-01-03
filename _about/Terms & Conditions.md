@@ -2,8 +2,9 @@
 title: Terms & Conditions
 permalink: /about/terms-and-conditions/
 description: Terms & Conditions for CDC Vouchers
+variant: markdown
 ---
-## Terms & Conditions for CDC Vouchers
+## Terms &amp; Conditions for CDC Vouchers
 
 1.	The CDC digital vouchers are: <br>
 (a) Expressed in Singapore Dollars; <br>
@@ -31,6 +32,5 @@ Any updates to these terms and conditions may be found at [https://vouchers.cdc.
 
 ![Brought to you by](/images/brought-by.png)
 
-**Supported by:**
 
-![Supported by](/images/supported-by.png)
+![Supported by](/images/CDCV_2024_Supported_by.png)
