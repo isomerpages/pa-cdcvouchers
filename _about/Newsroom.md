@@ -6,6 +6,13 @@ variant: markdown
 ---
 ## Newsroom
 
+
+#### 3 January 2024 - <br> Launch of CDC Vouchers Scheme 2024
+
+| | | |
+| -------- | -------- | -------- |
+| Media Release     | [All Singaporean households to get $500 worth of CDC Vouchers 2024](/files/_Updated__Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2024__3_Jan_12_15pm__docx.pdf)  | 
+
 #### 27 November 2023 - <br> CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations
 
 
