@@ -1,6 +1,6 @@
 ---
 title: How to Donate CDC Vouchers 2023
-permalink: /donate/
+permalink: /donate-closed/
 description: ""
 variant: markdown
 ---
