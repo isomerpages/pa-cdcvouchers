@@ -40,13 +40,6 @@ sections:
       url: https://go.gov.sg/cdcvouchers
       alt: Image alt text
       image: /images/hero_image_19Dec_v3.png
-  - infobar:
-      title: How to Donate Your CDC Vouchers 2023
-      id: infobar
-      description: From 1 December 2023 to 31 January 2024, Singaporean households can
-        donate their CDC Vouchers 2023.
-      button: Learn more
-      url: /donate/
   - textcards:
       title: Have Questions?
       id: textcards
