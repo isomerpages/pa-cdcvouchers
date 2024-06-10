@@ -18,7 +18,7 @@ sections:
       background: /images/Banner.png
       variant: center
   - infobar:
-      title: About CDC Vouchers Scheme 2024
+      title: About CDC Vouchers Scheme 2024 (June)
       description: In addition to the $500 CDC Vouchers given on 3 Jan 2024, every
         Singaporean household will receive $300 CDC Vouchers in June 2024 for
         help in daily expenses.
