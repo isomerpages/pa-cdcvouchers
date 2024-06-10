@@ -32,7 +32,7 @@ a.bp-button {
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/p59Ut_sN0a4?si=hFHWrbyu8onkUlDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
-## How to claim your CDC Vouchers 2024
+## How to claim your CDC Vouchers 2024 (June)
 
 1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap on CDC Vouchers 2024. 
 
