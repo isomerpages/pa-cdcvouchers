@@ -15,11 +15,13 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-      background: /images/Updated_key_visual2.png
+      background: /images/Banner.png
+      variant: center
   - infobar:
-      title: About CDC Vouchers Scheme
-      description: More support for your everyday needs! Every Singapore household
-        will receive $500 CDC Vouchers in 2024 to help with the cost of living.
+      title: About CDC Vouchers Scheme 2024
+      description: On top of the $500 CDC Vouchers given on 3 Jan 2024, every
+        Singaporean household will receive additional $300 CDC Vouchers in June
+        2024 for more support.
       url: /about/
       button: Find out more
   - infopic:
