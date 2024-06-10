@@ -25,19 +25,21 @@ sections:
       url: /about/
       button: Find out more
   - infopic:
-      title: Claim your CDC Vouchers 2024 (January and June)
+      title: Claim your CDC Vouchers 2024
       subtitle: Residents
       description: Similar to previous tranches, there is no need to download a mobile
-        app. Claim your digital CDC Vouchers 2024 easily with just a few taps.
+        app. Claim your digital CDC Vouchers 2024 (June) or CDC Vouchers 2024
+        (January) easily.
       button: Claim now
       url: https://go.gov.sg/cdcv
-      image: /images/Key_Visual.png
+      image: /images/Banner_with_words.png
       alt: Image alt text
   - infopic:
-      title: Where to spend your CDC Vouchers?
+      title: Where to spend your $300 CDC Vouchers 2024 (June)?
       subtitle: Residents
-      description: Spend $250 CDC Vouchers at participating hawkers/heartland
-        merchants, and the other $250 at participating supermarkets.
+      description: Spend $150 CDC Vouchers 2024 (June) at participating
+        hawkers/heartland merchants, and the other $150 at participating
+        supermarkets.
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
       alt: Image alt text
