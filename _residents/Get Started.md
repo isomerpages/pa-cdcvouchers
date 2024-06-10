@@ -8,7 +8,7 @@ variant: markdown
 ---
 <span id="cdcv_page_top"></span>
 
-[![Cover banner cdcv2024](/images/Key_Visual.png)](https://go.gov.sg/cdcv)
+[![Cover banner cdcv2024](/images/Banner_with_words.png)](https://go.gov.sg/cdcv)
 
 In January 2024, every Singaporean household will receive a total of $500 worth of CDC Vouchers. This is part of the Government’s continuing efforts to help Singaporean households cope with daily expenses. 
 
