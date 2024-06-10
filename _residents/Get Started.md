@@ -82,10 +82,10 @@ Our step-by-step video and guide are available in the following languages:
 <br>
 <div style="font-size:18px; background-color:#f3d7d7; padding:25px;text-align:left;">
 <h3><strong>Important</strong></h3>
-<p>You will receive an SMS with the unique voucher link from RedeemSG right after you have claimed your vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> (i.e. upon completing Steps 1 to 3). </p>
+<p>You will receive an SMS with the unique voucher link from gov.sg right after you have claimed your vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> (i.e. upon completing Steps 1 to 3). </p>
 <p>Make sure that the unique voucher link you receive starts with https://voucher.redeem.gov.sg/. Do not trust or click on any voucher links starting with other prefixes.</p>
 
-<p>Do note that RedeemSG will never send SMSes asking for your personal information or banking details to claim the vouchers.</p>
+<p>Do note that RedeemSG or gov.sg will never send SMSes asking for your personal information or banking details to claim the vouchers.</p>
 </div>
 
 ________
