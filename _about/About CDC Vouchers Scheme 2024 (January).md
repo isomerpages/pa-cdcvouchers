@@ -10,10 +10,10 @@ Lawrence Wong announced that the Community Development Councils (CDCs)
 will give out CDC Vouchers in 2024 as part of Budget 2022 and Budget 2023,
 as well as the $1.1 billion Cost-of-Living Package in September 2023.</p>
 <p>Every Singaporean household will receive a total of $500 CDC Vouchers
-on 3 January 2024.&nbsp; The value of the vouchers will be allocated equally
-($250 each) to be spent at participating heartland merchants and hawkers,
-or at participating supermarkets. Singaporean Households have until 31
-December 2024 to claim and spend their CDC Vouchers 2024.</p>
+(January) on 3 January 2024.&nbsp; The value of the vouchers will be allocated
+equally ($250 each) to be spent at participating heartland merchants and
+hawkers, or at participating supermarkets. Singaporean Households have
+until 31 December 2024 to claim and spend their CDC Vouchers 2024.</p>
 <p><a href="/residents/info" rel="noopener noreferrer nofollow" target="_blank">Learn</a> how
 you can claim your CDC Vouchers 2024 (January).</p>
 <p><strong>Brought to you by:</strong>
