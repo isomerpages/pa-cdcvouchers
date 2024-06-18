@@ -34,7 +34,7 @@ a.bp-button {
 
 ## How to claim your CDC Vouchers 2024 (June)
 
-1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap on CDC Vouchers 2024 (June). 
+1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv)** and tap on CDC Vouchers 2024 (June).<br> Singaporean households that have yet to claim their CDC Vouchers 2024 (January) can still login to [go.gov.sg/cdcv](http://go.gov.sg/cdcv) with their Singpass to claim their January vouchers.
 
 <img src="/images/eng_step_1.png" alt="Step 1" style="width:300px !important;">
 
