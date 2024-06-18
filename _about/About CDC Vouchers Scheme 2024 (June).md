@@ -4,18 +4,24 @@ permalink: /about/
 variant: tiptap
 description: ""
 ---
-<p>As part of the Government’s continuing efforts to help Singaporean households
-cope with daily expenses, Deputy Prime Minister and Finance Minister Mr
-Lawrence Wong announced that the Community Development Councils (CDCs)
-will give out CDC Vouchers in 2024 as part of Budget 2022 and Budget 2023,
-as well as the $1.1 billion Cost-of-Living Package in September 2023.</p>
-<p>Every Singaporean household will receive a total of $500 CDC Vouchers
-on 3 January 2024.&nbsp; The value of the vouchers will be allocated equally
-($250 each) to be spent at participating heartland merchants and hawkers,
-or at participating supermarkets. Singaporean Households have until 31
-December 2024 to claim and spend their CDC Vouchers 2024.</p>
+<p>Every Singaporean household will receive <strong><u>$300 CDC Vouchers in June 2024</u></strong>.
+This is in addition to the $500 CDC Vouchers given on 3 January 2024. Therefore,
+all Singaporean households will receive a total of $800 CDC Vouchers this
+year.</p>
+<p>&nbsp;</p>
+<p>The CDC Vouchers Scheme 2024 (June) is part of the enhancements to the
+Assurance Package announced by then Deputy Prime Minister and Minister
+for Finance Lawrence Wong at Budget 2024. &nbsp;The package provides more
+immediate support for Singaporean households and helps defray daily expenses.</p>
+<p>&nbsp;</p>
+<p>Starting 25 June 2024, you can visit <strong><a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cdcv</a></strong> to
+claim the additional $300 CDC vouchers. &nbsp;The process for claiming
+and spending the vouchers remains the same.</p>
+<p>Both CDC Vouchers Scheme (June) and CDC Vouchers Scheme (January) are
+valid till 31 December 2024<strong>.</strong>
+</p>
 <p><a href="/residents/info" rel="noopener noreferrer nofollow" target="_blank">Learn</a> how
-you can claim your CDC Vouchers 2024.</p>
+you can claim your CDC Vouchers 2024 (June).</p>
 <p><strong>Brought to you by:</strong>
 </p>
 <div class="isomer-image-wrapper">
