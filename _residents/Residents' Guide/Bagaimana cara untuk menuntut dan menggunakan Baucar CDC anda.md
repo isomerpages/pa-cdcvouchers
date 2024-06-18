@@ -34,16 +34,16 @@ a.bp-button {
 
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
-1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Tekan pada Baucar CDC 2024. 
+1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Tekan pada Baucar CDC 2024 (Jun). 
 
 <img src="/images/mal_step_1.png" alt="Step 1" style="width:300px !important;">
 
 
-2: **Log masuk menggunakan Singpass.** Hanya seorang sahaja ahli keluarga anda yang perlu melalukannya bagi pihak keluarga.
+2: **Log masuk menggunakan Singpass.** Hanya seorang sahaja ahli keluarga anda yang perlu tuntut bagi pihak keluarga.
 
 <img src="/images/mal_step_2.png" alt="Step 2" style="width:300px !important;">
 
-3: **Dapatkan pautan Baucar CDC anda melalui SMS.** Hantarkan SMS untuk berkongsi baucar dengan anggota isi rumah.
+3: **Dapatkan pautan Baucar CDC anda daripada gov.sg.** Hantarkan SMS untuk kongsi bersama  anggota isi rumah.
 
 <img src="/images/mal_step_3.png" alt="Step 3" style="width:300px !important;">
 
