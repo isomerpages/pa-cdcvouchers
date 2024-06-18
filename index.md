@@ -28,7 +28,7 @@ sections:
       title: About CDC Vouchers Scheme 2024 (January)
       id: infobar
       description: In January 2024, every Singaporean household were given $500 CDC
-        Vouchers 2024 (January) which will expire 31 Dec 2024.
+        Vouchers 2024 (January) which will expire on 31 Dec 2024.
       button: Button Text
       url: /about/history/jan2024/
   - infopic:
