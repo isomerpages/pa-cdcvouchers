@@ -44,8 +44,7 @@ a.bp-button {
 
 
 1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் செல்லுங்கள்.</strong>
-2024ஆம் ஆண்டுக்கான சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் மீது தட்டுங்கள்.
-<img src="/images/tam_step_1.png" alt="Step 1" style="width:300px !important;">
+        2024 ஜூன் மாதத்திற்கான சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் மீது தட்டுங்கள்.<img src="/images/tam_step_1.png" alt="Step 1" style="width:300px !important;">
 
 2: <strong>சிங்பாஸ் (Singpass) கணக்கைப் பயன்படுத்தி உட்பதிவு செய்யுங்கள். </strong> ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இதைச் செய்தால் போதும்.  
 <img src="/images/tam_step_2.png" alt="Step 2" style="width:300px !important;">
