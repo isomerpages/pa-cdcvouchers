@@ -43,12 +43,12 @@ a.bp-button {
 <img src="/images/2024%20Phone%20Screens/Eng_Singpass_Claim_Page.png" alt="Step 1" style="width:300px !important;">
 
 
-3: **Receive your CDC Voucher link by SMS.** Forward the SMS to share vouchers with household members.  
+3: **Receive your CDC Voucher link by SMS from gov.sg.** Forward the SMS to share with household members.  
 
 <img src="/images/2024%20Phone%20Screens/Eng_SMS_Page.png" alt="Step 2" style="width:300px !important;">
 
 
-## How to spend your CDC Vouchers 2024
+## How to spend your CDC Vouchers 2024 (June)
 
 1: **Select which CDC Vouchers you want to use.** 
 
@@ -58,7 +58,7 @@ a.bp-button {
 2: **Choose the amount to spend.** Then tap 'Show voucher'.
 <img src="/images/2024%20Phone%20Screens/Eng_Select_Voucher_Both.png" alt="Step 2" style="width:300px !important;">
 
-3: **Show the QR code to the shop staff.** They will scan it to complete your payment. 
+3: **Show the QR code to the participating merchant.** They will scan it to complete your payment. 
 
 <img src="/images/2024%20Phone%20Screens/Eng_Show_Both_QR.png" alt="Step 4" style="width:300px !important;">
 
