@@ -133,7 +133,7 @@ To ensure that the digital system caters to both digitally savvy and  less-savvy
 2) You may also use <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> to retrieve your previous voucher link by logging in to Singpass again.
 			</p>
 			<p>
-3) The voucher link will be sent via SMS, that will contain both the CDC Vouchers for using at participating heartland merchants and hawkers, and at participating supermarkets. These vouchers can be used till 31 December 2024.  You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $500 CDC Vouchers. </p>
+3) The voucher link will be sent via SMS from gov.sg, that will contain both the CDC Vouchers for using at participating heartland merchants and hawkers, and at participating supermarkets. These vouchers can be used till 31 December 2024.  You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $500 CDC Vouchers. </p>
     </div>
   </li>
 				<li>
