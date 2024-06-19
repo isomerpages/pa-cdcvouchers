@@ -137,7 +137,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion10">
     <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</span></label>
     <div>
-			<p>Please refer to the following link for a list of <a href="https://www.singpass.gov.sg/main/html/faq.html">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit a Singpass counter located in all Community Centres/Clubs (CC) across Singapore for assistance. </p>
+			<p>Please refer to the following link for a list of <a href="https://ask.gov.sg/singpass">Frequently Asked Questions on Singpass.</a> Alternatively, you may visit a Singpass counter located in all Community Centres/Clubs (CC) across Singapore for assistance. </p>
     </div>
   </li>
 <li>
