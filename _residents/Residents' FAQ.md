@@ -351,7 +351,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion28">
     <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">         This year, the scheme is targeted to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
     <div>
-			<p>The CDC Vouchers Scheme is one part of the Government’s Assurance Package to help Singaporean households cope with daily expenses. The objective of the CDC Voucher Scheme is to support Singaporean households with daily essentials. Each Singaporean household will receive $500 worth of CDC Vouchers in 2024, compared to previous disbursements of $100 in 2021 and 2022 and $300 in 2023. 
+			<p>The CDC Vouchers Scheme is one part of the Government’s Assurance Package to help Singaporean households cope with daily expenses. The objective of the CDC Voucher Scheme is to support Singaporean households with daily essentials. 
 
 The Government Budget includes other schemes to tap on for those who may require further assistance. 			</p>
     </div>
@@ -360,7 +360,7 @@ The Government Budget includes other schemes to tap on for those who may require
     <input type="checkbox" id="accordion29">
     <label for="accordion29"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I received an SMS asking me to key in my NRIC and personal details to claim my CDC Vouchers. Is it a scam? </span></label>
     <div>
-			<p>Do not click on the link or reply. CDCs or RedeemSG will never send any SMSes asking for your personal information or banking details to claim your CDC Vouchers. If you detect any suspicious messages relating to RedeemSG or CDC Vouchers, please contact PA at 62255322, or submit the information online at <a href="https://www.police.gov.sg/I-Witness"><strong>https://www.police.gov.sg/I-Witness </strong></a> or call 1800 255 0000 to make a police report. 
+			<p>Do not click on the link or reply. CDCs or gov.sg or RedeemSG will never send any SMSes asking for your personal information or banking details to claim your CDC Vouchers. If you detect any suspicious messages relating to gov.sg or CDC Vouchers, please contact PA at 62255322, or submit the information online at <a href="https://www.police.gov.sg/I-Witness"><strong>https://www.police.gov.sg/I-Witness </strong></a> or call 1800 255 0000 to make a police report. 
 			</p>
     </div>
   </li>
