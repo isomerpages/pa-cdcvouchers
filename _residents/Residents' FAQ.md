@@ -142,7 +142,7 @@ To ensure that the digital system caters to both digitally savvy and  less-savvy
     <div>
 			<p>You will require a valid Singpass account and smartphone to login and claim your vouchers.  Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household.</p> 
 <p>
-Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> on how to claim your household’s 2024 CDC vouchers or the notification letter.
+Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> on how to claim your household’s June 2024 CDC vouchers or the notification letter.
 			</p>			
     </div>
   </li>
@@ -155,9 +155,9 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">If I have already claimed my CDC Vouchers from the previous tranche, do I need to claim the CDC Vouchers 2024?</span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">If I have already claimed my CDC Vouchers from the previous tranche (January 2024), do I need to claim the CDC Vouchers 2024?</span></label>
     <div>
-			<p>Yes, the CDC Vouchers Scheme 2024 is a new tranche.  The vouchers from the previous tranche have expired on 31 December 2023.</p>
+			<p>Yes, the CDC Vouchers Scheme 2024 (June) is a new tranche. Both vouchers from the previous CDCV 2024 (January) and current CDCV 2024 (June) tranche will expire on 31 December 2024.</p>
 			<p>Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2024, and login with Singpass to claim your vouchers.</p>
     </div>
   </li>
