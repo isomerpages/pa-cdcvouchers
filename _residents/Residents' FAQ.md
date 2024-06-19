@@ -77,7 +77,7 @@ For the CDC Vouchers to be used at supermarkets, the larger denominations of $10
 <tbody>
 <tr>
 <td>
-	<img src="/images/2024%20Phone%20Screens/Share_Link.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;"></td>
+	<img src="/images/share_vouchers.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;"></td>
 <td>
 	<img src="/images/residents/faq5b2.png" alt="Illustration of voucher link shared via Whatsapp" style="width:300px !important;">	
 	</td>
