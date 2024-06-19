@@ -128,7 +128,7 @@ To ensure that the digital system caters to both digitally savvy and  less-savvy
     <div>
 			<p>Yes. Claiming process remains the same as past tranches of CDC Vouchers.  Only one member representing the household needs to make the claim digitally via Singpass at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>.</p>
 			<p>
-1) Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2024 (June) and login with Singpass to claim your June 2024 vouchers. If you have not already claimed your CDC Vouchers 2024 (January),  </p>
+1) Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2024 (June) and login with Singpass to claim your June 2024 vouchers. If you have not already claimed your CDC Vouchers 2024 (January), you may do so via the same link. </p>
 			<p>
 2) You may also use <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> to retrieve your previous voucher link by logging in to Singpass again.
 			</p>
