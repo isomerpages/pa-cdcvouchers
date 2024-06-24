@@ -54,7 +54,7 @@ a.bp-button {
 
 <p>2: உங்களது சக ஊழியர் அல்லது தூதர் வழங்கிய கடை குறியீட்டை உள்ளிடுங்கள். </p>
 
-<p><img src="/images/merchants/merchants-infographics/tamil/10%20Shop%20c.png" style="width:300px !important;" alt="Enter shop code screen"> </p>
+<p><img src="/images/Shop_code_TML.png" style="width:300px !important;" alt="Enter shop code screen"> </p>
 
 
 <p>3: பற்றுச்சீட்டுகளை ஸ்கேன் செய்யத் தொடங்குங்கள். </p>
