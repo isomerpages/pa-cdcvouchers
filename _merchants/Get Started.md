@@ -80,7 +80,7 @@ variant: markdown
 </tbody>
 </table>
 
-### Step-by-Step Guide for Merchants
+### Step-by-Step Video and Guide for Merchants
 
 
 Our step-by-step guide is available in the following languages:
