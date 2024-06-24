@@ -59,7 +59,7 @@ The process for claiming and spending the vouchers remains the same. Only one ho
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/p59Ut_sN0a4?si=hFHWrbyu8onkUlDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/JubHIafIFw8?si=fw0pK2y8sOpSU--E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 Our step-by-step guide and video are available in the following languages:
