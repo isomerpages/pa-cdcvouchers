@@ -120,7 +120,7 @@ To ensure that the digital system caters to both digitally savvy and  less-savvy
 2) You may also use <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> to retrieve your previous voucher link by logging in to Singpass again.
 			</p>
 			<p>
-3) The voucher link will be sent via SMS from gov.sg, that will contain both the CDC Vouchers for using at participating heartland merchants and hawkers, and at participating supermarkets. Please note that this voucher link will differ from all previous rounds of CDC Vouchers, including the CDC Vouchers 2024 (January). The CDC Vouchers 2024 (June) and CDC Vouchers 2024 (January) can be used till 31 December 2024.  You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $500 CDC Vouchers. </p>
+3) The voucher link will be sent via SMS from RedeemSG, that will contain both the CDC Vouchers for using at participating heartland merchants and hawkers, and at participating supermarkets. Please note that this voucher link will differ from all previous rounds of CDC Vouchers, including the CDC Vouchers 2024 (January). The CDC Vouchers 2024 (June) and CDC Vouchers 2024 (January) can be used till 31 December 2024.  You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $500 CDC Vouchers. </p>
     </div>
   </li>
 				<li>
@@ -173,10 +173,10 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion14">
     <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I verify that the SMS link I received is a legitimate link?</span></label>
     <div>
-      <p>The SMS is identifiable by the sender named “gov.sg”.  Please also check that your unique voucher link  starts with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
+      <p>The SMS is identifiable by the sender named “RedeemSG”.  Please also check that your unique voucher link  starts with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
 		<p><img src="/images/eng_step_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
 	</p>
-<p>A typical SMS from gov.sg will look like the screenshot on the above. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
+<p>A typical SMS from RedeemSG will look like the screenshot on the above. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
     </div>
 	</li> 
 		<li>
