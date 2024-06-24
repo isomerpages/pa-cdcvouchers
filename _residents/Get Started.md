@@ -82,10 +82,10 @@ Our step-by-step video and guide are available in the following languages:
 <br>
 <div style="font-size:18px; background-color:#f3d7d7; padding:25px;text-align:left;">
 <h3><strong>Important</strong></h3>
-<p>You will receive an SMS with the unique voucher link from gov.sg right after you have claimed your vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> (i.e. upon completing Steps 1 to 3). </p>
+<p>You will receive an SMS with the unique voucher link from RedeemSG right after you have claimed your vouchers at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a> (i.e. upon completing Steps 1 to 3). </p>
 <p>Make sure that the unique voucher link you receive starts with https://voucher.redeem.gov.sg/. Do not trust or click on any voucher links starting with other prefixes.</p>
 
-<p>Do note that RedeemSG or gov.sg will never send SMSes asking for your personal information or banking details to claim the vouchers.</p>
+<p>Do note that RedeemSG will never send SMSes asking for your personal information or banking details to claim the vouchers.</p>
 </div>
 
 ________
@@ -107,7 +107,7 @@ ________
 
 * If you need help in claiming your vouchers, please bring along your NRIC to the nearest Community Centre/Club (CC). All CCs are open daily from 10am to 6pm and 2pm to 6pm for void deck CCs.  Closed on Public Holidays (PH) 
 
-* Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form](/files/Voucher_Claim_Authorisation_Letter_for_2024.pdf)
+* Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form](/files/Voucher_Claim_Authorisation_Letter_for_2024.pdf) and necessary supporting documents (specified in the authorisation form) to the CC.
 *  For further enquiries, please contact our hotline at <a href="tel:6225 5322">6225 5322</a> from 8am to 6pm daily, except on public holidays; or write to us using this <a href="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
 If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. 
 
