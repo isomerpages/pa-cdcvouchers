@@ -29,7 +29,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/jLqF82GsCdM?si=OshgbHXpea0PDuM6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/GX-ZWitGAFA?si=YEKu2PjxY6q8zzNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
@@ -43,7 +43,7 @@ a.bp-button {
 
 <img src="/images/mal_step_2.png" alt="Step 2" style="width:300px !important;">
 
-3: **Dapatkan pautan Baucar CDC anda daripada RedeemSG.** Hantarkan SMS untuk kongsi bersama  anggota isi rumah.
+3: **Dapatkan pautan Baucar CDC anda daripada RedeemSG/gov.sg.** Hantarkan SMS untuk kongsi bersama  anggota isi rumah.
 
 <img src="/images/mal_step_3.png" alt="Step 3" style="width:300px !important;">
 
