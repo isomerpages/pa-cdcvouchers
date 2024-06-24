@@ -63,7 +63,7 @@ a.bp-button {
 
 <p>4: மற்ற ஊழியர்களைச் சேர்க்க, கடை குறியீட்டை அவர்களிடம் காட்டுங்கள். </p>
  
-<p><img src="/images/merchants/merchants-infographics/tamil/2%20Show%20shop%20code.png" style="width:300px !important;" alt="Shop code screen"> </p>
+<p><img src="/images/Settings_TML.png" style="width:300px !important;" alt="Shop code screen"> </p>
 
 
 <p>5: நீங்கள் ஸ்கேன் செய்த பற்றுச்சீட்டுகளைப் பார்வையிட, “பரிவர்த்தனைகள்” மீது தட்டுங்கள். உங்கள் வங்கிக் கணக்கில் சேர்க்கப்பட்ட தொகையைப் பார்வையிட, “தொகை வழங்கீடுகள்” மீது தட்டுங்கள். </p>
