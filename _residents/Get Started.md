@@ -39,29 +39,9 @@ The process for claiming and spending the vouchers remains the same. Only one ho
 </tbody>
 </table>
 
-## Step-by-Step Video and Guide for Residents
+## Step-by-Step Guide for Residents
 
-<style>
- .youtubecontainer {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 56.25%;
-}
-.youtubevideo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-
-<div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/p59Ut_sN0a4?si=hFHWrbyu8onkUlDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-	</div>
-
-Our step-by-step video and guide are available in the following languages:
+Our step-by-step guide is available in the following languages:
 
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 130%;">
 <tbody>
