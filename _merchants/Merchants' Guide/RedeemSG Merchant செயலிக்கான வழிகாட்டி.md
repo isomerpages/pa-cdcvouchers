@@ -58,7 +58,7 @@ a.bp-button {
 
 
 <p>3: பற்றுச்சீட்டுகளை ஸ்கேன் செய்யத் தொடங்குங்கள். </p>
-<p><img src="/images/merchants/merchants-infographics/tamil/1%20Home%20start%20.png" style="width:300px !important;" alt="Scan voucher screen"> </p>
+<p><img src="/images/Home_scan_TML.png" style="width:300px !important;" alt="Scan voucher screen"> </p>
 
 
 <p>4: மற்ற ஊழியர்களைச் சேர்க்க, கடை குறியீட்டை அவர்களிடம் காட்டுங்கள். </p>
