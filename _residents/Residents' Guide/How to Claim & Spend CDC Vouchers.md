@@ -43,7 +43,7 @@ a.bp-button {
 <img src="/images/eng_step_2.png" alt="Step 1" style="width:300px !important;">
 
 
-3: **Receive your CDC Voucher link by SMS from gov.sg.** Forward the SMS to share with household members.  
+3: **Receive your CDC Voucher link by SMS from RedeemSG.** Forward the SMS to share with household members.  
 
 <img src="/images/eng_step_3.png" alt="Step 2" style="width:300px !important;">
 
