@@ -43,7 +43,7 @@ a.bp-button {
 
 <img src="/images/mal_step_2.png" alt="Step 2" style="width:300px !important;">
 
-3: **Dapatkan pautan Baucar CDC anda daripada gov.sg.** Hantarkan SMS untuk kongsi bersama  anggota isi rumah.
+3: **Dapatkan pautan Baucar CDC anda daripada RedeemSG.** Hantarkan SMS untuk kongsi bersama  anggota isi rumah.
 
 <img src="/images/mal_step_3.png" alt="Step 3" style="width:300px !important;">
 
