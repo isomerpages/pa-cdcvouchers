@@ -120,7 +120,7 @@ To ensure that the digital system caters to both digitally savvy and  less-savvy
 2) You may also use <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> to retrieve your previous voucher link by logging in to Singpass again.
 			</p>
 			<p>
-3) The voucher link will be sent via SMS from RedeemSG, that will contain both the CDC Vouchers for using at participating heartland merchants and hawkers, and at participating supermarkets. Please note that this voucher link will differ from all previous rounds of CDC Vouchers, including the CDC Vouchers 2024 (January). The CDC Vouchers 2024 (June) and CDC Vouchers 2024 (January) can be used till 31 December 2024.  You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $500 CDC Vouchers. </p>
+3) The voucher link will be sent via SMS from RedeemSG (before 1 July) or gov.sg (from 1 July onwards), that will contain both the CDC Vouchers for using at participating heartland merchants and hawkers, and at participating supermarkets. Please note that this voucher link will differ from all previous rounds of CDC Vouchers, including the CDC Vouchers 2024 (January). The CDC Vouchers 2024 (June) and CDC Vouchers 2024 (January) can be used till 31 December 2024.  You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $500 CDC Vouchers. </p>
     </div>
   </li>
 				<li>
@@ -152,7 +152,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion12">
     <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
     <div>
-      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed <a href="/files/Voucher_Claim_Authorisation_Letter_for_2024.pdf"> Authorisation Form</a> and necessary supporting documents (specified in the authorisation form) to the CC. </p></div>
+      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed <a href="/files/Voucher_Claim_Authorisation_Letter_for_2024_January_.pdf"> Authorisation Form for CDC Vouchers Scheme 2024 (January)</a> or <a href="/files/Voucher_Claim_Authorisation_Letter_for_2024__June_.pdf"> Authorisation Form for CDC Vouchers Scheme 2024 (June)</a> and necessary supporting documents (specified in the authorisation form) to the CC. </p></div>
 	</li>  
 <li>
     <input type="checkbox" id="accordion13">
