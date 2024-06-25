@@ -31,7 +31,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/nia5zfijP_4?si=_553reyjeR8PQvyn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/RaxS_JszxwQ?si=I0dmCxY-4w-eNX0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 
@@ -63,7 +63,7 @@ a.bp-button {
 
 <p>4: 若想添加其他管理员或店员，您只需分享商店代码即可。</p>
 
-<p><img src="/images/merchants/merchants-infographics/chinese/2%20Settings%20shop%20show%20codeNEW.png" style="width:300px !important;" alt="Shop code screen"> </p>
+<p><img src="/images/Settings_CN.png" style="width:300px !important;" alt="Shop code screen"> </p>
 
 <p>5: 点击“交易”，查看已扫描的购物券金额。点击“收款”，查看已转入您银行户口的款项。</p>
 

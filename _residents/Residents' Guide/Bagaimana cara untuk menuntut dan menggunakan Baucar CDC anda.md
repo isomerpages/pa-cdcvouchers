@@ -29,34 +29,34 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/jLqF82GsCdM?si=OshgbHXpea0PDuM6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/GX-ZWitGAFA?si=YEKu2PjxY6q8zzNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
-1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Tekan pada Baucar CDC 2024. 
+1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Tekan pada Baucar CDC 2024 (Jun). 
 
-<img src="/images/2024%20Phone%20Screens/Mal_Campaign_Page.png" alt="Step 1" style="width:300px !important;">
+<img src="/images/mal_step_1.png" alt="Step 1" style="width:300px !important;">
 
 
-2: **Log masuk menggunakan Singpass.** Hanya seorang sahaja ahli keluarga anda yang perlu melalukannya bagi pihak keluarga.
+2: **Log masuk menggunakan Singpass.** Hanya seorang sahaja ahli keluarga anda yang perlu tuntut bagi pihak keluarga.
 
-<img src="/images/2024%20Phone%20Screens/Mal_Singpass_Claim_Page.png" alt="Step 2" style="width:300px !important;">
+<img src="/images/mal_step_2.png" alt="Step 2" style="width:300px !important;">
 
-3: **Dapatkan pautan Baucar CDC anda melalui SMS.** Hantarkan SMS untuk berkongsi baucar dengan anggota isi rumah.
+3: **Dapatkan pautan Baucar CDC anda daripada RedeemSG/gov.sg.** Hantarkan SMS untuk kongsi bersama  anggota isi rumah.
 
-<img src="/images/2024%20Phone%20Screens/Mal_SMS_Page.png" alt="Step 3" style="width:300px !important;">
+<img src="/images/mal_step_3.png" alt="Step 3" style="width:300px !important;">
 
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
 1: **Pilih baucar yang anda mahu gunakan** 
-<img src="/images/2024%20Phone%20Screens/Mal_Select_Correct_Voucher.png" alt="Step 4" style="width:600px !important;">
+<img src="/images/mal_step_6.png" alt="Step 4" style="width:600px !important;">
 
 2: **Pilih jumlah untuk diggunakan. Kemudian tekan 'Tunjuk baucar'** 
-<img src="/images/2024%20Phone%20Screens/Mal_Select_Voucher_Both.png" alt="Step 4" style="width:300px !important;">
+<img src="/images/mal_step_4.png" alt="Step 4" style="width:300px !important;">
 
 3: **Tunjukkan kod QR kepada penjaja dan pendagang** Mereka akan mengimbasnya untuk melengkapkan pembayaran anda
-<img src="/images/2024%20Phone%20Screens/Mal_Show_Both_QR.png" alt="Step 4" style="width:300px !important;">
+<img src="/images/mal_step_5.png" alt="Step 4" style="width:300px !important;">
 
 
 Gunakan baucar anda selawat-lewatnya 31 Disember 2024.

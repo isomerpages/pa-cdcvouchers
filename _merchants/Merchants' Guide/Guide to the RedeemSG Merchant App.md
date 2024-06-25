@@ -30,7 +30,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/6Di5L5FM_hk?si=ywHrRijzwM5Cccmj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/Av5jRRZ8DDY?si=tbGYy4nEl398uJxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 
@@ -60,7 +60,7 @@ a.bp-button {
 <p><img src="/images/merchants/merchants-infographics/english/2%20Home%20scan%20with%20pic%20.png" style="width:300px !important;" alt="Scan voucher screen"> </p>
 
 <p>4: To add other staff members, show them the shop code. </p>
-<p><img src="/images/merchants/merchants-infographics/english/3%20Eter%20shop%20code.png" style="width:300px !important;" alt="Shop code screen"> </p>
+<p><img src="/images/Settings_show_shop_code_EN.png" style="width:300px !important;" alt="Shop code screen"></p>
 
 <p>5: Type "Transactions" to see vouchers you've scanned. Tap "Payouts" to see payments to your bank account.</p>
 
