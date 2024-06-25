@@ -12,7 +12,7 @@ variant: markdown
 | | | |
 | -------- | -------- | -------- |
 | Media Release     | [Fifth tranche of digital CDC vouchers launched](/files/FINAL_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2024_June_25June.pdf)
-|  Speech | [Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech__1_.pdf)
+|  Speech | [Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)
 
 #### 3 January 2024 - <br> Launch of CDC Vouchers Scheme 2024
 
