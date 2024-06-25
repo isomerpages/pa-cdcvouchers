@@ -7,6 +7,12 @@ variant: markdown
 ## Newsroom
 
 
+#### 25 June 2024 - <br> Launch of CDC Vouchers Scheme 2024 (June)
+
+| | | |
+| -------- | -------- | -------- |
+| Media Release     | [Fifth tranche of digital CDC vouchers launched](/files/FINAL_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2024_June_25June.pdf)
+
 #### 3 January 2024 - <br> Launch of CDC Vouchers Scheme 2024
 
 | | | |
