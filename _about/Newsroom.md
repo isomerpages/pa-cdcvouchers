@@ -8,76 +8,85 @@ variant: tiptap
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>25 June 2024 - Launch of CDC Vouchers Scheme 2024 (June)</summary>
+<summary><strong>(25 Jun 2024) Launch of CDC Vouchers Scheme 2024 (June)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>3 January 2024 - Launch of CDC Vouchers Scheme 2024</summary>
+<summary><strong>(03 Jan 2024) Launch of CDC Vouchers Scheme 2024</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>27 November 2023 - CDC Vouchers Donation Scheme Networking Luncheon with
-Charity Organisation</summary>
+<summary><strong>(27 Nov 2023) CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisation</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>3 January 2023 - Launch of CDC Vouchers Scheme 2023</summary>
+<summary><strong>(03 Jan 2023) Launch of CDC Vouchers Scheme 2023</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>20 December 2022 - Donation of CDC Vouchers 2021 and 2022</summary>
+<summary><strong>(20 Dec 2022) Donation of CDC Vouchers 2021 and 2022</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>11 May 2022 - Launch of CDC Vouchers Scheme 2022</summary>
+<summary><strong>(11 May 2022) Launch of CDC Vouchers Scheme 2022</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>9 January 2022 - More than 1 million Singaporean Households have Claimed
-CDC Vouchers</summary>
+<summary><strong>(09 Jan 2022) More than 1 million Singaporean Households have Claimed CDC Vouchers</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>23 December 2021 - Launch of CDC Vouchers Merchants Go Where</summary>
+<summary><strong>(23 Dec 2021) Launch of CDC Vouchers Merchants Go Where</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>13 December 2021 - Launch of $130 million CDC Vouchers Scheme</summary>
+<summary><strong>(13 Dec 2021) Launch of $130 million CDC Vouchers Scheme</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>18 October 2021 - Onboarding begins for Heartland Merchants and Hawkers</summary>
+<summary><strong>(18 Oct 2021) Onboarding begins for Heartland Merchants and Hawkers</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>25 January 2021 - Launch of $20 million CDC Vouchers Scheme (Tranche 2)</summary>
+<summary><strong>(25 Jany 2021) Launch of $20 million CDC Vouchers Scheme (Tranche 2)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>12 June 2020 - $20 Million worth of CDC Vouchers to support low-income
-families through the COVID-19 Situation</summary>
+<summary><strong>(12 Jun 2020) $20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
