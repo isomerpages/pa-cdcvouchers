@@ -19,7 +19,7 @@ variant: markdown
 | | | |
 | -------- | -------- | -------- |
 | Media Release     | [All Singaporean households to get $500 worth of CDC Vouchers 2024](/files/Updated_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2024__8_Jan_.pdf)
-|  Speech | [Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech__1_.pdf)
+|  Speech | [Speech by Deputy Prime Minister and Minister for Finance Lawrence Wong](https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-at-the-Launch-of-the-CDC-Vouchers-Scheme-2024) <br><br>[Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech__1_.pdf) |
 
 
 #### 27 November 2023 - <br> CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations
