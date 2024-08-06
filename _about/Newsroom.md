@@ -12,14 +12,14 @@ variant: markdown
 | | | |
 | -------- | -------- | -------- |
 | Media Release     | [Fifth tranche of digital CDC vouchers launched](/files/FINAL_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2024_June_25June.pdf)
-|  Speech | [Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong](https://www.pmo.gov.sg/Newsroom/DPM-Gan-Kim-Yong-at-the-Launch-of-CDC-Vouchers-Scheme-2024) <br><br>  [Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)|
+|  Speeches | [Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong](https://www.pmo.gov.sg/Newsroom/DPM-Gan-Kim-Yong-at-the-Launch-of-CDC-Vouchers-Scheme-2024) <br><br>  [Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)|
 
 #### 3 January 2024 - <br> Launch of CDC Vouchers Scheme 2024
 
 | | | |
 | -------- | -------- | -------- |
 | Media Release     | [All Singaporean households to get $500 worth of CDC Vouchers 2024](/files/Updated_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2024__8_Jan_.pdf)
-|  Speech | [Speech by Deputy Prime Minister and Minister for Finance Lawrence Wong](https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-at-the-Launch-of-the-CDC-Vouchers-Scheme-2024) <br><br>[Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech__1_.pdf) |
+|  Speeches | [Speech by Deputy Prime Minister and Minister for Finance Lawrence Wong](https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-at-the-Launch-of-the-CDC-Vouchers-Scheme-2024) <br><br>[Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech__1_.pdf) |
 
 
 #### 27 November 2023 - <br> CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisations
