@@ -36,7 +36,7 @@ variant: markdown
 | | | |
 | -------- | -------- | -------- |
 | Media Release     | [All Singaporean households to receive support in 2023  with $300 worth of CDC vouchers](/files/All%20Singaporean%20households%20to%20receive%20support%20in%202023%20%20with%20$300%20worth%20of%20CDC%20vouchers%20.pdf)   | 
-|  Speeches     |[Speech by Deputy Prime Minister and Minister for Finance Lawrence Wong](https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-at-the-Launch-of-CDC-Vouchers-Scheme-Jan-2023) <br><br> [Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](https://www.cdc.gov.sg/files/Final_Speech_Delieverd_by_Mayor_Low_Yen_Ling___CDCV_Donation_and_Luncheon_with_Charities_27_Nov_23.pdf)    | 
+|  Speeches     |[Speech by Deputy Prime Minister and Minister for Finance Lawrence Wong](https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-at-the-Launch-of-CDC-Vouchers-Scheme-Jan-2023) <br><br> [Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](https://www.cdc.gov.sg/files/Speech%20by%20Mayor%20Low%20Yen%20Ling%20at%20the%20Launch%20of%20CDC%20Vouchers%20Scheme%202023_3%20Jan%20(002).pdf)    | 
 
 #### 20 December 2022 - <br> Donation of CDC Vouchers 2021 and 2022
 
