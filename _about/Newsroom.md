@@ -12,7 +12,7 @@ variant: markdown
 | | | |
 | -------- | -------- | -------- |
 | Media Release     | [Fifth tranche of digital CDC vouchers launched](/files/FINAL_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2024_June_25June.pdf)
-|  Speech | [Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)
+|  Speech | [Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong](https://www.pmo.gov.sg/Newsroom/DPM-Gan-Kim-Yong-at-the-Launch-of-CDC-Vouchers-Scheme-2024) <br><br>  [Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District](/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf)|
 
 #### 3 January 2024 - <br> Launch of CDC Vouchers Scheme 2024
 
@@ -102,4 +102,4 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
-| Media Release     | [$20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation](https://www.cdc.gov.sg/files/Press%20Releases/final-media-release---launch-of-cdc-vouchers-scheme%20(1).pdf)    | 
+| Media Release     | [$20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation](https://www.cdc.gov.sg/files/Press%20Releases/final-media-release---launch-of-cdc-vouchers-scheme%20(1).pdf)    |
