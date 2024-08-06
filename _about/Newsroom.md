@@ -442,7 +442,7 @@ variant: tiptap
 <p>Media Release</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="https://www.cdc.gov.sg/files/Press%20Releases/media-release-for-cdc-vouchers-scheme-tranche2.pdf" rel="noopener noreferrer nofollow" target="_blank">Launch of $20 million CDC Vouchers Scheme (Tranche 2)</a>
+<p><a href="https://www.cdc.gov.sg/files/Press%20Releases/media-release-for-cdc-vouchers-scheme-tranche2.pdf" rel="noopener noreferrer nofollow" target="_blank">Launch of $20 million CDC Vouchers Scheme (Tranche 2)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
