@@ -6,93 +6,6 @@ variant: tiptap
 ---
 <h2>Newsroom</h2>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>(25 Jun 2024) Launch of CDC Vouchers Scheme 2024 (June)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(03 Jan 2024) Launch of CDC Vouchers Scheme 2024</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(27 Nov 2023) CDC Vouchers Donation Scheme Networking Luncheon with Charity Organisation</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(03 Jan 2023) Launch of CDC Vouchers Scheme 2023</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(20 Dec 2022) Donation of CDC Vouchers 2021 and 2022</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(11 May 2022) Launch of CDC Vouchers Scheme 2022</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(09 Jan 2022) More than 1 million Singaporean Households have Claimed CDC Vouchers</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(23 Dec 2021) Launch of CDC Vouchers Merchants Go Where</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(13 Dec 2021) Launch of $130 million CDC Vouchers Scheme</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(18 Oct 2021) Onboarding begins for Heartland Merchants and Hawkers</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(25 Jany 2021) Launch of $20 million CDC Vouchers Scheme (Tranche 2)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>(12 Jun 2020) $20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
 <h4>25 June 2024 - <br>Launch of CDC Vouchers Scheme 2024 (June)</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -506,7 +419,38 @@ variant: tiptap
 </tbody>
 </table>
 <h4>25 January 2021 - <br>Launch of $20 million CDC Vouchers Scheme (Tranche 2)</h4>
-<p>| | | | | -------- | -------- | | Media Release | <a href="https://www.cdc.gov.sg/files/Press%20Releases/media-release-for-cdc-vouchers-scheme-tranche2.pdf" rel="noopener noreferrer nofollow" target="_blank">Launch of $20 million CDC Vouchers Scheme (Tranche 2)</a>|</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Release</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> <a href="https://www.cdc.gov.sg/files/Press%20Releases/media-release-for-cdc-vouchers-scheme-tranche2.pdf" rel="noopener noreferrer nofollow" target="_blank">Launch of $20 million CDC Vouchers Scheme (Tranche 2)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>12 June 2020 - <br>$20 Million worth of CDC Vouchers to support low-income families through the COVID-19 Situation</h4>
 <table style="minWidth: 75px">
 <colgroup>
