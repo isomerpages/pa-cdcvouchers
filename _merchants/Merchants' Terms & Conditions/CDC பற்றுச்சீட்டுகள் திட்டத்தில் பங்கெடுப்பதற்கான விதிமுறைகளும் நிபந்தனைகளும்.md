@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Merchants' Terms & Conditions
 ---
+<p><em>As of Sept 2024</em>
+</p>
 <p><strong>சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் திட்டத்தில்</strong>
 </p>
 <p><strong>பங்கெடுப்பதற்கான விதிமுறைகளும் நிபந்தனைகளும்</strong>
