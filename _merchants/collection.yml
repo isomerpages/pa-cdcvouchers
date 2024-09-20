@@ -2,8 +2,6 @@ collections:
   merchants:
     output: true
     order:
-      - Merchants' Terms & Conditions/Merchants' Terms and Conditions.md
-      - Merchants' Terms & Conditions/.keep
       - Get Started.md
       - Merchants' Guide/.keep
       - Merchants' Guide/Guide to the RedeemSG Merchant App.md
@@ -11,3 +9,5 @@ collections:
       - Merchants' Guide/Bagaimana untuk menggunakan RedeemSG Merchant.md
       - Merchants' Guide/RedeemSG Merchant செயலிக்கான வழிகாட்டி.md
       - Merchants' FAQ.md
+      - Merchants' Terms & Conditions/.keep
+      - Merchants' Terms & Conditions/Merchants' Terms and Conditions.md
