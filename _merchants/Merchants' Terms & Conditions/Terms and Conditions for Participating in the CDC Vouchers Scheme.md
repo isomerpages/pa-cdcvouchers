@@ -10,7 +10,7 @@ third_nav_title: Merchants' Terms & Conditions
 <p><strong>TERMS AND CONDITIONS FOR PARTICIPATING IN THE COMMUNITY DEVELOPMENT COUNCIL VOUCHERS SCHEME (the “Scheme”)</strong>
 </p>
 <p></p>
-<p>By participating in the Scheme (including such further tranches of this&nbsp;
+<p>By participating in the Scheme (including such further tranches of this
 Scheme as may be announced by the government from time to time) you agree
 and accept to be legally bound by the Terms and Conditions set out below,
 and any changes that may be made from time to time.&nbsp; You will be notified
@@ -50,7 +50,7 @@ voucher printouts are accepted for redemption.</p>
 of vouchers will be done through the RedeemSG Merchant application. Your
 use of the RedeemSG Merchant application is subject to and governed by
 a separate set of terms and conditions which can be found on the RedeemSG
-Merchant application and at <a rel="noopener noreferrer nofollow" target="_blank">https://redeem.gov.sg</a>.&nbsp;&nbsp;
+Merchant application and at <a href="https://redeem.gov.sg" rel="noopener nofollow" target="_blank">https://redeem.gov.sg</a>.&nbsp;&nbsp;
 You will receive reimbursements for redeemed vouchers via PayNow (or such
 other similar online banking mode) 1 day after the redemption is recorded
 in the RedeemSG application.</p>
