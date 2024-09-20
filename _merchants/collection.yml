@@ -2,6 +2,7 @@ collections:
   merchants:
     output: true
     order:
+      - Merchants' Terms and Conditions.md
       - Get Started.md
       - Merchants' Guide/.keep
       - Merchants' Guide/Guide to the RedeemSG Merchant App.md
