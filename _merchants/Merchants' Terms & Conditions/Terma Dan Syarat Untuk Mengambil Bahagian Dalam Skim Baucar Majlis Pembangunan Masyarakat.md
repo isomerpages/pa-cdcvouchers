@@ -6,6 +6,12 @@ variant: tiptap
 description: ""
 third_nav_title: Merchants' Terms & Conditions
 ---
+<p><a href="https://cms.isomer.gov.sg/merchants/terms-and-conditions/" rel="noopener nofollow" target="_blank"><u>English</u></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://cms.isomer.gov.sg/merchants/terms-and-conditions/chi/" rel="noopener nofollow" target="_blank"><u>华文</u>
+</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://cms.isomer.gov.sg/merchants/terms-and-conditions/mal/" rel="noopener nofollow" target="_blank"><u>Melayu</u></a>&nbsp;|&nbsp;&nbsp;
+<a href="https://cms.isomer.gov.sg/merchants/terms-and-conditions/tam/" rel="noopener nofollow" target="_blank"><u>தமிழ்</u>
+</a>
+</p>
 <p><em>As of Sept 2024</em>
 </p>
 <p><strong><u>TERMA DAN SYARAT UNTUK MENGAMBIL BAHAGIAN DALAM SKIM BAUCAR MAJLIS PEMBANGUNAN MASYARAKAT</u></strong>
