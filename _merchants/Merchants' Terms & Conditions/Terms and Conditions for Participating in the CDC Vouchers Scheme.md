@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Merchants' Terms & Conditions
 ---
+<p><a href="/merchants/terms-and-conditions/" rel="noopener nofollow" target="_blank">English</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/merchants/terms-and-conditions/chi/" rel="noopener nofollow" target="_blank">华文</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/merchants/terms-and-conditions/mal/" rel="noopener nofollow" target="_blank">Melayu</a>&nbsp;|&nbsp;&nbsp;
+<a href="/merchants/terms-and-conditions/tam/" rel="noopener nofollow" target="_blank">தமிழ்</a>
+</p>
 <p><em>As of Sept 2024</em>
 </p>
 <p><strong>TERMS AND CONDITIONS FOR PARTICIPATING IN THE COMMUNITY DEVELOPMENT COUNCIL VOUCHERS SCHEME (the “Scheme”)</strong>
