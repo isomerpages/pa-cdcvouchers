@@ -1,5 +1,5 @@
 ---
-title: Terms & Conditions
+title: Terms & Conditions for Residents
 permalink: /about/terms-and-conditions/
 description: Terms & Conditions for CDC Vouchers
 variant: markdown
