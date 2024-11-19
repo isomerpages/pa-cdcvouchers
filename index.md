@@ -38,20 +38,8 @@ sections:
             CDC Vouchers
           linktext: Find out more
           url: /about/
-  - infobar:
-      title: About CDC Vouchers Scheme 2024 (June)
-      description: In addition to the $500 CDC Vouchers given on 3 Jan 2024, every
-        Singaporean household will receive $300 CDC Vouchers in June 2024 for
-        help in daily expenses.
-      url: /about/
-      button: Find out more
-  - infobar:
-      title: About CDC Vouchers Scheme 2024 (January)
-      id: infobar
-      description: In January 2024, every Singaporean household were given $500 CDC
-        Vouchers 2024 (January) which will expire on 31 Dec 2024.
-      button: Find out more
-      url: /about/history/jan2024/
+      description: Spend your CDC Vouchers 2024 (January) and CDC Vouchers 2024 (June)
+        before they expire on 31 December 2024.
   - infopic:
       title: Claim your CDC Vouchers 2024
       subtitle: Residents
