@@ -24,6 +24,20 @@ sections:
       description: Alternatively, donate your unused vouchers to participating
         charities from 1 December 2024 to 31 January 2025. Stay tuned for more
         information on this page.
+  - textcards:
+      title: About CDC Vouchers Scheme 2024
+      id: textcards
+      cards:
+        - title: CDC Vouchers Scheme 2024 (January)
+          description: From 3 January 2024, Singaporean households could claim $500 CDC
+            Vouchers 2024.
+          linktext: Find out more
+          url: /about/history/jan2024/
+        - title: CDC Vouchers Scheme 2024 (June)
+          description: From 25 Jun 2024, Singaporean households could claim $300 more in
+            CDC Vouchers
+          linktext: Find out more
+          url: /about/
   - infobar:
       title: About CDC Vouchers Scheme 2024 (June)
       description: In addition to the $500 CDC Vouchers given on 3 Jan 2024, every
