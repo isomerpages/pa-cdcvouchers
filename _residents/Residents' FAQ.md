@@ -331,7 +331,10 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">         Previously the CDCs provided an option for residents to donate their CDC Vouchers 2023. Similarly, can I donate my 2024 vouchers for a good cause?</span></label>
     <div>
 			<p>
-				Similar to previous tranches, we will announce the details of donation for CDC Vouchers Scheme 2024 at a later date.  We encourage all households to claim and spend their CDC Vouchers 2024 before they expire on 31 December 2024.</p>
+				From 1 December 2024 to 31 January 2025, residents will be able to donate their unused CDC Vouchers 2024 (January) and CDC Vouchers 2024 (June) to participating charities. 
+
+The CDC Vouchers 2024 will expire on 31 December 2024 and all Singaporean households are encouraged to utilise their vouchers within the validity period. 
+</p>
     </div>
   </li>
 <li>
