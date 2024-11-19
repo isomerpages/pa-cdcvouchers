@@ -18,7 +18,7 @@ sections:
       background: /images/Banner.png
       variant: center
   - infobar:
-      title: Spend your CDC Vouchers by 31 December 2024
+      title: Spend your CDC Vouchers (January & June) by 31 December 2024
       subtitle: CDC Vouchers 2024
       id: infobar
       description: Alternatively, donate your unused vouchers to participating
