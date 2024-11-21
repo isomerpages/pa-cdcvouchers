@@ -9,7 +9,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I  donate my household's CDC Vouchers 2024 (January) and/or CDC Vouchers 2024 (June)?</span></label>
+    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I donate my household's CDC Vouchers 2024 (January) and/or CDC Vouchers 2024 (June)?</span></label>
     <div>
 			<p>Residents can pledge to donate the balance of their CDC Vouchers 2024 in three steps: </p>
 			<p>
