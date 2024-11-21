@@ -4,18 +4,18 @@ permalink: /donate/faq-closed/
 description: ""
 variant: markdown
 ---
-## Frequently Asked Questions about donation of CDC Vouchers 2023
+## Frequently Asked Questions about donation of CDC Vouchers 2024
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I/my household donate my/our CDC Vouchers 2023?</span></label>
+    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I  donate my household's CDC Vouchers 2024 (January) and/or CDC Vouchers 2024 (June)?</span></label>
     <div>
-			<p>Residents can pledge to donate the balance of their CDC Vouchers 2023 in three steps: </p>
+			<p>Residents can pledge to donate the balance of their CDC Vouchers 2024 in three steps: </p>
 			<p>
-1) Visit the CDC Vouchers Scheme website at https://vouchers.cdc.gov.sg and click on ‘Donate CDC Vouchers 2023’ <br>
+1) Visit the CDC Vouchers Scheme website at https://vouchers.cdc.gov.sg and click on ‘Donate CDC Vouchers 2024’ <br>
 2) View list of Institutions of Public Character (IPCs) - select your preferred IPC from a list IPCs from different sectors and be directed to a FormSG to pledge the declaration of donation<br> 
-3) Pledge your donation – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers 2023as of 31 December 2023 to the selected IPC</p>
+3) Pledge your donation – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers 2024 (January) and (June) as of 31 December 2024 to the selected IPC</p>
 <p>
 If your household have claimed or yet to claim your CDC Vouchers but wish to donate, you will be able to pledge the donation of your balance CDC Vouchers to your preferred IPC via FormSG.</p>
 		</div>
