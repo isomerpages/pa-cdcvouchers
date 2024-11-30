@@ -24,7 +24,7 @@ sections:
       description: Alternatively, donate your unused vouchers to participating
         charities from 1 December 2024 to 31 January 2025.
       button: Donate your cdc vouchers 2024
-      url: /donate-closed/
+      url: /donate/
   - textcards:
       title: About CDC Vouchers Scheme 2024
       id: textcards
