@@ -19,11 +19,12 @@ sections:
       variant: center
   - infobar:
       title: Spend your CDC Vouchers (January & June) by 31 December 2024
-      subtitle: CDC Vouchers 2024
+      subtitle: latest news
       id: infobar
       description: Alternatively, donate your unused vouchers to participating
-        charities from 1 December 2024 to 31 January 2025. Stay tuned for more
-        information on this page.
+        charities from 1 December 2024 to 31 January 2025.
+      button: Donate your cdc vouchers 2024
+      url: /donate/
   - textcards:
       title: About CDC Vouchers Scheme 2024
       id: textcards
