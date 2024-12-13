@@ -17,6 +17,13 @@ sections:
           url: /merchants/info/
       background: /images/Banner.png
       variant: center
+  - infopic:
+      title: Infopic
+      subtitle: About CDC Vouchers Scheme 2025
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Spend your CDC Vouchers (January & June) by 31 December 2024
       subtitle: latest news
