@@ -18,56 +18,31 @@ sections:
       background: /images/Banner.png
       variant: center
   - infopic:
-      title: Infopic
-      subtitle: About CDC Vouchers Scheme 2025
+      title: About CDC Vouchers Scheme 2025
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: $300 CDC Vouchers 2025 for every Singaporean household to help with
+        daily expenses
+      button: Find out more
       alt: Image alt text
-  - infobar:
-      title: Spend your CDC Vouchers (January & June) by 31 December 2024
-      subtitle: latest news
-      id: infobar
-      description: Alternatively, donate your unused vouchers to participating
-        charities from 1 December 2024 to 31 January 2025.
-      button: Donate your cdc vouchers 2024
-      url: /donate/
-  - textcards:
-      title: About CDC Vouchers Scheme 2024
-      id: textcards
-      cards:
-        - title: CDC Vouchers Scheme 2024 (January)
-          description: From 3 January 2024, Singaporean households could claim $500 CDC
-            Vouchers 2024
-          linktext: Find out more
-          url: /about/history/jan2024/
-        - title: CDC Vouchers Scheme 2024 (June)
-          description: From 25 Jun 2024, Singaporean households could claim $300 more in
-            CDC Vouchers
-          linktext: Find out more
-          url: /about/
-      description: CDC Vouchers 2024 (January) and CDC Vouchers 2024 (June) expire on
-        31 December 2024.
+      url: /about
   - infopic:
-      title: Claim your CDC Vouchers 2024
+      title: Claim your CDC Vouchers 2025 (January)
       subtitle: Residents
       description: Similar to previous tranches, there is no need to download a mobile
-        app. Claim your digital CDC Vouchers 2024 (June) or CDC Vouchers 2024
-        (January) easily.
+        app. Claim your digital CDC Vouchers 2025 (January) easily.
       button: Claim now
       url: https://go.gov.sg/cdcv
       image: /images/Banner_with_words.png
       alt: Image alt text
   - infopic:
-      title: Where to spend your $300 CDC Vouchers 2024 (June)?
+      title: Where to spend your $300 CDC Vouchers 2025 (January)?
       subtitle: Residents
-      description: Spend $150 CDC Vouchers 2024 (June) at participating
-        hawkers/heartland merchants, and the other $150 at participating
-        supermarkets.
+      description: Spend $150 CDC Vouchers 2025 at participating hawkers/heartland
+        merchants, and the other $150 at participating supermarkets.
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
       alt: Image alt text
-      image: /images/voucher_icon.png
+      image: /images/voucher_icon_2025.png
   - textcards:
       title: Have Questions?
       id: textcards
