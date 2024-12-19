@@ -33,7 +33,7 @@ sections:
         app. Claim your digital CDC Vouchers 2025 (January) easily.
       button: Claim now
       url: https://go.gov.sg/cdcv
-      image: /images/Banner_with_words.png
+      image: /images/Main_banner_with_words.png
       alt: Image alt text
   - infopic:
       title: Where to spend your $300 CDC Vouchers 2025 (January)?
