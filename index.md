@@ -15,7 +15,7 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-      background: /images/Banner.png
+      background: /images/Main_banner.png
       variant: center
   - infopic:
       title: About CDC Vouchers Scheme 2025
