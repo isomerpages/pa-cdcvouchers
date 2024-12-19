@@ -25,6 +25,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /about
+      image: /images/CDCV_Identifer_and_SG60.png
   - infopic:
       title: Claim your CDC Vouchers 2025 (January)
       subtitle: Residents
