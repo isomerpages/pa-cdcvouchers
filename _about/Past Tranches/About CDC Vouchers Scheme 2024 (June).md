@@ -18,10 +18,8 @@ $300 CDC vouchers. &nbsp;The process for claiming and spending the vouchers
 remains the same.</p>
 <p>Both CDC Vouchers Scheme (June) and CDC Vouchers Scheme (January) are
 valid till 31 December 2024<strong>.</strong>
-</p>
-<p><a href="/residents/info" rel="noopener noreferrer nofollow" target="_blank">Learn</a> how
-you can claim your CDC Vouchers 2024 (June).</p>
-<p><strong>Brought to you by:</strong>
+
+</p><p><strong>Brought to you by:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Brought to you by" src="/images/brought-by.png">
