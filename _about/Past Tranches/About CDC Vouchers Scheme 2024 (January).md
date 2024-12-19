@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Past Tranches
 ---
+<p><em>Note: CDC Vouchers 2024 expired on 31 December 2024.</em>
+</p>
 <p>As part of the Government’s continuing efforts to help Singaporean households
 cope with daily expenses, Deputy Prime Minister and Finance Minister Mr
 Lawrence Wong announced that the Community Development Councils (CDCs)
@@ -15,8 +17,7 @@ as well as the $1.1 billion Cost-of-Living Package in September 2023.</p>
 equally ($250 each) to be spent at participating heartland merchants and
 hawkers, or at participating supermarkets. Singaporean Households have
 until 31 December 2024 to claim and spend their CDC Vouchers 2024.</p>
-<p><a href="/residents/info" rel="noopener noreferrer nofollow" target="_blank">Learn</a> how
-you can claim your CDC Vouchers 2024 (January).</p>
+<p></p>
 <p><strong>Brought to you by:</strong>
 </p>
 <div class="isomer-image-wrapper">
