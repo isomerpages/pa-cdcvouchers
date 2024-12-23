@@ -44,23 +44,24 @@ a.bp-button {
 
 1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv) and tap on CDC Vouchers 2025 (January).
 
-<img src="/images/eng_step_1.png" alt="Step 1" style="width:300px !important;">
+<img src="/images/EN_1.png" alt="Step 1" style="width:300px !important;">
+
 
 2: **Log in with Singpass.** Only one household member needs to do this on behalf of the household.
 
-<img src="/images/eng_step_2.png" alt="Step 1" style="width:300px !important;">
+<img src="/images/EN_2.png" alt="Step 1" style="width:300px !important;">
 
 
 3: **Receive your CDC Voucher link by SMS from  “gov.sg”.** Forward the SMS to share with household members.  
 
-<img src="/images/eng_step_3.png" alt="Step 2" style="width:300px !important;">
+<img src="/images/EN_3.png" alt="Step 2" style="width:300px !important;">
 
 
 ## How to spend your CDC Vouchers 2025 (January)
 
 1: **Select which CDC Vouchers you want to use.** 
 
-<img src="/images/eng_step_6.png" alt="Step 1" style="width:600px !important;">
+<img src="/images/EN_5.png" alt="Step 1" style="width:600px !important;">
 
 
 2: **Choose the amount to spend.** Then tap 'Show voucher'.
