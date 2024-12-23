@@ -34,23 +34,23 @@ a.bp-button {
 
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
-1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Tekan pada Baucar CDC 2024 (Jun). 
+1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Tekan pada Baucar CDC 2025 (January). 
 
-<img src="/images/mal_step_1.png" alt="Step 1" style="width:300px !important;">
+<img src="/images/ML_1.png" alt="Step 1" style="width:300px !important;">
 
 
 2: **Log masuk menggunakan Singpass.** Hanya seorang sahaja ahli keluarga anda yang perlu tuntut bagi pihak keluarga.
 
-<img src="/images/mal_step_2.png" alt="Step 2" style="width:300px !important;">
+<img src="/images/ML_2.png" alt="Step 2" style="width:300px !important;">
 
-3: **Dapatkan pautan Baucar CDC anda daripada RedeemSG/gov.sg.** Hantarkan SMS untuk kongsi bersama  anggota isi rumah.
+3: **Dapatkan pautan Baucar CDC anda daripada gov.sg.** Hantarkan SMS untuk kongsi bersama  anggota isi rumah.
 
-<img src="/images/mal_step_3.png" alt="Step 3" style="width:300px !important;">
+<img src="/images/ML_3.png" alt="Step 3" style="width:300px !important;">
 
 ## Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda
 
 1: **Pilih baucar yang anda mahu gunakan** 
-<img src="/images/mal_step_6.png" alt="Step 4" style="width:600px !important;">
+<img src="/images/ML_5.png" alt="Step 4" style="width:600px !important;">
 
 2: **Pilih jumlah untuk diggunakan. Kemudian tekan 'Tunjuk baucar'** 
 <img src="/images/mal_step_4.png" alt="Step 4" style="width:300px !important;">
@@ -59,7 +59,7 @@ a.bp-button {
 <img src="/images/mal_step_5.png" alt="Step 4" style="width:300px !important;">
 
 
-Gunakan baucar anda selawat-lewatnya 31 Disember 2024.
+Gunakan baucar anda selawat-lewatnya 31 Disember 2025.
 
 Jika anda tidak mempunyai telefon bijak atau Singpass, dan untuk pertanyaan dan bantuan selanjutnya, kunjungi Balai Rakyat/Kelab Masyarakat terdekat anda dari 10 pagi hingga 6 petang (kecuali pada cuti umum).
 
