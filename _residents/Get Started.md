@@ -8,15 +8,15 @@ variant: markdown
 ---
 <span id="cdcv_page_top"></span>
 
-[![Cover banner cdcv2024](/images/Banner_with_words.png)](https://go.gov.sg/cdcv)
+![](/images/Main_banner_with_words.png)
 
 
-Every Singaporean household will receive $300 CDC Vouchers in June 2024. &nbsp;This is in addition to the $500 CDC Vouchers given on 3 January 2024. &nbsp;Therefore, all Singaporean households will receive a total of $800 CDC Vouchers in 2024.
+Every Singaporean household will receive $300 CDC Vouchers in January 2025. 
 
-The CDC Vouchers Scheme 2024 (June) is part of the enhancements to the Assurance Package announced by then Deputy Prime Minister and Minister for Finance Lawrence Wong at Budget 2024. &nbsp;The package provides more immediate support for Singaporean households and helps defray daily expenses.
+The CDC Vouchers Scheme 2025 (January) is part of the enhancements to the Assurance Package announced by then Deputy Prime Minister and Minister for Finance Lawrence Wong at Budget 2024. &nbsp;The package provides more immediate support for Singaporean households and helps defray daily expenses.
 
-The process for claiming and spending the vouchers remains the same. Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2024 (June), and login with Singpass to claim the vouchers.  <br>    
- Singaporean households that have yet to claim their January vouchers can continue to do so via the same website at <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>. Both sets of CDC Vouchers 2024 are valid till 31 December 2024. 
+The process for claiming and spending the vouchers remains the same. Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2025 (January), and login with Singpass to claim the vouchers.  <br>    
+The vouchers are valid till 31 December 2025. 
 
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
