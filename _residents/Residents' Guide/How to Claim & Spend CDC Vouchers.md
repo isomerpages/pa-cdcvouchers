@@ -40,9 +40,9 @@ a.bp-button {
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/JubHIafIFw8?si=fw0pK2y8sOpSU--E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
-## How to claim your CDC Vouchers 2024 (June)
+## How to claim your CDC Vouchers 2025 (January)
 
-1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv) and tap on CDC Vouchers 2024 (June)**.<br> Singaporean households that have yet to claim their CDC Vouchers 2024 (January) can still login to [go.gov.sg/cdcv](http://go.gov.sg/cdcv) with their Singpass to claim their January vouchers.
+1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv) and tap on CDC Vouchers 2025 (January).
 
 <img src="/images/eng_step_1.png" alt="Step 1" style="width:300px !important;">
 
@@ -51,12 +51,12 @@ a.bp-button {
 <img src="/images/eng_step_2.png" alt="Step 1" style="width:300px !important;">
 
 
-3: **Receive your CDC Voucher link by SMS from “RedeemSG” (before 1 July) or “gov.sg” (from 1 July onwards).** Forward the SMS to share with household members.  
+3: **Receive your CDC Voucher link by SMS from  “gov.sg”.** Forward the SMS to share with household members.  
 
 <img src="/images/eng_step_3.png" alt="Step 2" style="width:300px !important;">
 
 
-## How to spend your CDC Vouchers 2024 (June)
+## How to spend your CDC Vouchers 2025 (January)
 
 1: **Select which CDC Vouchers you want to use.** 
 
