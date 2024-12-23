@@ -26,11 +26,11 @@ The vouchers are valid till 31 December 2025.
 </tr>
 	<tr>
 <td><img src="/images/CDCV2023/heartland%20voucher%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"></td>
-<td style="vertical-align: middle;"><p><strong>$150 CDC Vouchers 2024 (June) to spend at participating heartland merchants and hawkers</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>$150 CDC Vouchers 2025 to spend at participating heartland merchants and hawkers</strong></p></td>
 </tr>
 <tr>
 <td><img src="/images/CDCV2023/supermarket%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"></td>
-<td style="vertical-align: middle;"><p><strong>$150 CDC Vouchers 2024 (June) to spend at participating supermarkets</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>$150 CDC Vouchers 2025 to spend at participating supermarkets</strong></p></td>
 </tr>
 	<tr>
 <td><img src="/images/CDCV2023/expiry%20icon.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"></td>
