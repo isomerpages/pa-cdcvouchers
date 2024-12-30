@@ -14,11 +14,8 @@ variant: markdown
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2025 (January)?</span></label>
     <div>
-			Every Singaporean household will receive $300 CDC Vouchers in January 2025. The CDC Vouchers Scheme 2025 (January) is part of the enhancements to the Assurance Package announced by then Deputy Prime Minister and Minister for Finance Lawrence Wong at Budget 2024. The package provides more immediate support for Singaporean households and helps defray daily expenses.
-<br><br>
-Starting 3 January 2025, you can visit go.gov.sg/cdcv to claim the $300 CDC vouchers. The process for claiming and spending the vouchers remains the same.
-
-The CDC Vouchers Scheme 2025 (January) are valid till 31 December 2025.<br>
+			From 3 January 2025, each Singaporean household can claim an additional $300 in CDC Vouchers 2025 digitally at go.gov.sg/cdcv. The CDC Vouchers Scheme 2025 (Jan) is part of the $1.9 billion enhancement to the Assurance Package announced by then Deputy Prime Minister and Finance Minister Mr Lawrence Wong during Budget 2024. The package aims to provide more immediate support for Singaporean households and help defray daily expenses.<br><br>
+The value of the vouchers will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean households have until 31 December 2025 to claim and spend their CDC Vouchers 2025.
 			</div>
 	</li>  
   <li>
