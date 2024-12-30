@@ -17,6 +17,7 @@ sections:
           url: /merchants/info/
       background: /images/Main_banner_wo_words.png
       variant: center
+      title: More Support for Your Everyday Needs
   - infopic:
       title: About CDC Vouchers Scheme 2025 (January)
       id: infopic
