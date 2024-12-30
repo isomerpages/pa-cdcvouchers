@@ -18,7 +18,7 @@ sections:
       background: /images/Main_banner_with_words.png
       variant: center
   - infopic:
-      title: About CDC Vouchers Scheme 2025
+      title: About CDC Vouchers Scheme 2025 (January)
       id: infopic
       description: $300 CDC Vouchers 2025 for every Singaporean household to help with
         daily expenses
