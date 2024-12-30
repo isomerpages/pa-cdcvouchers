@@ -17,6 +17,8 @@ sections:
           url: /merchants/info/
       background: /images/Main_banner.png
       variant: image
+      button: CLAIM YOUR $300 CDC VOUCHERS 2025 (JANUARY)
+      url: https://go.gov.sg/cdcv
   - infopic:
       title: About CDC Vouchers Scheme 2025 (January)
       id: infopic
