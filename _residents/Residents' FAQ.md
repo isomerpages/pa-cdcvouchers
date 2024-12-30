@@ -163,7 +163,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
       <p>When you sign up for your vouchers, a One Time Password (OTP) will be sent to the mobile number you have keyed in for verification. If you had keyed in the wrong mobile number, you will not receive the One Time Password and you can return to the previous page to key in your mobile number again. </p> 
 			<p>Vouchers will only be sent after you have verified your mobile number, which helps to ensure vouchers will not be sent to the wrong mobile number. </p>
-<p><img src="/images/eng_step_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
+<p><img src="/images/EN_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
 	</p>
 <p>One Time Password will be sent to your registered mobile number.
 	</p>
@@ -177,7 +177,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I verify that the SMS link I received is a legitimate link?</span></label>
     <div>
       <p>The SMS is identifiable by the sender named “gov.sg”.  Please also check that your unique voucher link  starts with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
-		<p><img src="/images/eng_step_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
+		<p><img src="/images/EN_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
 	</p>
 <p>A typical SMS from gov.sg will look like the screenshot above. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
     </div>
