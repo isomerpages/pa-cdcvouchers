@@ -16,7 +16,7 @@ sections:
           description: Click here for next steps
           url: /merchants/info/
       background: /images/Main_banner.png
-      variant: center
+      variant: image
   - infopic:
       title: About CDC Vouchers Scheme 2025 (January)
       id: infopic
