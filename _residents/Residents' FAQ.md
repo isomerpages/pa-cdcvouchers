@@ -70,7 +70,7 @@ For the CDC Vouchers to be used at supermarkets, the larger denominations of $10
 	</td>
 </tr>
 		<tr>
-<td>Click on "Share" to share the voucher link with family members</td>
+<td>Click on "Share vouchers" to share the voucher link with family members</td>
 <td>Illustration of voucher link shared via Whatsapp</td>
 </tr>
 </tbody>
