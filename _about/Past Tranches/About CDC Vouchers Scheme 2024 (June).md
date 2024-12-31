@@ -5,10 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Past Tranches
 ---
-_Note: CDC Vouchers 2024 expired on 31 December 2024._<p>Every Singaporean household will receive <strong><u>$300 CDC Vouchers in June 2024</u></strong>.
+_Note: CDC Vouchers 2024 expired on 31 December 2024._
+<br>Every Singaporean household will receive <strong><u>$300 CDC Vouchers in June 2024</u></strong>.
 This is in addition to the $500 CDC Vouchers given on 3 January 2024. Therefore,
 all Singaporean households will receive a total of $800 CDC Vouchers this
-year.</p>
+year.<p></p>
 <p>The CDC Vouchers Scheme 2024 (June) is part of the enhancements to the
 Assurance Package announced by then Deputy Prime Minister and Minister
 for Finance Lawrence Wong at Budget 2024. &nbsp;The package provides more
