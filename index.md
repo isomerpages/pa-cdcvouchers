@@ -15,7 +15,7 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-      background: /images/Main_banner.png
+      background: /images/PACDC_mobile_web_ver_31_dec___cropped.jpg
       variant: image
       button: CLAIM YOUR $300 CDC VOUCHERS 2025 (JANUARY)
       url: https://go.gov.sg/cdcv
