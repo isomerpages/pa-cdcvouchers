@@ -197,6 +197,18 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
 			</p>
 		    </div>
   </li>
+		<li>
+    <input type="checkbox" id="accordion30">
+    <label for="accordion30"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What should I do if there are names of unknown or past occupants in my notification letter. Can you remove them?</span></label>
+    <div>
+			<p>Your notification letter contained individuals who are not from your household because the previous owner/occupants did not update their address with the authorities after they have moved out.  Please report this incident to the ICA at https://go.gov.sg/failuretochangeaddress and the police. Under the Regulation 11A of the National Registration Act, all IC holders need to report a change of address within 28 days of moving into a new residence, whether the residence is located in or outside of Singapore.
+ 
+If you experienced difficulty in claiming your $300 CDC Vouchers 2025 online due to a claim made by the previous and/or unknown addressee, you can bring along your NRIC (showing your current address), CDC Vouchers Scheme notification letter and official documents (showing your name and current address) e.g. utilities bill, property tax to the nearest Community Centre/Club (CC) to apply for the CDC Vouchers 2025 (January) before 15 December 2025.  Our colleagues will assist you further. 
+ 
+You may also wish to update the Immigrations and Checkpoint Authority (ICA) on the previous / unknown addressee indicated in your notification letter by writing to ICA at ICA_IC_Unit@ica.gov.sg
+				</p>
+					    </div>
+  </li>
 	<li>
     <input type="checkbox" id="accordion17">
     <label for="accordion17"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I do not have a mobile phone or digital device. What should I do?</span></label>
