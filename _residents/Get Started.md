@@ -110,21 +110,10 @@ ________
 
 * Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form for CDC Vouchers 2025 (January)](/files/Voucher_Claim_Authorisation_Letter_2025.pdf) and necessary supporting documents (specified in the authorisation form) to the CC.
 *  For further enquiries, please contact our hotline at <a href="tel:6225 5322">6225 5322</a> from 8am to 6pm daily, except on public holidays; or write to us using this <a href="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
-If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. 
+If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. <br>
+Monday to Sunday: 8am - 6pm<br>
+New Year's Eve, Chinese New Year's Eve, and Christmas Eve: 8am - 1pm<br>
+Public Holidays: Closed
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-	<td><p style="width:260px !important;">Monday to Sunday</p></td>
-	<td><p>8am - 6pm</p></td>
-</tr>
-	<tr><td><p style="width:260px !important;">New Year's Eve, Chinese New Year's Eve, and Christmas Eve</p></td>
-	<td><p>8am - 1pm</p></td>
-	</tr><tr>
-	<td><p style="width:260px !important;">Public Holidays</p></td>
-	<td><p>Closed</p></td>
-</tr>
-</tbody>
-</table>
 
 [Back to Top](#cdcv_page_top)
