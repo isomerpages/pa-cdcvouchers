@@ -316,7 +316,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion26">
     <label for="accordion26"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Any restricted items that the vouchers cannot be used for?</span></label>
     <div>
-			<p>As per our Terms and Conditions available <a href="https://vouchers.cdc.gov.sg/about/terms-and-conditions/"><strong>here</strong></a>, the vouchers are <strong>not valid</strong> for purchase of:
+			<p>As per our Terms and Conditions available <a href="https://vouchers.cdc.gov.sg/about/terms-and-conditions/"><strong>here</strong></a>, the vouchers are <strong>not valid</strong> for purchase of:<br>
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lottery products<br>
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Petrol<br>
