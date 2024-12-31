@@ -193,7 +193,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>If someone else has claimed the vouchers, the page will display the name of the family member who has claimed the vouchers on behalf of the household after you have completed the login with Singpass. You may wish to check with that household member.
 				</p>
-			<p>Should the individual belong to another household staying at the same address, please visit your nearest CC to apply for the CDC Vouchers. Please bring along the following supporting documents: your NRIC, and any one of the relevant documents to show proof of household (e.g proof of previous overseas employment / proof of overseas address / tenancy agreement / proof of new resident e.g. taking/handing over keys)
+			<p>Should the individual belong to another household staying at the same address, please visit your nearest CC to apply for the CDC Vouchers 025 (January) before 15 December 2025. Please bring along the following supporting documents: your NRIC, and any one of the relevant documents to show proof of household (e.g proof of previous overseas employment / proof of overseas address / tenancy agreement / proof of new resident e.g. taking/handing over keys)
 			</p>
 		    </div>
   </li>
