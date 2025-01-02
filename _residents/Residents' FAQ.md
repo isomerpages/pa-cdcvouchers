@@ -205,7 +205,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
  
 If you experienced difficulty in claiming your $300 CDC Vouchers 2025 online due to a claim made by the previous and/or unknown addressee, you can bring along your NRIC (showing your current address), CDC Vouchers Scheme notification letter and official documents (showing your name and current address) e.g. utilities bill, property tax to the nearest Community Centre/Club (CC) to apply for the CDC Vouchers 2025 (January) before 15 December 2025.  Our colleagues will assist you further. <br>
  
-You may also wish to update the Immigrations and Checkpoint Authority (ICA) on the previous / unknown addressee indicated in your notification letter by writing to ICA at ICA_IC_Unit@ica.gov.sg
+You may also wish to update the Immigrations and Checkpoint Authority (ICA) on the previous / unknown addressee indicated in your notification letter by writing to ICA at ICA_IC_Unit@ica.gov.sg.
 				</p>
 					    </div>
   </li>
