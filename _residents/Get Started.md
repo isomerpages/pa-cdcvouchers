@@ -59,7 +59,7 @@ The vouchers are valid till 31 December 2025.
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/JubHIafIFw8?si=fw0pK2y8sOpSU--E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/eyGoiVYOBOk?si=kW9BOFz9melJBUeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 Our step-by-step guide and video are available in the following languages:
