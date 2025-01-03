@@ -12,17 +12,17 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2024 (June)? How does it differ from CDC Vouchers Scheme 2024 (January)?</span></label>
+    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2025 (January)?</span></label>
     <div>
-								<br><u>CDC Vouchers Scheme 2024 (June)</u><br>
-			From 25 June 2024, each Singaporean household can claim an additional $300 in CDC Vouchers 2024 (June) digitally at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>. This is on top of the $500 worth of CDC Vouchers distributed in January 2024. <br><br>The CDC Vouchers Scheme 2024 (June) is part of the $1.9 billion enhancement to the Assurance Package announced by then Deputy Prime Minister and Finance Minister Mr Lawrence Wong during Budget 2024. The package aims to provide more immediate support for Singaporean households and help defray daily expenses. <br><br>The value of the $300 CDC Vouchers 2024 (June) will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. une). <br><br><u>CDC Vouchers Scheme 2024 (January)</u><br> From 3 January 2024, each Singaporean household can claim $500 in CDC Vouchers 2024 digitally at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>. These vouchers are part of the Government’s continuing efforts to help Singaporean households cope with daily expenses. <br><br>The vouchers were announced by Deputy Prime Minister and Finance Minister Mr Lawrence Wong as part of Budget 2022, Budget 2023, and the $1.1 billion Cost-of-Living Package in September 2023. The value of the $500 CDC Vouchers 2024 (January) will be allocated equally (i.e., $250 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2024 to claim and spend their CDC Vouchers 2024 (January).<br>
+			From 3 January 2025, each Singaporean household can claim an additional $300 in CDC Vouchers 2025 digitally at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>. The CDC Vouchers Scheme 2025 (Jan) is part of the $1.9 billion enhancement to the Assurance Package announced by then Deputy Prime Minister and Finance Minister Mr Lawrence Wong during Budget 2024. The package aims to provide more immediate support for Singaporean households and help defray daily expenses.<br><br>
+The value of the vouchers will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean households have until 31 December 2025 to claim and spend their CDC Vouchers 2025.
 			</div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Who is eligible for the CDC Vouchers Scheme?</span></label>
     <div>
-      <p>Each Singaporean household will be able to claim $300 worth of CDC Vouchers 2024 (June) via the website <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>. This is on top of the $500 worth of CDC Vouchers distributed in January 2024.
+      <p>Each Singaporean household will be able to claim $300 worth of CDC Vouchers 2025 (January) via the website <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>.
 			</p>
     </div>
   </li>
@@ -64,13 +64,13 @@ For the CDC Vouchers to be used at supermarkets, the larger denominations of $10
 <tbody>
 <tr>
 <td>
-	<img src="/images/share_vouchers.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;"></td>
+	<img src="/images/share_vouchers_2025.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;"></td>
 <td>
 	<img src="/images/residents/faq5b2.png" alt="Illustration of voucher link shared via Whatsapp" style="width:300px !important;">	
 	</td>
 </tr>
 		<tr>
-<td>Click on "Share" to share the voucher link with family members</td>
+<td>Click on "Share vouchers" to share the voucher link with family members</td>
 <td>Illustration of voucher link shared via Whatsapp</td>
 </tr>
 </tbody>
@@ -91,15 +91,15 @@ b) Digitally less-savvy residents would be excluded from the scheme if they do n
 c) We have also found through previous trials with residents that selecting the exact amount to be spent (as in an e-wallet model) was confusing for some residents and error prone.
 			</p>
 			<p>
-To ensure that the digital system caters to both digitally savvy and  less-savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper voucher is used -- i.e., residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers. 
+To ensure that the digital system caters to both digitally savvy and less-savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper voucher is used -- i.e., residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers. 
  			</p>
 	</div>
   </li>
 <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the voucher claiming and expiry date for CDC Vouchers 2024? </span></label>
+    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the voucher claiming and expiry date for CDC Vouchers 2025 (January)? </span></label>
     <div>
- 			<p>       The CDC Vouchers 2024 (June) can be claimed digitally at go.gov.sg/cdcv from 25 June 2024. Singaporean households who have yet to claim their CDC Vouchers 2024 (January) can do so via the same website at go.gov.sg/cdcv. Both sets of vouchers expire on 31 December 2024. </p>
+ 			<p>       The CDC Vouchers 2025 (January) can be claimed digitally at go.gov.sg/cdcv from 3 January 2025. The vouchers expire on 31 December 2025. </p>
 	</div>
   </li>
 </ul>
@@ -111,16 +111,16 @@ To ensure that the digital system caters to both digitally savvy and  less-savvy
 <ul class="jekyllcodex_accordion">
 			<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I claim or retrieve my household's CDC Vouchers 2024 (June)? Do I need to re-claim the vouchers if I have already claimed my January 2024 CDC Vouchers?</span></label>
+    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I claim or retrieve my household's CDC Vouchers 2025 (January)?Do I need to re-claim the vouchers if I have already claimed my 2024 CDC Vouchers?</span></label>
     <div>
 			<p>Yes. Claiming process remains the same as past tranches of CDC Vouchers.  Only one member representing the household needs to make the claim digitally via Singpass at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>.</p>
 			<p>
-1) Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2024 (June) and login with Singpass to claim your June 2024 vouchers. If you have not already claimed your CDC Vouchers 2024 (January), you may do so via the same link. </p>
+1) Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2025 (January) and login with Singpass to claim your vouchers. </p>
 			<p>
 2) You may also use <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> to retrieve your previous voucher link by logging in to Singpass again.
 			</p>
 			<p>
-3) The voucher link will be sent via SMS from RedeemSG (before 1 July) or gov.sg (from 1 July onwards), that will contain both the CDC Vouchers for using at participating heartland merchants and hawkers, and at participating supermarkets. Please note that this voucher link will differ from all previous rounds of CDC Vouchers, including the CDC Vouchers 2024 (January). The CDC Vouchers 2024 (June) and CDC Vouchers 2024 (January) can be used till 31 December 2024.  You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> or the notification letter on how to claim and spend the $500 CDC Vouchers. </p>
+3) The voucher link will be sent via SMS from gov.sg, and will contain both the CDC Vouchers for using at participating heartland merchants and hawkers, and at participating supermarkets. Please note that this voucher link will differ from all previous rounds of CDC Vouchers. The CDC Vouchers 2025 can be used till 31 December 2025.  You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step guide</a> or the notification letter on how to claim and spend the $300 CDC Vouchers. </p>
     </div>
   </li>
 				<li>
@@ -129,7 +129,7 @@ To ensure that the digital system caters to both digitally savvy and  less-savvy
     <div>
 			<p>You will require a valid Singpass account and smartphone to login and claim your vouchers.  Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household.</p> 
 <p>
-Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> on how to claim your household’s June 2024 CDC vouchers or the notification letter.
+Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> on how to claim your household’s 2025 CDC vouchers or the notification letter.
 			</p>			
     </div>
   </li>
@@ -142,17 +142,17 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">If I have already claimed my CDC Vouchers from the previous tranche (January 2024), do I need to claim the CDC Vouchers 2024?</span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">If I have already claimed my CDC Vouchers from the previous tranche (January or June 2024), do I need to claim the CDC Vouchers 2025?</span></label>
     <div>
-			<p>Yes, the CDC Vouchers Scheme 2024 (June) is a new tranche. Both vouchers from the previous CDCV 2024 (January) and current CDCV 2024 (June) tranche will expire on 31 December 2024.</p>
-			<p>Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2024, and login with Singpass to claim your vouchers.</p>
+			<p>Yes, the CDC Vouchers Scheme 2025 (January) is a new tranche. Both vouchers from the previous CDCV 2024 (January) and CDCV 2024 (June) tranche have expired on 31 December 2024.</p>
+			<p>Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2025 (January), and login with Singpass to claim your vouchers.</p>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion12">
     <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
     <div>
-      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed <a href="/files/Voucher_Claim_Authorisation_Letter_for_2024__January_.pdf"> Authorisation Form for CDC Vouchers Scheme 2024 (January)</a> or <a href="/files/Voucher_Claim_Authorisation_Letter_for_2024__June_.pdf"> Authorisation Form for CDC Vouchers Scheme 2024 (June)</a> and necessary supporting documents (specified in the authorisation form) to the CC. </p></div>
+      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed  <a href="/files/Voucher_Claim_Authorisation_Letter_2025.pdf"> Authorisation Form for CDC Vouchers Scheme 2025 (January)</a> and necessary supporting documents (specified in the authorisation form) to the CC. </p></div>
 	</li>  
 <li>
     <input type="checkbox" id="accordion13">
@@ -160,7 +160,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
       <p>When you sign up for your vouchers, a One Time Password (OTP) will be sent to the mobile number you have keyed in for verification. If you had keyed in the wrong mobile number, you will not receive the One Time Password and you can return to the previous page to key in your mobile number again. </p> 
 			<p>Vouchers will only be sent after you have verified your mobile number, which helps to ensure vouchers will not be sent to the wrong mobile number. </p>
-<p><img src="/images/eng_step_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
+<p><img src="/images/EN_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
 	</p>
 <p>One Time Password will be sent to your registered mobile number.
 	</p>
@@ -173,17 +173,17 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion14">
     <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I verify that the SMS link I received is a legitimate link?</span></label>
     <div>
-      <p>The SMS is identifiable by the sender named "RedeemSG” (before 1 July) or “gov.sg” (from 1 July onwards).  Please also check that your unique voucher link  starts with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
-		<p><img src="/images/eng_step_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
+      <p>The SMS is identifiable by the sender named “gov.sg”.  Please also check that your unique voucher link  starts with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
+		<p><img src="/images/EN_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
 	</p>
-<p>A typical SMS from RedeemSG or gov.sg will look like the screenshot above. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
+<p>A typical SMS from gov.sg will look like the screenshot above. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
     </div>
 	</li> 
 		<li>
     <input type="checkbox" id="accordion15">
     <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens if I accidentally delete the SMS? Can I retrieve the SMS?</span></label>
     <div>
-			<p>To retrieve the voucher link for CDC Vouchers 2024, please visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the voucher link sent to you via SMS. 
+			<p>To retrieve the voucher link for CDC Vouchers 2025, please visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> and login with Singpass again. You will be able to get the voucher link sent to you via SMS. 
 			</p>
     </div>
   </li>
@@ -193,9 +193,21 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <div>
 			<p>If someone else has claimed the vouchers, the page will display the name of the family member who has claimed the vouchers on behalf of the household after you have completed the login with Singpass. You may wish to check with that household member.
 				</p>
-			<p>Should the individual belong to another household staying at the same address, please visit your nearest CC to apply for the CDC Vouchers. Please bring along the following supporting documents: your NRIC, and any one of the relevant documents to show proof of household (e.g proof of previous overseas employment / proof of overseas address / tenancy agreement / proof of new resident e.g. taking/handing over keys)
+			<p>Should the individual belong to another household staying at the same address, please visit your nearest CC to apply for the CDC Vouchers 2025 (January) before 15 December 2025. Please bring along the following supporting documents: your NRIC, and any one of the relevant documents to show proof of household (e.g proof of previous overseas employment / proof of overseas address / tenancy agreement / proof of new resident e.g. taking/handing over keys)
 			</p>
 		    </div>
+  </li>
+		<li>
+    <input type="checkbox" id="accordion30">
+    <label for="accordion30"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What should I do if there are names of unknown or past occupants in my notification letter. Can you remove them?</span></label>
+    <div>
+			<p>Your notification letter contained individuals who are not from your household because the previous owner/occupants did not update their address with the authorities after they have moved out.  Please report this incident to the ICA at <a href="https://go.gov.sg/failuretochangeaddress"><strong>https://go.gov.sg/failuretochangeaddress</strong></a> and the police. Under the Regulation 11A of the National Registration Act, all IC holders need to report a change of address within 28 days of moving into a new residence, whether the residence is located in or outside of Singapore.<br><br>
+ 
+If you experienced difficulty in claiming your $300 CDC Vouchers 2025 online due to a claim made by the previous and/or unknown addressee, you can bring along your NRIC (showing your current address), CDC Vouchers Scheme notification letter and official documents (showing your name and current address) e.g. utilities bill, property tax to the nearest Community Centre/Club (CC) to apply for the CDC Vouchers 2025 (January) before 15 December 2025.  Our colleagues will assist you further. <br><br>
+ 
+You may also wish to update the Immigrations and Checkpoint Authority (ICA) on the previous / unknown addressee indicated in your notification letter by writing to ICA at ICA_IC_Unit@ica.gov.sg.
+				</p>
+					    </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion17">
@@ -297,7 +309,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion24">
     <label for="accordion24"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I find out how much value is left for my CDC vouchers?</span></label>
     <div>
-			<p>You may access your voucher link found in the SMS sent by       RedeemSG or gov.sg to find out the remaining balance of your CDC Vouchers. The value is shown on the respective tabs.
+			<p>You may access your voucher link found in the SMS sent by gov.sg to find out the remaining balance of your CDC Vouchers. The value is shown on the respective tabs.
 			</p>
 						<p>				
 				<img src="/images/EN_4.png" alt="Screenshot of Remaining Value" style="width:300px !important;">
@@ -316,7 +328,7 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
     <input type="checkbox" id="accordion26">
     <label for="accordion26"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Any restricted items that the vouchers cannot be used for?</span></label>
     <div>
-			<p>As per our Terms and Conditions available <a href="https://vouchers.cdc.gov.sg/about/terms-and-conditions/"><strong>here</strong></a>, the vouchers are <strong>not valid</strong> for purchase of:
+			<p>As per our Terms and Conditions available <a href="https://vouchers.cdc.gov.sg/about/terms-and-conditions/"><strong>here</strong></a>, the vouchers are <strong>not valid</strong> for purchase of:<br>
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lottery products<br>
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Petrol<br>
@@ -328,12 +340,11 @@ Please refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step 
   </li>
 <li>
     <input type="checkbox" id="accordion27">
-    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">         Previously the CDCs provided an option for residents to donate their CDC Vouchers 2023. Similarly, can I donate my 2024 vouchers for a good cause?</span></label>
+    <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">         Previously the CDCs provided an option for residents to donate their CDC Vouchers 2024. Similarly, can I donate my 2025 vouchers for a good cause?</span></label>
     <div>
 			<p>
-				From 1 December 2024 to 31 January 2025, residents will be able to donate their unused CDC Vouchers 2024 (January) and CDC Vouchers 2024 (June) to participating charities <a href="https://vouchers.cdc.gov.sg/donate/"><strong>here. </strong></a> 
-
-The CDC Vouchers 2024 will expire on 31 December 2024 and all Singaporean households are encouraged to utilise their vouchers within the validity period. 
+				The CDC Vouchers 2024 have expired on 31 December 2024. However, residents will still be able to donate their unused CDC Vouchers 2024 (January) and CDC Vouchers 2024 (June) to participating charities <a href="https://vouchers.cdc.gov.sg/donate/"><strong>here until 31 January 2025. </strong></a> <br><br>
+For CDC Vouchers 2025, the details of donation will be announced at a later date. We encourage all households to claim and spend their CDC Vouchers 2025.
 </p>
     </div>
   </li>
@@ -341,7 +352,7 @@ The CDC Vouchers 2024 will expire on 31 December 2024 and all Singaporean househ
     <input type="checkbox" id="accordion28">
     <label for="accordion28"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">         This year, the scheme is targeted to support households in their daily expenses. Will more be done to help the less privileged? </span></label>
     <div>
-			<p>The CDC Vouchers Scheme is one part of the Government’s Assurance Package to help Singaporean households cope with daily expenses. The objective of the CDC Voucher Scheme is to support Singaporean households with daily essentials. 
+			<p>The CDC Vouchers Scheme is one part of the Government’s Assurance Package to help Singaporean households cope with daily expenses. 
 
 The Government Budget includes other schemes to tap on for those who may require further assistance. 			</p>
     </div>
@@ -350,7 +361,7 @@ The Government Budget includes other schemes to tap on for those who may require
     <input type="checkbox" id="accordion29">
     <label for="accordion29"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I received an SMS asking me to key in my NRIC and personal details to claim my CDC Vouchers. Is it a scam? </span></label>
     <div>
-			<p>Do not click on the link or reply. CDCs or RedeemSG will never send any SMSes asking for your personal information or banking details to claim your CDC Vouchers. If you detect any suspicious messages relating to RedeemSG or gov.sg or CDC Vouchers, please contact PA at 62255322, or submit the information online at <a href="https://www.police.gov.sg/I-Witness"><strong>https://www.police.gov.sg/I-Witness </strong></a> or call 1800 255 0000 to make a police report. 
+			<p>Do not click on the link or reply. CDCs, gov.sg or RedeemSG will never send any SMSes asking for your personal information or banking details to claim your CDC Vouchers. If you detect any suspicious messages relating to RedeemSG or gov.sg or CDC Vouchers, please contact PA at 62255322, or submit the information online at <a href="https://www.police.gov.sg/I-Witness"><strong>https://www.police.gov.sg/I-Witness </strong></a> or call 1800 255 0000 to make a police report. 
 			</p>
     </div>
   </li>

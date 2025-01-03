@@ -12,10 +12,10 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2024 (June)? How does it differ from CDC Vouchers Scheme 2024 (January)?</span></label>
+    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2025 (January)? </span></label>
     <div>
-			<br><u>CDC Vouchers Scheme 2024 (June)</u><br>
-			From 25 June 2024, each Singaporean household can claim an additional $300 in CDC Vouchers 2024 (June) digitally at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>. This is on top of the $500 worth of CDC Vouchers distributed in January 2024. <br><br>The CDC Vouchers Scheme 2024 (June) is part of the $1.9 billion enhancement to the Assurance Package announced by then Deputy Prime Minister and Finance Minister Mr Lawrence Wong during Budget 2024. The package aims to provide more immediate support for Singaporean households and help defray daily expenses. <br><br>The value of the $300 CDC Vouchers 2024 (June) will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. une). <br><br><u>CDC Vouchers Scheme 2024 (January)</u><br> From 3 January 2024, each Singaporean household can claim $500 in CDC Vouchers 2024 digitally at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>. These vouchers are part of the Government’s continuing efforts to help Singaporean households cope with daily expenses. <br><br>The vouchers were announced by Deputy Prime Minister and Finance Minister Mr Lawrence Wong as part of Budget 2022, Budget 2023, and the $1.1 billion Cost-of-Living Package in September 2023. The value of the $500 CDC Vouchers 2024 (January) will be allocated equally (i.e., $250 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2024 to claim and spend their CDC Vouchers 2024 (January).<br>
+			From 3 January 2025, each Singaporean household can claim an additional $300 in CDC Vouchers 2025 digitally at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>. The CDC Vouchers Scheme 2025 (Jan) is part of the $1.9 billion enhancement to the Assurance Package announced by then Deputy Prime Minister and Finance Minister Mr Lawrence Wong during Budget 2024. The package aims to provide more immediate support for Singaporean households and help defray daily expenses. <br><br>
+The value of the vouchers will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean households have until 31 December 2025 to claim and spend their CDC Vouchers 2025.<br>
 </div>
 	</li>  
   <li>
@@ -170,9 +170,9 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
   </li>
 	<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I had previously participated as a merchant in CDC Vouchers 2023 under the digital scheme. Do I  need to register again to join CDC Vouchers Scheme 2024? </span></label>
+    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I had previously participated as a merchant in CDC Vouchers 2023 under the digital scheme. Do I  need to register again to join CDC Vouchers Scheme 2025? </span></label>
     <div>
-			<p>No, there is no need to register again to participate in CDC Vouchers 2024 if you have already been onboarded to the CDC Vouchers scheme. Our CDC Ambassadors will reach out to you to update on the new scheme and provide the welcome letter. </p>
+			<p>No, there is no need to register again to participate in CDC Vouchers 2025 if you have already been onboarded to the CDC Vouchers scheme. Our CDC Ambassadors will reach out to you to update on the new scheme and provide the welcome letter. </p>
     </div>
   </li>
 <li><input type="checkbox" id="accordion10">
