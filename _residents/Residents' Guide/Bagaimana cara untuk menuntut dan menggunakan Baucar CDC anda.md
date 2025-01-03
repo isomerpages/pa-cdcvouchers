@@ -28,9 +28,7 @@ a.bp-button {
 }
 </style>
 
-<div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/GX-ZWitGAFA?si=YEKu2PjxY6q8zzNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
+
 
 ## Bagaimana untuk Dapatkan dan Gunakan Baucar CDC anda
 
