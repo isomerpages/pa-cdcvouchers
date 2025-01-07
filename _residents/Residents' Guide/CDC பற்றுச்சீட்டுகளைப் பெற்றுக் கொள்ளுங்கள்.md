@@ -36,7 +36,9 @@ a.bp-button {
 }
 </style>
 
-
+<div class="youtubecontainer">
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/i7vyQ9_I_Kg?si=IaDtnFKs_ndMODF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
 
 ## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொண்டு பயன்படுத்துவது எப்படி
 
