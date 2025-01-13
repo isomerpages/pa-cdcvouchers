@@ -5,7 +5,54 @@ description: ""
 variant: tiptap
 ---
 <h2>Newsroom</h2>
+<h4>3 January 2025 - <br>Launch of CDC Vouchers Scheme 2025 (January)</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Release</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/1__Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2025.pdf" rel="noopener nofollow" target="_blank">$300 worth of CDC Vouchers 2025 (January) for all Singaporean housefileholds to support everyday needs</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speeches</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.pmo.gov.sg/Newsroom/DPM-Gan-Kim-Yong-at-the-Launch-of-CDC-Vouchers-Scheme-2025-January" rel="noopener noreferrer nofollow" target="_blank">Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong</a> 
+<br>
+<br><a href="/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Address by Ms Low Yen Ling,</a>
+<a href="/files/Speech_for_Launch_of_CDC_Vouchers_Scheme_2025_3_Jan_25.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf" rel="noopener noreferrer nofollow" target="_blank"> Chairman of Mayors' Committee and Mayor of South West District</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>25 June 2024 - <br>Launch of CDC Vouchers Scheme 2024 (June)</h4>
 <table style="minWidth: 75px">
 <colgroup>
