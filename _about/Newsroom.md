@@ -43,8 +43,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://www.pmo.gov.sg/Newsroom/DPM-Gan-Kim-Yong-at-the-Launch-of-CDC-Vouchers-Scheme-2025-January" rel="noopener noreferrer nofollow" target="_blank">Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong</a> 
 <br>
-<br><a href="/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Address by Ms Low Yen Ling,</a>
-<a href="/files/Speech_for_Launch_of_CDC_Vouchers_Scheme_2025_3_Jan_25.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf" rel="noopener noreferrer nofollow" target="_blank"> Chairman of Mayors' Committee and Mayor of South West District</a>
+<br><a href="/files/Speech_for_Launch_of_CDC_Vouchers_Scheme_2025_3_Jan_25.pdf" rel="noopener nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
