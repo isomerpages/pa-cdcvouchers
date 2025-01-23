@@ -217,7 +217,7 @@ You may also wish to update the Immigrations and Checkpoint Authority (ICA) on t
 
 <p>If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the vouchers. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account.</p>
 			
-<p>To find out the location of your nearest CC, please key in your postal code in the  <a href="https://www.gowhere.gov.sg/cdc"><strong>district locator</strong></a> (scroll to the bottom of the page to "Find out your district's information here").
+<p>To find out the location of your nearest CC, please key in your postal code in the  <a href="https://www.gowhere.gov.sg/ccrn"><strong>CC locator</strong></a>.
 			</p>
     </div>
   </li>
