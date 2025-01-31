@@ -1,6 +1,6 @@
 ---
 title: How to Donate CDC Vouchers 2024
-permalink: /donate/
+permalink: /donate-closed/
 description: ""
 variant: markdown
 ---

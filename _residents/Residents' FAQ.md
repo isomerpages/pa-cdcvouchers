@@ -343,8 +343,7 @@ You may also wish to update the Immigrations and Checkpoint Authority (ICA) on t
     <label for="accordion27"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">         Previously the CDCs provided an option for residents to donate their CDC Vouchers 2024. Similarly, can I donate my 2025 vouchers for a good cause?</span></label>
     <div>
 			<p>
-				The CDC Vouchers 2024 have expired on 31 December 2024. However, residents will still be able to donate their unused CDC Vouchers 2024 (January) and CDC Vouchers 2024 (June) to participating charities <a href="https://vouchers.cdc.gov.sg/donate/"><strong>here until 31 January 2025. </strong></a> <br><br>
-For CDC Vouchers 2025, the details of donation will be announced at a later date. We encourage all households to claim and spend their CDC Vouchers 2025.
+				For CDC Vouchers 2025, the details of donation will be announced at a later date. We encourage all households to claim and spend their CDC Vouchers 2025.
 </p>
     </div>
   </li>
