@@ -9,16 +9,24 @@ third_nav_title: Merchants' Terms & Conditions
 <a href="/merchants/terms-and-conditions/chi/" rel="noopener nofollow" target="_blank">华文</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/merchants/terms-and-conditions/mal/" rel="noopener nofollow" target="_blank">Melayu</a>&nbsp;|&nbsp;&nbsp;
 <a href="/merchants/terms-and-conditions/tam/" rel="noopener nofollow" target="_blank">தமிழ்</a>
 </p>
-<p><em>As of Sept 2024</em>
+<p><em>As of Mar 2025</em>
 </p>
 <p><strong>TERMS AND CONDITIONS FOR PARTICIPATING IN THE COMMUNITY DEVELOPMENT COUNCIL VOUCHERS SCHEME (the “Scheme”)</strong>
 </p>
 <p></p>
-<p>By participating in the Scheme (including such further tranches of this
-Scheme as may be announced by the government from time to time) you agree
-and accept to be legally bound by the Terms and Conditions set out below,
-and any changes that may be made from time to time.&nbsp; You will be notified
-accordingly if there are any changes to these Terms and Conditions.</p>
+<p>By taking part in the Scheme (including any future tranches of the Scheme
+announced by the government), you agree to be legally bound by the Terms
+and Conditions below, and any changes that may be made from time to time.&nbsp;&nbsp;</p>
+<p>The Scheme may also include other nationwide voucher schemes run by the
+government or other government agencies. The Terms and Conditions below
+will also apply to those schemes for the specified duration, as follows:</p>
+<p>a) In clauses 2 to 7,&nbsp; references to “CDC Vouchers” or “vouchers”
+will include the vouchers issued under the nationwide voucher scheme; and</p>
+<p>b) In clauses 6, 7 and 11, references to the “People’s Association”, “PA”
+or “PA (through the CDCs)” will include the government or government agency
+administering the nationwide voucher scheme.</p>
+<p></p>
+<p>You will be informed of any changes to these Terms and Conditions.</p>
 <p>&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The CDC
 Vouchers decal (which is included in the welcome kit) must be prominently
 displayed at your store front immediately upon receipt of the welcome kit
