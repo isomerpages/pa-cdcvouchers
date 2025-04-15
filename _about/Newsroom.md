@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Newsroom</h2>
+<h4>15 April 2025</h4>
+<h4>- Announcement</h4>
+<p></p>
 <h4>3 January 2025 - <br>Launch of CDC Vouchers Scheme 2025 (January)</h4>
 <table style="minWidth: 75px">
 <colgroup>
