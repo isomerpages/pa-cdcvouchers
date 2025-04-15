@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Newsroom</h2>
-<h4>15 April 2025 - <br>Announcement on CDC Vouchers Scheme</h4>
+<h4>15 April 2025 - <br>Announcement on CDC Vouchers Scheme 2025 (May) Launch</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -41,9 +41,9 @@ variant: tiptap
 <p>Infographic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_on_CDC_Vouchers_2025.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
