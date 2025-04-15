@@ -5,6 +5,52 @@ description: ""
 variant: tiptap
 ---
 <h2>Newsroom</h2>
+<h4>15 April 2025 - <br>Announcement on CDC Vouchers Scheme 2025 (May) Launch</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Release</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Press_Release_on_CDC_Vouchers_Launch__May_.pdf" rel="noopener noreferrer nofollow" target="_blank">All Singaporean households to get $500 CDC Vouchers from 13 May 2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infographic</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_on_CDC_Vouchers_2025.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>3 January 2025 - <br>Launch of CDC Vouchers Scheme 2025 (January)</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -29,7 +75,7 @@ variant: tiptap
 <p>Media Release</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/1__Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2025.pdf" rel="noopener nofollow" target="_blank">$300 worth of CDC Vouchers 2025 (January) for all Singaporean housefileholds to support everyday needs</a>
+<p><a href="/files/1__Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_2025.pdf" rel="noopener nofollow" target="_blank">$300 worth of CDC Vouchers 2025 (January) for all Singaporean households to support everyday needs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
