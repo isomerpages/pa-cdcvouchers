@@ -59,7 +59,7 @@ a.bp-button {
 
 4: **Select the voucher type and amount you want to use.** Show the QR code to the participating merchant to scan.
 
-<img src="/images/EN_5May25.png" alt="Step 1" style="width:600px !important;">
+<img src="/images/EN_4May25.png" alt="Step 1" style="width:600px !important;">
 
 
 If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.
