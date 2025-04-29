@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: About CDC Vouchers Scheme 2025 (May)
       id: infopic
-      description: Additional $300 CDC Vouchers 2025 in May for every Singaporean
+      description: Additional $500 CDC Vouchers 2025 in May for every Singaporean
         household to help with daily expenses
       button: Find out more
       alt: Image alt text
@@ -42,10 +42,10 @@ sections:
       image: /images/Key_Visual_May_2025.png
       alt: cdc vouchers scheme may visual
   - infopic:
-      title: Where to spend your $300 CDC Vouchers 2025 (May)?
+      title: Where to spend your $500 CDC Vouchers 2025 (May)?
       subtitle: Residents
-      description: Spend $150 CDC Vouchers 2025 (May) at participating
-        hawkers/heartland merchants, and the other $150 at participating
+      description: Spend $250 CDC Vouchers 2025 (May) at participating
+        hawkers/heartland merchants, and the other $250 at participating
         supermarkets.
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
