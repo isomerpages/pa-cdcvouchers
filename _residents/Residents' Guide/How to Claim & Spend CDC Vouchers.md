@@ -40,9 +40,9 @@ a.bp-button {
 <iframe class="youtubevideo" src="https://www.youtube.com/embed/eyGoiVYOBOk?si=kW9BOFz9melJBUeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
-## How to claim and spend your CDC Vouchers 2025 (January)
+## How to claim and spend your CDC Vouchers 2025 (May)
 
-1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv).** Tap on CDC Vouchers 2025 (January).
+1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv).** Tap on CDC Vouchers 2025 (May).
 
 <img src="/images/EN_1.png" alt="Step 1" style="width:300px !important;">
 
