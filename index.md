@@ -22,6 +22,7 @@ sections:
       backgroundColor: gray
       size: md
       alignment: left
+      title: Supporting Your Everyday Needs
   - infopic:
       title: About CDC Vouchers Scheme 2025 (May)
       id: infopic
