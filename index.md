@@ -18,7 +18,7 @@ sections:
           description: Click here for next steps
           url: /merchants/info/
       background: /images/Landing_page_banner_3.png
-      variant: floating
+      variant: center
       title: Supporting Your Everyday Needs
       subtitle: CDC VOUCHERS SCHEME 2025 (MAY)
       backgroundColor: gray
