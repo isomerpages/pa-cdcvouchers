@@ -50,7 +50,7 @@ sections:
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
       alt: Image alt text
-      image: /images/CDCV_2025__April____Gowhere_Hero_Image.jpg
+      image: /images/CDCV_2025__April____Gowhere_Hero_Image.png
   - textcards:
       title: Have Questions?
       id: textcards
