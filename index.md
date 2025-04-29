@@ -17,7 +17,7 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-      background: /images/Landing_page_banner_2.png
+      background: /images/Landing_page_banner_3.png
       variant: floating
       title: Supporting Your Everyday Needs
       subtitle: CDC VOUCHERS SCHEME 2025 (MAY)
