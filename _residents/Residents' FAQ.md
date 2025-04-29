@@ -176,7 +176,7 @@ Alternatively, you may call the Singpass Helpdesk at 6335 3533, or visit a Singp
     <input type="checkbox" id="accordion12">
     <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
     <div>
-      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed [Authorisation Form for CDC Vouchers 2025 (January)](/files/Voucher_Claim_Authorisation_Letter_2025.pdf) or [Authorisation Form for CDC Vouchers 2025 (May) ](/files/Voucher_Claim_Authorisation_Letter_2025_May.pdf) and necessary supporting documents (specified in the authorisation form) to the CC. </p></div>
+      <p>Yes, you may authorise a non-household member to claim your household vouchers.  He or she should bring along your notification letter sent to your household, a completed <a href="/files/Voucher_Claim_Authorisation_Letter_2025.pdf"> Authorisation Form for CDC Vouchers 2025 (January)</a> or <a href="/files/Voucher_Claim_Authorisation_Letter_2025_May.pdf"> Authorisation Form for CDC Vouchers 2025 (May)</a>  and necessary supporting documents (specified in the authorisation form) to the CC. </p></div>
 	</li>  
 <li>
     <input type="checkbox" id="accordion13">
