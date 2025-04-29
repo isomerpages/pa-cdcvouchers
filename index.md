@@ -18,7 +18,7 @@ sections:
           description: Click here for next steps
           url: /merchants/info/
       background: /images/Landing_page_banner_3.png
-      variant: image
+      variant: center
       backgroundColor: gray
       size: md
       alignment: left
