@@ -214,7 +214,7 @@ Alternatively, you may call the Singpass Helpdesk at 6335 3533, or visit a Singp
       <p>The SMS is identifiable by the sender named “gov.sg”.  Please also check that your unique voucher link starts with the following prefix https://voucher.redeem.gov.sg. Do not trust vouchers starting with other prefixes. </p>
 <p>Please be careful to only use the official links and QR code <a href="https:// go.gov.sg/cdcv"> go.gov.sg/cdcv </a> to claim your vouchers. Gov.sg will only send you an SMS with your unique voucher link after you claim your vouchers at go.gov.sg/cdcv and will never send SMSes requiring your personal or banking details.</p> 
 <p>If you detect any suspicious messages relating to RedeemSG or Gov.sg or CDC vouchers, please contact PA at 6225 5322, or submit the information online at www.police.gov.sg/iwitness or call 1800 2555 0000 to make a police report.</p>  
-		<p><img src="/images/EN_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
+		<p><img src="/images/EN_3May25.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
 	</p>
 <p>A typical SMS from gov.sg will look like the screenshot above. Please note that the masked NRIC portion and exact voucher link URL blurred will vary.</p>
     </div>
@@ -241,9 +241,9 @@ Alternatively, you may call the Singpass Helpdesk at 6335 3533, or visit a Singp
     <input type="checkbox" id="accordion30">
     <label for="accordion30"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What should I do if there are names of unknown or past occupants in my notification letter. Can you remove them?</span></label>
     <div>
-			<p>Your notification letter contained individuals who are not from your household because the previous owner/occupants did not update their address with the authorities after they have moved out.  Please report this incident to the ICA at <a href="https://go.gov.sg/failuretochangeaddress"><strong>https://go.gov.sg/failuretochangeaddress</strong></a> and the police. Under the Regulation 11A of the National Registration Act, all IC holders need to report a change of address within 28 days of moving into a new residence, whether the residence is located in or outside of Singapore.<br><br>
+			<p>Your notification letter contained individuals who are not from your household because the previous owner/occupants did not update their address with the authorities after they have moved out.  Please report this incident to the ICA at <a href="https://go.gov.sg/failuretochangeaddress"><strong>https://go.gov.sg/failuretochangeaddress</strong></a> and the police. Under the Regulation 11A of the National Registration Act, all IC holders need to report a change of address within 28 days of moving into a new residence, whether the residence is located in or outside of Singapore.<br>
  
-If you experienced difficulty in claiming your $300 CDC Vouchers 2025 online due to a claim made by the previous and/or unknown addressee, you can bring along your NRIC (showing your current address), CDC Vouchers Scheme notification letter and official documents (showing your name and current address) e.g. utilities bill, property tax to the nearest Community Centre/Club (CC) to apply for the CDC Vouchers 2025 (January) before 15 December 2025.  Our colleagues will assist you further. <br><br>
+If you experienced difficulty in claiming your $300 CDC Vouchers 2025 online due to a claim made by the previous and/or unknown addressee, you can bring along your NRIC (showing your current address), CDC Vouchers Scheme notification letter and official documents (showing your name and current address) e.g. utilities bill, property tax to the nearest Community Centre/Club (CC) to apply for the CDC Vouchers 2025 (January) before 15 December 2025.  Our colleagues will assist you further. <br>
  
 You may also wish to update the Immigrations and Checkpoint Authority (ICA) on the previous / unknown addressee indicated in your notification letter by writing to ICA at ica_irr_review@ica.gov.sg.
 				</p>
@@ -352,7 +352,7 @@ You may also wish to update the Immigrations and Checkpoint Authority (ICA) on t
 			<p>You may access your voucher link found in the SMS sent by gov.sg to find out the remaining balance of your CDC Vouchers. The value is shown on the respective tabs.
 			</p>
 						<p>				
-				<img src="/images/EN_4.png" alt="Screenshot of Remaining Value" style="width:300px !important;">
+				<img src="/images/EN_4May25.png" alt="Screenshot of Remaining Value" style="width:300px !important;">
 			</p>
     </div>
   </li>
