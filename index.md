@@ -19,6 +19,11 @@ sections:
           url: /merchants/info/
       background: /images/Landing_page_banner_1.png
       variant: floating
+      title: Supporting Your Everyday Needs
+      subtitle: CDC VOUCHERS SCHEME 2025 (MAY)
+      backgroundColor: gray
+      size: md
+      alignment: left
   - infopic:
       title: About CDC Vouchers Scheme 2025 (January)
       id: infopic
