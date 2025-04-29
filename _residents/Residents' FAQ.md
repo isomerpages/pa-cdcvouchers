@@ -184,13 +184,13 @@ Alternatively, you may call the Singpass Helpdesk at 6335 3533, or visit a Singp
     <div>
       <p>When you sign up for your vouchers, a One Time Password (OTP) will be sent to the mobile number you have keyed in for verification, to ensure vouchers will not be sent to the wrong mobile number. If you had keyed in the wrong mobile number, you will not receive the One Time Password and you can return to the previous page to key in your mobile number again. </p> 
 			<p>Vouchers will only be sent after you have verified your mobile number, which helps to ensure vouchers will not be sent to the wrong mobile number. </p>
-<p><img src="/images/EN_3.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
-	</p>
 <p>One Time Password will be sent to your registered mobile number.
 	</p>
 <p><img src="/images/SMS_OTP.png" alt="Sample Redeemed Voucher SMS" style="width:169px !important;height:auto !important;">
 	</p>
 			<p>Vouchers will be sent to your verified mobile number.</p>
+			<p><img src="/images/EN_3May25.png" alt="Sample OTP Screen" style="width:210px !important;height:374px !important;">
+	</p>
     </div>
 	</li>  
 <li>
