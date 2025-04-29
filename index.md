@@ -43,14 +43,15 @@ sections:
       image: /images/Key_Visual_May_2025.png
       alt: cdc vouchers scheme may visual
   - infopic:
-      title: Where to spend your $300 CDC Vouchers 2025 (January)?
+      title: Where to spend your $300 CDC Vouchers 2025 (May)?
       subtitle: Residents
-      description: Spend $150 CDC Vouchers 2025 at participating hawkers/heartland
-        merchants, and the other $150 at participating supermarkets.
+      description: Spend $150 CDC Vouchers 2025 (May) at participating
+        hawkers/heartland merchants, and the other $150 at participating
+        supermarkets.
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
       alt: Image alt text
-      image: /images/voucher_icon_2025.png
+      image: /images/CDCV_2025__April____Gowhere_Hero_Image.jpg
   - textcards:
       title: Have Questions?
       id: textcards
