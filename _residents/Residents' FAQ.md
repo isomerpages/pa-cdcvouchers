@@ -166,10 +166,10 @@ Alternatively, you may call the Singpass Helpdesk at 6335 3533, or visit a Singp
   </li>
 <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">If I have already claimed my CDC Vouchers from the previous tranche (January or June 2024), do I need to claim the CDC Vouchers 2025?</span></label>
+    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">If I have already claimed my CDC Vouchers from the previous tranche (January 2025), do I need to claim the CDC Vouchers 2025 (May)?</span></label>
     <div>
-			<p>Yes, the CDC Vouchers Scheme 2025 (January) is a new tranche. Both vouchers from the previous CDCV 2024 (January) and CDCV 2024 (June) tranche have expired on 31 December 2024.</p>
-			<p>Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2025 (January), and login with Singpass to claim your vouchers.</p>
+			<p>Yes, the CDC Vouchers Scheme 2025 (May) is a new tranche. </p>
+			<p>Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2025 (May), and login with Singpass to claim your vouchers.</p>
     </div>
   </li>
 	<li>
