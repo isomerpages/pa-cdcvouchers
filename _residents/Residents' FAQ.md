@@ -99,7 +99,7 @@ To ensure that the digital system caters to both digitally savvy and less-savvy 
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the voucher claiming and expiry date for CDC Vouchers 2025 (January) and CDC Vouchers 2025 (May)? </span></label>
     <div>
- 			<p>       The CDC Vouchers 2025 (January) can be claimed digitally at go.gov.sg/cdcv from 3 January 2025. The CDC Vouchers 2025 (May) can be claimed digitally at go.gov.sg/cdcv from 13 May 2025. Both sets of vouchers expire on 31 December 2025. </p>
+ 			<p>       The CDC Vouchers 2025 (January) can be claimed from 3 January 2025. The CDC Vouchers 2025 (May) can be claimed from 13 May 2025. Both sets of vouchers expire on 31 December 2025. </p>
 	</div>
   </li>
 </ul>
