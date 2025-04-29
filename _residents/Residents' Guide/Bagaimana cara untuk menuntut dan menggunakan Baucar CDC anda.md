@@ -34,21 +34,21 @@ a.bp-button {
 
 ## Bagaimana untuk Dapatkan dan Gunakan Baucar CDC anda
 
-1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Tekan ‘CDC Vouchers 2025 (January)’. 
+1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Tekan ‘CDC Vouchers 2025 (May)’. 
 
-<img src="/images/ML_1.png" alt="Step 1" style="width:300px !important;">
+<img src="/images/ML_1May25.png" alt="Step 1" style="width:300px !important;">
 
 
 2: **Log masuk menggunakan Singpass.** Hanya seorang anggota keluarga sahaja yang perlu dapatkan bagi pihak keluarga.
 
-<img src="/images/ML_2.png" alt="Step 2" style="width:300px !important;">
+<img src="/images/ML_2May25.png" alt="Step 2" style="width:300px !important;">
 
 3: **Pautan Baucar CDC anda daripada gov.sg akan dihantar melalui SMS.** Hantarkan SMS tersebut kepada anggota keluarga supaya mereka juga dapat menggunakan baucar.
 
-<img src="/images/ML_3.png" alt="Step 3" style="width:300px !important;">
+<img src="/images/ML_3May25.png" alt="Step 3" style="width:300px !important;">
 
 4: **Pilih jenis baucar dan jumlah yang ingin anda gunakan.** Tunjuk kod QR kepada penjual yang mengambil bahagian untuk diimbas.  
-<img src="/images/ML_5.png" alt="Step 4" style="width:600px !important;">
+<img src="/images/ML_4May25.png" alt="Step 4" style="width:600px !important;">
 
 Gunakan baucar anda selawat-lewatnya 31 Disember 2025.
 
@@ -58,4 +58,4 @@ Nombor Talian: 6225 5322
 
 *<i>Visual yang ditunjukkan adalah untuk tujuan ilustrasi sahaja.</i>
 
-[Back to Top](#cdcv_page_top)
+[Back to Top](#cdcv_page_top) 
