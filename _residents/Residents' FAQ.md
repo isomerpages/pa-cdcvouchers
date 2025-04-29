@@ -115,7 +115,7 @@ To ensure that the digital system caters to both digitally savvy and less-savvy 
     <div>
 			<p>Yes. Claiming process remains the same as past tranches of CDC Vouchers.  Only one member representing the household needs to make the claim digitally via Singpass at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>.</p>
 			<p>
-1) Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> , select CDC Vouchers 2025 (Jan) or CDC Vouchers 2025 (May) and login with Singpass to claim your vouchers. </p>
+1) Visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers 2025 (Jan) or CDC Vouchers 2025 (May) and login with Singpass to claim your vouchers. </p>
 			<p>
 2) Upon successful claim, you will receive the voucher link via SMS. 
 			</p>
@@ -123,10 +123,10 @@ To ensure that the digital system caters to both digitally savvy and less-savvy 
 To retrieve the voucher link,<br>
 1) You may also visit <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a> <br>
 2) Select CDC Vouchers 2025 (Jan) or CDC Vouchers 2025 (May), and log in with Singpass to retrieve your previous voucher link.<br>
-3) Existing voucher link will be sent via SMS.<br><br>
+3) Existing voucher link will be sent via SMS.<br>
 
 Do note that there are two separate voucher links, and both are valid until 31 December 2025.<br>
-You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a>on how to claim and spend the CDC Vouchers.  
+You can refer to the <a href="/residents/how-to-claim-cdc-vouchers">step-by-step infographics</a> on how to claim and spend the CDC Vouchers.  
 				</p></div></li><li>
     <input type="checkbox" id="accordion9">
     <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What do I need to claim the vouchers?</span></label>
