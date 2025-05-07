@@ -34,7 +34,7 @@ a.bp-button {
 
 ## Bagaimana untuk Dapatkan dan Gunakan Baucar CDC anda
 
-1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Tekan ‘CDC Vouchers 2025 (May)’. 
+1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Klik pada ‘CDC Vouchers 2025 (May)’. 
 
 <img src="/images/ML_1May25.png" alt="Step 1" style="width:300px !important;">
 
