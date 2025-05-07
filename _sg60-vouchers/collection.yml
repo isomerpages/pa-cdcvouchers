@@ -2,4 +2,5 @@ collections:
   sg60-vouchers:
     output: true
     order:
+      - SG60 Vouchers FAQ.md
       - About SG60 Vouchers.md
