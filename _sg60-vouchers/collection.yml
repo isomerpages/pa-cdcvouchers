@@ -1,0 +1,4 @@
+collections:
+  sg60-vouchers:
+    output: true
+    order: []
