@@ -71,7 +71,7 @@ Our step-by-step guide and video are available in the following languages:
 <td> English </td><td> <a href="/residents/how-to-claim-cdc-vouchers">How to claim and spend CDC vouchers</a></td>
 </tr>
 <tr>
-<td> 中文 </td><td> <a href="/residents/how-to-claim-cdc-vouchers-chinese">如何领取 及使用 2024 年社理会邻里购物券</a></td>
+<td> 中文 </td><td> <a href="/residents/how-to-claim-cdc-vouchers-chinese">如何领取 及使用社理会邻里购物券</a></td>
 </tr>
 <tr>
 <td> Melayu </td><td> <a href="/residents/how-to-claim-cdc-vouchers-malay">Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda</a></td>
