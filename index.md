@@ -29,7 +29,7 @@ sections:
       description: Additional $500 CDC Vouchers 2025 in May for every Singaporean
         household to help with daily expenses
       button: Find out more
-      alt: Image alt text
+      alt: CDC Identifier and Budget Logo
       url: /about
       image: /images/CDCV_Identifier_and_Budget_2025_Logo.png
   - infopic:
