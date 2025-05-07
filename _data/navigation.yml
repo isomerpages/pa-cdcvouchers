@@ -10,7 +10,5 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us
-  - title: SG60 Vouchers
-    collection: sg60-vouchers
   - title: CDC Official Site
     url: https://www.cdc.gov.sg
