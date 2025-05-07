@@ -60,7 +60,7 @@ Both the CDC Vouchers 2025 (January) and CDC Vouchers 2025 (May) are valid till 
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/eyGoiVYOBOk?si=kW9BOFz9melJBUeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/PlE4lHek27k?si=cOKxl90U9lT6td8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 Our step-by-step guide and video are available in the following languages:
