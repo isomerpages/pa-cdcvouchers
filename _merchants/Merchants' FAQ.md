@@ -12,10 +12,13 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2025 (January)? </span></label>
+    <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2025? </span></label>
     <div>
-			From 3 January 2025, each Singaporean household can claim an additional $300 in CDC Vouchers 2025 digitally at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>. The CDC Vouchers Scheme 2025 (Jan) is part of the $1.9 billion enhancement to the Assurance Package announced by then Deputy Prime Minister and Finance Minister Mr Lawrence Wong during Budget 2024. The package aims to provide more immediate support for Singaporean households and help defray daily expenses. <br><br>
-The value of the vouchers will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean households have until 31 December 2025 to claim and spend their CDC Vouchers 2025.<br>
+		<p><u>CDC Vouchers Scheme 2025 (January)</u></p>
+From 3 January 2025, each Singaporean household can claim $300 in CDC Vouchers 2025 digitally at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a>. The CDC Vouchers Scheme 2025 (Jan) is part of the $1.9 billion enhancement to the Assurance Package announced by then Deputy Prime Minister and Finance Minister Mr Lawrence Wong during Budget 2024. The package aims to provide more immediate support for Singaporean households and help defray daily expenses.<br><br>
+The value of the vouchers will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean households have until 31 December 2025 to claim and spend their CDC Vouchers 2025.
+			<p><u>CDC Vouchers Scheme 2025 (May)</u></p>
+As announced in Budget 2025, all Singaporean households will receive an additional $800 in CDC Vouchers to help with daily expenses. The vouchers are distributed in two tranches — $500 in May 2025 and $300 in January 2026. This is in addition to the $300 CDC Vouchers given on 3 January 2025. Therefore, all Singaporean households will receive a total of $800 CDC Vouchers in 2025. The May 2025 tranche, available from 13 May 2025, continues to provide essential support, with $250 allocated for use at participating hawkers and heartland merchants, and $250 for participating supermarkets.	
 </div>
 	</li>  
   <li>
@@ -202,9 +205,9 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
 	</li>
 			<li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I get my shop code?</span></label>
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Where can I find my shop code?</span></label>
     <div>
-			<p>You will receive your shop code from the CDC Ambassador during your onboarding session. It will also be sent to you via SMS to your registered mobile number.</p>
+			<p>The CDC Ambassador who has onboarded you should have a copy of the shop code. You should have also received the shop code via SMS during onboarding. You are encouraged to note down the shop code on the CDC Vouchers Scheme decal. After you have logged in to RedeemSG Merchant App, you can find the shop code under “Settings” &gt; “Show Shop Code”. You can use this to onboard other fellow staff.</p>
 				</div>
 	</li>  
 	<li>
@@ -220,6 +223,13 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
 <div>
 			<p>Yes, in order to enable this, you can sign-up each branch as a single shop account and that shop will be issued its own shop code. Staff will then only be able to see that particular shop’s transactions.</p>
 	</div>	
+	</li>
+	<li>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I did not receive the SMS on One Time Password. What should I do?</span></label>
+    <div>
+			<p>If you are not receiving “gov.sg” SMS messages to your phone, please refer to the steps listed <a href="https://go.gov.sg/no-govsg-sms">here. </a>
+		</p></div>	
 	</li>
 			</ul>
 			
