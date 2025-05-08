@@ -205,9 +205,9 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
 	</li>
 			<li>
     <input type="checkbox" id="accordion12">
-    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I get my shop code?</span></label>
+    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Where can I find my shop code?</span></label>
     <div>
-			<p>You will receive your shop code from the CDC Ambassador during your onboarding session. It will also be sent to you via SMS to your registered mobile number.</p>
+			<p>The CDC Ambassador who has onboarded you should have a copy of the shop code. You should have also received the shop code via SMS during onboarding. You are encouraged to note down the shop code on the CDC Vouchers Scheme decal. After you have logged in to RedeemSG Merchant App, you can find the shop code under “Settings” &gt; “Show Shop Code”. You can use this to onboard other fellow staff.</p>
 				</div>
 	</li>  
 	<li>
@@ -223,6 +223,13 @@ c) <a href="/merchants/info#merchantreginterest">register your interest with you
 <div>
 			<p>Yes, in order to enable this, you can sign-up each branch as a single shop account and that shop will be issued its own shop code. Staff will then only be able to see that particular shop’s transactions.</p>
 	</div>	
+	</li>
+	<li>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I did not receive the SMS on One Time Password. What should I do?</span></label>
+    <div>
+			<p>If you are not receiving “gov.sg” SMS messages to your phone, please refer to the steps listed <a href="https://go.gov.sg/no-govsg-sms">here. </a>
+		</p></div>	
 	</li>
 			</ul>
 			
