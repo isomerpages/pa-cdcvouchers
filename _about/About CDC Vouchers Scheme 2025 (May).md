@@ -24,7 +24,8 @@ you can claim your CDC Vouchers 2025 (May).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/brought-by.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CDCV_2024_Supported_by.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Supported_by_logo_updated.png">
 </div>
 <p></p>
