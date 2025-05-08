@@ -41,7 +41,7 @@ a.bp-button {
 
 2: **Log masuk menggunakan Singpass.** Hanya seorang anggota keluarga sahaja yang perlu dapatkan bagi pihak keluarga.
 
-<img src="/images/ML_2May25.png" alt="Step 2" style="width:300px !important;">
+<img src="/images/ML_2May2025.png" alt="Step 2" style="width:300px !important;">
 
 3: **Pautan Baucar CDC anda daripada gov.sg akan dihantar melalui SMS.** Hantarkan SMS tersebut kepada anggota keluarga supaya mereka juga dapat menggunakan baucar.
 
