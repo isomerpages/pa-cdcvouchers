@@ -41,9 +41,6 @@ variant: tiptap
 <p>Speeches</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cdc.gov.sg/files/Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_May_2025.pdf" rel="noopener nofollow" target="_blank">Speech by Prime Minister Lawrence Wong</a>
-</p>
-<p></p>
 <p><a href="/files/Speech_Mayor_Low_CDCV_2025_May.pdf" rel="noopener nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and Mayor of South West District</a>
 </p>
 <p></p>
