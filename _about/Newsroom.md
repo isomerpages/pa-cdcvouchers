@@ -29,7 +29,8 @@ variant: tiptap
 <p>Media Release</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$500 worth of CDC Vouchers 2025 (May) for all Singaporean households to
+support daily expenses</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -40,7 +41,10 @@ variant: tiptap
 <p>Speeches</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Speech by Prime Minister Lawrence Wong</p>
 <p></p>
+<p>Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and
+Mayor of South West District</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
