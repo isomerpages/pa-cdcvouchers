@@ -5,6 +5,51 @@ description: ""
 variant: tiptap
 ---
 <h2>Newsroom</h2>
+<h4>13 May 2025 - <br>Launch of CDC Vouchers Scheme 2025 (May)</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Release</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speeches</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h4>15 April 2025 - <br>Announcement on CDC Vouchers Scheme 2025 (May) Launch</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -46,6 +91,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
