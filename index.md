@@ -28,7 +28,7 @@ sections:
       title: About CDC Vouchers Scheme 2025 (May)
       id: infopic
       description: Additional $500 CDC Vouchers 2025 in May for every Singaporean
-        household to help with daily expenses
+        household to help with daily expenses.
       button: Find out more
       alt: CDC Identifier and Budget Logo
       url: /about
