@@ -29,8 +29,8 @@ variant: tiptap
 <p>Media Release</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$500 worth of CDC Vouchers 2025 (May) for all Singaporean households to
-support daily expenses</p>
+<p><a href="https://www.cdc.gov.sg/files/Final_Media_Release_and_Quotes_for_Launch_of_CDC_Vouchers_May_2025.pdf" rel="noopener nofollow" target="_blank">$500 worth of CDC Vouchers 2025 (May) for all Singaporean households to support daily expenses</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
