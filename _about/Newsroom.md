@@ -47,7 +47,6 @@ variant: tiptap
 <p><a href="/files/Speech_Mayor_Low_CDCV_2025_May.pdf" rel="noopener nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and Mayor of South West District</a>
 </p>
 <p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
