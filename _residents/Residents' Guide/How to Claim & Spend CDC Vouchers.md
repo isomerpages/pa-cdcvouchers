@@ -37,29 +37,29 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/eyGoiVYOBOk?si=kW9BOFz9melJBUeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/PlE4lHek27k?si=wa_w_o-5OuHSKW1r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
-## How to claim and spend your CDC Vouchers 2025 (January)
+## How to claim and spend your CDC Vouchers 2025 (May)
 
-1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv).** Tap on CDC Vouchers 2025 (January).
+1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv).** Tap on CDC Vouchers 2025 (May).
 
-<img src="/images/EN_1.png" alt="Step 1" style="width:300px !important;">
+<img src="/images/EN_1May25.png" alt="Step 1" style="width:300px !important;">
 
 
 2: **Log in with Singpass.** Only one household member needs to claim on behalf of the household.
 
-<img src="/images/EN_2.png" alt="Step 1" style="width:300px !important;">
+<img src="/images/EN_2May25.png" alt="Step 1" style="width:300px !important;">
 
 
 3: **Receive your CDC Voucher link by SMS from “gov.sg”.** Forward the SMS to share with household members.  
 
-<img src="/images/EN_3.png" alt="Step 2" style="width:300px !important;">
+<img src="/images/EN_3May25.png" alt="Step 2" style="width:300px !important;">
 
 
 4: **Select the voucher type and amount you want to use.** Show the QR code to the participating merchant to scan.
 
-<img src="/images/EN_5.png" alt="Step 1" style="width:600px !important;">
+<img src="/images/EN_4May25.png" alt="Step 1" style="width:600px !important;">
 
 
 If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.

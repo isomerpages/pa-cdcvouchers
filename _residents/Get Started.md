@@ -8,15 +8,16 @@ variant: markdown
 ---
 <span id="cdcv_page_top"></span>
 
-![](/images/Main_banner_with_words.png)
+![](/images/Key_Visual_May_2025.png)
 
 
-Every Singaporean household will receive $300 CDC Vouchers in January 2025. 
+As announced in Budget 2025, all Singaporean households will receive an additional $800 in CDC Vouchers to help with daily expenses. The vouchers are distributed in two tranches — $500 in May 2025 and $300 in January 2026.
 
-The CDC Vouchers Scheme 2025 (January) is part of the enhancements to the Assurance Package announced by then Deputy Prime Minister and Minister for Finance Lawrence Wong at Budget 2024. &nbsp;The package provides more immediate support for Singaporean households and helps defray daily expenses.
+This is in addition to the $300 CDC Vouchers given on 3 January 2025. Therefore, all Singaporean households will receive a total of $800 CDC Vouchers in 2025.
 
-The process for claiming and spending the vouchers remains the same. Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2025 (January), and login with Singpass to claim the vouchers.  <br>    
-The vouchers are valid till 31 December 2025. 
+The process for claiming and spending the vouchers remains the same. Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2025 (May), and login with Singpass to claim the vouchers.  <br>    
+
+Both the CDC Vouchers 2025 (January) and CDC Vouchers 2025 (May) are valid till 31 December 2025. 
 
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
@@ -26,11 +27,11 @@ The vouchers are valid till 31 December 2025.
 </tr>
 	<tr>
 <td><img src="/images/CDCV2023/heartland%20voucher%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"></td>
-<td style="vertical-align: middle;"><p><strong>$150 CDC Vouchers 2025 (January) to spend at participating heartland merchants and hawkers</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>$250 CDC Vouchers 2025 (May) to spend at participating heartland merchants and hawkers</strong></p></td>
 </tr>
 <tr>
 <td><img src="/images/CDCV2023/supermarket%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"></td>
-<td style="vertical-align: middle;"><p><strong>$150 CDC Vouchers 2025 (January) to spend at participating supermarkets</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>$250 CDC Vouchers 2025 (May) to spend at participating supermarkets</strong></p></td>
 </tr>
 	<tr>
 <td><img src="/images/CDCV2023/expiry%20icon.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"></td>
@@ -59,7 +60,7 @@ The vouchers are valid till 31 December 2025.
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/eyGoiVYOBOk?si=kW9BOFz9melJBUeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/embed/PlE4lHek27k?si=cOKxl90U9lT6td8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 Our step-by-step guide and video are available in the following languages:
@@ -70,7 +71,7 @@ Our step-by-step guide and video are available in the following languages:
 <td> English </td><td> <a href="/residents/how-to-claim-cdc-vouchers">How to claim and spend CDC vouchers</a></td>
 </tr>
 <tr>
-<td> 中文 </td><td> <a href="/residents/how-to-claim-cdc-vouchers-chinese">如何领取 及使用 2024 年社理会邻里购物券</a></td>
+<td> 中文 </td><td> <a href="/residents/how-to-claim-cdc-vouchers-chinese">如何领取 及使用社理会邻里购物券</a></td>
 </tr>
 <tr>
 <td> Melayu </td><td> <a href="/residents/how-to-claim-cdc-vouchers-malay">Bagaimana cara untuk menuntut dan menggunakan Baucar CDC anda</a></td>
@@ -108,7 +109,7 @@ ________
 
 * If you need help in claiming your vouchers, please bring along your NRIC to the nearest Community Centre/Club (CC). All CCs are open daily from 10am to 6pm and 2pm to 6pm for void deck CCs.  Closed on Public Holidays (PH) 
 
-* Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form for CDC Vouchers 2025 (January)](/files/Voucher_Claim_Authorisation_Letter_2025.pdf) and necessary supporting documents (specified in the authorisation form) to the CC.
+* Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form for CDC Vouchers 2025 (January)](/files/Voucher_Claim_Authorisation_Letter_2025_Jan.pdf) or [Authorisation Form for CDC Vouchers 2025 (May)](/files/Voucher_Claim_Authorisation_Letter_2025_May.pdf) necessary supporting documents (specified in the authorisation form) to the CC.
 *  For further enquiries, please contact our hotline at <a href="tel:6225 5322">6225 5322</a> from 8am to 6pm daily, except on public holidays; or write to us using this <a href="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
 If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. <br>
 Monday to Sunday: 8am - 6pm<br>

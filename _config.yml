@@ -2,11 +2,11 @@ title: CDC Vouchers Scheme
 url: https://vouchers.cdc.gov.sg
 favicon: /images/cdc-icon.png
 colors:
-  primary-color: "#e87257"
+  primary-color: "#51ccbe"
   secondary-color: "#25245c"
   media-colors:
     - title: media-color-one
-      color: "#a37cbe"
+      color: "#7472b4"
     - title: media-color-two
       color: "#51ccbe"
     - title: media-color-three
