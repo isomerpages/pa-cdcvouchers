@@ -50,7 +50,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
-<p><a href="https://go.gov.sg/csmerchantreg" target="_blank"><img src="/images/cdc-button.png" alt="Central Singapore CDC" style="width:110px !important;"></a></p>
+<p><a href="https://form.gov.sg/6160705b3ce171001258332d" target="_blank"><img src="/images/cdc-button.png" alt="Central Singapore CDC" style="width:110px !important;"></a></p>
 </td>
 <td style="text-align: center; width: 33.33%; border: 0px hidden #ffffff !important;">
 <p><a href="https://go.gov.sg/nemerchantreg" target="_blank"><img src="/images/ne-button.png" alt="North East CDC" style="width:110px !important;"></a></p>
