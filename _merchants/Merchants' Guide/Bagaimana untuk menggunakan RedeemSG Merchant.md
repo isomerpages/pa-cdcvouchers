@@ -31,7 +31,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/2mhLB4J7tAI?si=QuYnAX8-rEDUaYvT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe aria-label="CDC Vouchers Scheme 2024 - Merchants Video (Malay)" class="youtubevideo" src="https://www.youtube.com/embed/2mhLB4J7tAI?si=QuYnAX8-rEDUaYvT" title="CDC Vouchers Scheme 2024 - Merchants Video (Malay)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 <p>1: Muat turun RedeemSG Merchant dan log mengguanakan nomber telefon bimbit anda. </p>
