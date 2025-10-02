@@ -2,19 +2,19 @@ title: CDC Vouchers Scheme
 url: https://vouchers.cdc.gov.sg
 favicon: /images/cdc-icon.png
 colors:
-  primary-color: "#51ccbe"
+  primary-color: "#029184"
   secondary-color: "#25245c"
   media-colors:
     - title: media-color-one
       color: "#7472b4"
     - title: media-color-two
-      color: "#51ccbe"
+      color: "#029184"
     - title: media-color-three
-      color: "#00838f"
+      color: "#02776d"
     - title: media-color-four
-      color: "#00838f"
+      color: "#016961"
     - title: media-color-five
-      color: "#00838f"
+      color: "#015c55"
 resources_name: Resources
 description: This is an informational site about CDC Vouchers scheme for
   Singapore residents.
