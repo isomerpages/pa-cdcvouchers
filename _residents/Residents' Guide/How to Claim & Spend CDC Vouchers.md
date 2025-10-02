@@ -37,7 +37,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe aria-label="CDC Vouchers Scheme 2024 - Residents Video (English)" class="youtubevideo" src="https://www.youtube.com/embed/PlE4lHek27k?si=wa_w_o-5OuHSKW1r" title="CDC Vouchers Scheme 2024 - Residents Video (English)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe aria-label="CDC Vouchers Scheme 2024 - Step by Step Video for Residents (English)" class="youtubevideo" src="https://www.youtube.com/embed/PlE4lHek27k?si=wa_w_o-5OuHSKW1r" title="CDC Vouchers Scheme 2024 - Step by Step Video for Residents (English)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 ## How to claim and spend your CDC Vouchers 2025 (May)
