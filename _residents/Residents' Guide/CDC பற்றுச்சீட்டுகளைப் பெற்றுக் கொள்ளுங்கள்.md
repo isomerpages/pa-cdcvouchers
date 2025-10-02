@@ -37,7 +37,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/axt_DyfMR60?si=UupvWhY453ryzHto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe aria-label="CDC Vouchers Scheme 2024 - Residents Video (Tamil)" class="youtubevideo" src="https://www.youtube.com/embed/axt_DyfMR60?si=UupvWhY453ryzHto" title="CDC Vouchers Scheme 2024 - Residents Video (Tamil)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
 ## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொண்டு பயன்படுத்துவது எப்படி
