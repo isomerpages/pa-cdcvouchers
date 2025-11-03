@@ -16,22 +16,4 @@ c)	**Pledge your donation** – Login via Singpass to pledge the entire balance 
 Need help on donating your CDC Vouchers 2025?<br>
 Watch the step-by-step video guide below or [read our donation related FAQs.](/donate/faq/)
 
-<style>
- .youtubecontainer {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 56.25%;
-}
-.youtubevideo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-
-<div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/bHhxx2QLXrc?si=PS3FNd0MB6DA6TSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-	</div>
+-video-
