@@ -125,7 +125,7 @@ CDCs will share your details with your preferred IPC after 31 January 2026 i.e. 
     <div>
 			<p>Residents will be able to donate the balance of their vouchers to one preferred IPC. </p>
 			<p>
-The list of participating IPCs is available on the CDC Vouchers website at https://vouchers.cdc.gov.sg.</p>
+The list of participating IPCs is available on the CDC Vouchers website at vouchers.cdc.gov.sg/donation-of-vouchers.</p>
 			<p>There are more than 100 charities, from different sectors such as Arts, Heritage, Environment, Sports, Health, etc
 </p>
 	</div>
