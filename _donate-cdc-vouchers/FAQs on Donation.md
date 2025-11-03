@@ -13,7 +13,7 @@ variant: markdown
     <div>
 			<p>Residents can pledge to donate the balance of their CDC Vouchers 2025 in three steps: </p>
 			<p>
-1) Visit the CDC Vouchers Scheme website at vouchers.cdc.gov.sg and click on ‘Donate CDC Vouchers 2025’ <br>
+1) Visit the CDC Vouchers Scheme website at <a href="https://vouchers.cdc.gov.sg">vouchers.cdc.gov.sg</a> and click on ‘Donate CDC Vouchers 2025’ <br>
 2) View list of Institutions of Public Character (IPCs) - select your preferred IPC from a list IPCs from different sectors and be directed to a FormSG to pledge the declaration of donation<br> 
 3) Pledge your donation – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers 2025 as of 31 December 2025 to the selected IPC</p>
 <p>
@@ -80,7 +80,7 @@ The donation period of up 31 January 2026 is to provide residents additional tim
     <input type="checkbox" id="accordion9">
     <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Instead of IPCs, can I donate the balance CDC Vouchers to another household (not members of my household) that I know of, who needs the vouchers?  </span></label>
     <div>
- 			<p>If you wish to share your CDC Vouchers, click on “Share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/ WhatsApp/ Telegram. &nbsp;Please refer to illustration below.</p>
+ 			<p>If you wish to share your CDC Vouchers, click on “Share” button to copy the unique voucher link and paste into any preferred messaging apps e.g. SMS/WhatsApp/Telegram. Please refer to illustration below.</p>
 			<p>Recipients are advised to be careful with sharing unique voucher links with others, as this would allow them to spend the household’s vouchers.  To ensure that you safekeep your unique voucher links, we urge you to share only when necessary and to the right parties.  We seek your understanding that there will be no reinstatement made for vouchers that were shared erroneously.</p>
 				<p>				
 			<table border="1" cellspacing="0" cellpadding="0">
@@ -106,7 +106,7 @@ The donation period of up 31 January 2026 is to provide residents additional tim
     <input type="checkbox" id="accordion10">
     <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate the balance CDC Vouchers (printed)? Do I visit the CCs for assistance? </span></label>
     <div>
- 			<p>You do not have to go the CCs. If you would like to donate the balance of your vouchers, please go to vouchers.cdc.gov.sg/donate to submit your donation declaration.</p>
+ 			<p>You do not have to go the CCs. If you would like to donate the balance of your vouchers, please go to <a href="https://vouchers.cdc.gov.sg/donate">vouchers.cdc.gov.sg/donate</a> to submit your donation declaration.</p>
 	</div>
   </li>
 	<li>
@@ -125,7 +125,7 @@ CDCs will share your details with your preferred IPC after 31 January 2026 i.e. 
     <div>
 			<p>Residents will be able to donate the balance of their vouchers to one preferred IPC. </p>
 			<p>
-The list of participating IPCs is available on the CDC Vouchers website at vouchers.cdc.gov.sg/donation-of-vouchers.</p>
+The list of participating IPCs is available on the CDC Vouchers website at <a href="https://vouchers.cdc.gov.sg/donation-of-vouchers">vouchers.cdc.gov.sg/donation-of-vouchers</a>.</p>
 			<p>There are more than 100 charities, from different sectors such as Arts, Heritage, Environment, Sports, Health, etc
 </p>
 	</div>
