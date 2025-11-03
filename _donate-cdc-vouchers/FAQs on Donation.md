@@ -13,7 +13,7 @@ variant: markdown
     <div>
 			<p>Residents can pledge to donate the balance of their CDC Vouchers 2025 in three steps: </p>
 			<p>
-1) Visit the CDC Vouchers Scheme website at https://vouchers.cdc.gov.sg and click on ‘Donate CDC Vouchers 2025’ <br>
+1) Visit the CDC Vouchers Scheme website at vouchers.cdc.gov.sg and click on ‘Donate CDC Vouchers 2025’ <br>
 2) View list of Institutions of Public Character (IPCs) - select your preferred IPC from a list IPCs from different sectors and be directed to a FormSG to pledge the declaration of donation<br> 
 3) Pledge your donation – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers 2025 as of 31 December 2025 to the selected IPC</p>
 <p>
@@ -51,7 +51,7 @@ The donation period of up 31 January 2026 is to provide residents additional tim
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Am I able to utilise my CDC Vouchers balance after I pledge my donation via the CDC Vouchers website?</span></label>
     <div>
- 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2026 can still utilise them until they expire on 31 December 2025. &nbsp;At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2025 and transfer the amount to the respective IPCs from June 2026 onwards. 
+ 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2026 can still utilise them until they expire on 31 December 2025. At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2025 and transfer the amount to the respective IPCs from June 2026 onwards. 
 			</p>		
 	    </div>
   </li>
@@ -66,7 +66,7 @@ The donation period of up 31 January 2026 is to provide residents additional tim
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens to the unclaimed/undonated CDC Vouchers 2025?  </span></label>
     <div>
- 			<p>As the CDC Vouchers expire on 31 December 2025, all unclaimed/ undonated CDC Voucher will lapse, and the amount will be returned to the Government for other national schemes. Therefore, households are encouraged to claim and utilise their CDC Vouchers within the validity period.</p>
+ 			<p>As the CDC Vouchers expire on 31 December 2025, all unclaimed/undonated CDC Voucher will lapse, and the amount will be returned to the Government for other national schemes. Therefore, households are encouraged to claim and utilise their CDC Vouchers within the validity period.</p>
 	</div>
   </li>
 	<li>
@@ -106,7 +106,7 @@ The donation period of up 31 January 2026 is to provide residents additional tim
     <input type="checkbox" id="accordion10">
     <label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I donate the balance CDC Vouchers (printed)? Do I visit the CCs for assistance? </span></label>
     <div>
- 			<p>You do not have to go the CCs. If you would like to donate the balance of your vouchers, please go to vouchers.cdc.gov.sg/donate/ to submit your donation declaration.</p>
+ 			<p>You do not have to go the CCs. If you would like to donate the balance of your vouchers, please go to vouchers.cdc.gov.sg/donate to submit your donation declaration.</p>
 	</div>
   </li>
 	<li>
