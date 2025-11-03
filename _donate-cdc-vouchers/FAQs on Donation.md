@@ -51,7 +51,7 @@ The donation period of up 31 January 2026 is to provide residents additional tim
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Am I able to utilise my CDC Vouchers balance after I pledge my donation via the CDC Vouchers website?</span></label>
     <div>
- 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2026 can still utilise them until they expire on 31 December 2025. At the end of the donation period, CDCs/PA will tally the balance amount as of 31 December 2025 and transfer the amount to the respective IPCs from June 2026 onwards. 
+ 			<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2025 can still utilise them until they expire on 31 December 2025. At the end of the donation period, PA/CDCs will tally the balance amount as of 31 December 2025 and transfer the amount to the respective IPCs from June 2026 onwards. 
 			</p>		
 	    </div>
   </li>
@@ -87,14 +87,13 @@ The donation period of up 31 January 2026 is to provide residents additional tim
 <tbody>
 <tr>
 <td>
-	<img src="/images/residents/Share%20with%20Household.jpg" alt="Screenshot of Share My Vouchers" style="width:200px !important;">
-</td>
+	<img src="/images/share_vouchers_2025_may.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;"></td>
 <td>
 	<img src="/images/residents/faq5b2.png" alt="Illustration of voucher link shared via Whatsapp" style="width:300px !important;">	
 	</td>
 </tr>
 		<tr>
-<td>Click on "Share" to share the voucher link with family members</td>
+<td>Click on "Share vouchers" to share the voucher link with family members</td>
 <td>Illustration of voucher link shared via Whatsapp</td>
 </tr>
 </tbody>
@@ -115,7 +114,7 @@ The donation period of up 31 January 2026 is to provide residents additional tim
     <div>
  			<p>Yes, as the cash value of the balance of your household’s CDC Vouchers will be donated to your preferred IPC, you may be eligible for tax deduction. Tax deduction may be provided by respective IPC, depending on the respective IPC’s policy on issuance of tax deduction, which will be reflected in the Year of Assessment 2027.</p>Tax deduction maybe accorded to (i) the person who claimed the CDC Vouchers on behalf of the household; or (ii) the first person from the household making the donation declaration if the household has yet to claim the CDC Vouchers
 			<p>
-CDCs will share your details with your preferred IPC after 31 January 2026 i.e. last day of donation, for them to assess and issue the tax-deduction receipt directly, if any.
+CDCs will share your details with your preferred IPC after the donation campaign ends and the amount is transferred, for them to assess and issue the tax-deduction receipt directly, if any.
 </p>
 	</div>
   </li>
