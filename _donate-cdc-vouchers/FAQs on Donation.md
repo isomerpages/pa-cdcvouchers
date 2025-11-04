@@ -4,7 +4,7 @@ permalink: /donate/faq/
 description: ""
 variant: markdown
 ---
-## Frequently Asked Questions about donation of CDC Vouchers 2025
+## Frequently Asked Questions about Donation of CDC Vouchers 2025
 
 <ul class="jekyllcodex_accordion">
   <li>
