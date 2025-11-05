@@ -520,7 +520,7 @@ variant: tiptap
 <p>Speech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme" rel="noopener noreferrer nofollow" target="_blank">Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC</a>
+<p><a href="https://www.pmo.gov.sg/newsroom/pm-lee-hsien-loong-at-launch-of-130-million-cdc-vouchers-scheme/" rel="noopener noreferrer nofollow" target="_blank">Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
