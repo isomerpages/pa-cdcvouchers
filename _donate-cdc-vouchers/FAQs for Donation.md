@@ -18,13 +18,11 @@ description: ""
 
 <p>Residents can pledge to donate the balance of their CDC Vouchers 2025 in three steps: </p>
 
-<p>
+<ol>
 
-1) Visit the CDC Vouchers Scheme website at <a href="[https://vouchers.cdc.gov.sg">vouchers.cdc.gov.sg</a>](https://vouchers.cdc.gov.sg"&gt;vouchers.cdc.gov.sg) and click on ‘Donate CDC Vouchers 2025’ <br>
-
-2) View list of Institutions of Public Character (IPCs) - select your preferred IPC from a list IPCs from different sectors and be directed to a FormSG to pledge the declaration of donation<br>
-
-3) Pledge your donation – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers 2025 as of 31 December 2025 to the selected IPC</p>
+<li>Visit the CDC Vouchers Scheme website at <a href="https://vouchers.cdc.gov.sg">vouchers.cdc.gov.sg</a> and click on ‘Donate CDC Vouchers 2025’ 
+</li><li>View list of Institutions of Public Character (IPCs) - select your preferred IPC from a list IPCs from different sectors and be directed to a FormSG to pledge the declaration of donation
+</li><li>Pledge your donation – Login via Singpass to pledge the entire balance of the household’s CDC Vouchers 2025 as of 31 December 2025 to the selected IPC</li></ol>
 
 <p>
 
