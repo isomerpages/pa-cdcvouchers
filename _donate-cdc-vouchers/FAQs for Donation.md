@@ -204,7 +204,7 @@ The donation period of up 31 January 2026 is to provide residents additional tim
 
 <div>
 
-<p>You do not have to go the CCs. If you would like to donate the balance of your vouchers, please go to <a href="[https://vouchers.cdc.gov.sg/donate">vouchers.cdc.gov.sg/donate</a>](https://vouchers.cdc.gov.sg/donate"&gt;vouchers.cdc.gov.sg/donate) to submit your donation declaration.</p>
+<p>You do not have to go the CCs. If you would like to donate the balance of your vouchers, please go to <a href="https://vouchers.cdc.gov.sg/donate">vouchers.cdc.gov.sg/donate</a> to submit your donation declaration.</p>
 
 </div>
 
