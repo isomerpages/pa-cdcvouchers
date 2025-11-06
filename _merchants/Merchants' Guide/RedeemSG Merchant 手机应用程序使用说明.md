@@ -31,7 +31,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/RaxS_JszxwQ?si=I0dmCxY-4w-eNX0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe aria-label="CDC Vouchers Scheme 2024 - Merchants Video (Chinese)" class="youtubevideo" src="https://www.youtube.com/embed/RaxS_JszxwQ?si=I0dmCxY-4w-eNX0E" title="CDC Vouchers Scheme 2024 - Merchants Video (Chinese)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 

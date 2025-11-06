@@ -407,7 +407,7 @@ variant: tiptap
 <p>Speeches</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mof.gov.sg/news-publications/speeches/speech-by-mr-lawrence-wong-minister-for-finance-at-the-launch-of-the-cdc-vouchers-scheme-2022-on-wednesday-11-may-2022-at-tampines-west-community-club" rel="noopener noreferrer nofollow" target="_blank">Speech by Mr Lawrence Wong, Minister for Finance, at the Launch of CDC Vouchers Scheme 2022</a> 
+<p><a href="https://www.mof.gov.sg/news-resources/newsroom/speech-by-mr-lawrence-wong-minister-for-finance-at-the-launch-of-the-cdc-vouchers-scheme-2022-on-wednesday-11-may-2022-at-tampines-west-community-club/" rel="noopener noreferrer nofollow" target="_blank">Speech by Mr Lawrence Wong, Minister for Finance, at the Launch of CDC Vouchers Scheme 2022</a> 
 <br>
 <br><a href="https://www.cdc.gov.sg/files/delivered-speech-by-chairman-mayor-low-yen-ling-at-launch-of-cdc-vouchers-scheme-2022%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">Opening Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District</a>
 </p>
@@ -520,7 +520,7 @@ variant: tiptap
 <p>Speech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-Launch-of-$130-Million-CDC-Vouchers-Scheme" rel="noopener noreferrer nofollow" target="_blank">Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC</a>
+<p><a href="https://www.pmo.gov.sg/newsroom/pm-lee-hsien-loong-at-launch-of-130-million-cdc-vouchers-scheme/" rel="noopener noreferrer nofollow" target="_blank">Speech by PM Lee Hsien Loong at Launch of $130 Million CDC Vouchers Scheme on 13 December 2021 at Jurong Spring CC</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
