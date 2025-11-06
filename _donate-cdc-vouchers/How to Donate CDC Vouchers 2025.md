@@ -21,7 +21,7 @@ to a FormSG.<p></p>
 the entire balance of the household’s CDC Vouchers 2025 as of 31 December
 2025 to the selected IPC. Donors may opt to receive an email confirmation
 of their declaration.</li></ol>
-<p><em>*Animal Welfare, Arts &amp; Heritage, Children &amp; Youth, Education, Elderly, Environment, Families &amp;amp; Children, Healthcare, Migrant Community, Persons with Disability, Sports, Others</em>
+<p><em>*Animal Welfare, Arts &amp; Heritage, Children &amp; Youth, Education, Elderly, Environment, Families &amp; Children, Healthcare, Migrant Community, Persons with Disability, Sports, Others</em>
 </p>
 <h4><strong>Need help on donating your CDC Vouchers 2025?</strong></h4>
 <p>Watch the step-by-step video guide below or <a href="/donate/faq">read our donation related FAQs</a>.</p>
