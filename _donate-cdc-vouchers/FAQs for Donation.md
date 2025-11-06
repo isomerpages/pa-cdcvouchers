@@ -240,7 +240,7 @@ CDCs will share your details with your preferred IPC after the donation campaign
 
 <p>
 
-The list of participating IPCs is available on the CDC Vouchers website at <a href="https://vouchers.cdc.gov.sg/donation-of-vouchers">vouchers.cdc.gov.sg/donation-of-vouchers</a>.</p>
+The list of participating IPCs is available on the CDC Vouchers website at <a href="/donation-of-vouchers">vouchers.cdc.gov.sg/donation-of-vouchers</a>.</p>
 
 <p>There are more than 100 charities, from different sectors such as Arts, Heritage, Environment, Sports, Health, etc.
 
