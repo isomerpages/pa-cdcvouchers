@@ -166,7 +166,7 @@ The donation period of up 31 January 2026 is to provide residents additional tim
 
 <td>
 
-<img src="/images/share\_vouchers\_2025\_may.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;"></td>
+<img src="/images/share_vouchers_2025_may.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;"></td>
 
 <td>
 
