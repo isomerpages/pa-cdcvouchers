@@ -7,7 +7,7 @@ description: ""
 <p>From 1 December 2025 until 31 January 2026, Singaporean households may
 pledge to donate their unspent CDC Vouchers 2025 (January) and CDC Vouchers
 2025 (May) to a participating Institution of Public Character (IPC) of
-the CDC Vouchers donation campaign. The CDC vouchers would be donated to
+the CDC Vouchers donation campaign. The CDC Vouchers would be donated to
 the charity in cash value instead of vouchers. Tax deduction may be provided
 by respective IPC, depending on the respective IPC’s policy on issuance
 of tax deduction, which will be reflected in the Year of Assessment 2027.</p>
