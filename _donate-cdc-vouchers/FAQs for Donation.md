@@ -26,7 +26,7 @@ description: ""
 
 <p>
 
-If your household have claimed or yet to claim your CDC Vouchers but wish to donate, you will be able to pledge the donation of your balance CDC Vouchers to your preferred IPC via FormSG.</p>
+If your household has claimed or has yet to claim your CDC Vouchers but wishes to donate, you will be able to pledge the donation of your balance CDC Vouchers to your preferred IPC via FormSG.</p>
 
 </div>
 
@@ -40,7 +40,7 @@ If your household have claimed or yet to claim your CDC Vouchers but wish to don
 
 <div>
 
-<p> From 1 December 2025 until 31 January 2026, residents will be able to pledge their donation of the balance CDC Vouchers 2025 to a preferred charity.</p>
+<p> From 1 December 2025 until 31 January 2026, residents will be able to pledge their donation of their balance CDC Vouchers 2025 to a preferred charity.</p>
 
 <p>
 
@@ -94,7 +94,7 @@ The donation period of up 31 January 2026 is to provide residents additional tim
 
 <div>
 
-<p>Yes. Residents that have pledged the donation of their balance CDC Vouchers 2025 can still utilise them until they expire on 31 December 2025. At the end of the donation period, PA/CDCs will tally the balance amount as of 31 December 2025 and transfer the amount to the respective IPCs from June 2026 onwards.
+<p>Yes. Residents that have pledged their donation of their balance CDC Vouchers 2025 can still utilise them until they expire on 31 December 2025. At the end of the donation period, PA/CDCs will tally the balance amount as of 31 December 2025 and transfer the amount to the respective IPCs from June 2026 onwards.
 
 </p>
 
