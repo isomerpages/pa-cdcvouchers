@@ -25,4 +25,4 @@ of their declaration.</li></ol>
 </p>
 <h4><strong>Need help on donating your CDC Vouchers 2025?</strong></h4>
 <p>Watch the step-by-step video guide below or <a href="/donate/faq">read our donation related FAQs</a>.</p>
-<p>-video-</p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/du8fqk1-iTs?si=oAs1kX87VVZmmOej" height="315" width="560"></iframe>
