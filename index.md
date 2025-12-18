@@ -25,9 +25,9 @@ sections:
       alignment: left
       title: CDC Vouchers Scheme
   - infopic:
-      title: About CDC Vouchers Scheme 2025 (May)
+      title: About CDC Vouchers Scheme 2026 (January)
       id: infopic
-      description: Additional $500 CDC Vouchers 2025 in May for every Singaporean
+      description: Additional $300 CDC Vouchers 2026 in January for every Singaporean
         household to help with daily expenses.
       button: Find out more
       alt: CDC Identifier and Budget Logo
@@ -37,16 +37,16 @@ sections:
       title: Claim your CDC Vouchers 2025 (May)
       subtitle: Residents
       description: Similar to previous tranches, there is no need to download a mobile
-        app. Claim your digital CDC Vouchers 2025 (May) easily.
+        app. Claim your digital CDC Vouchers 2026 (January) easily.
       button: Claim now
       url: https://go.gov.sg/cdcv
       image: /images/Key_Visual_May_2025.png
       alt: cdc vouchers scheme may visual
   - infopic:
-      title: Where to spend your $500 CDC Vouchers 2025 (May)?
+      title: Where to spend your $300 CDC Vouchers 2026 (January)?
       subtitle: Residents
-      description: Spend $250 CDC Vouchers 2025 (May) at participating
-        hawkers/heartland merchants, and the other $250 at participating
+      description: Spend $150 CDC Vouchers 2026 (January) at participating
+        hawkers/heartland merchants, and the other $150 at participating
         supermarkets.
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
