@@ -35,13 +35,13 @@ variant: markdown
   <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What are the steps to come onboard the scheme?</span></label>
-     <div>
+ <div>
       <p>There are two (2) key stages of participation:
 
 </p><p>Stage 1 – Register your interest with:<br>
 a. the CDC Ambassadors, or <br>
 b. the Digital Ambassadors from the SG Digital Office, or<br>
-c. your CDC at https://vouchers.cdc.gov.sg/merchants/info</p>
+c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info"><strong>vouchers.cdc.gov.sg/merchants/info</strong></a></p>
 <p>Stage 2 – A CDC Ambassador will get in touch with you for the sign-up and onboarding. Training will be provided during the onboarding process.</p>
     </div>
   </li>
@@ -68,7 +68,7 @@ c. your CDC at https://vouchers.cdc.gov.sg/merchants/info</p>
     <input type="checkbox" id="accordion5">
     <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How will customers know that they can use the vouchers at my place of business?</span></label>
     <div>
-			<p>All participating merchants and hawkers will be featured on go.gov.sg/cdcvouchers so residents can conveniently search for shops nearest to them. You are required to prominently display the CDC Voucher decal at their stall / shop front for visibility to customers.</p>
+			<p>All participating merchants and hawkers go.gov.sg/cdcvouchers so residents can conveniently search for shops nearest to them. You are required to prominently display the CDC Voucher decal at their stall / shop front for visibility to customers.</p>
     </div>	
 	  </li>
 <li>
