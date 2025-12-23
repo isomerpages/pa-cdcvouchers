@@ -208,11 +208,11 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <tbody>
 <tr>
 <td>Shop Code sent via SMS</td>
-<td><img src="/images/Shop_Code_1.png" alt="Sample Shop Code SMS" style="width:196px !important;height:419px !important;"></td>
+<td><img src="/images/Shop_Code_1.png" alt="Sample Shop Code SMS"></td>
 </tr>
 <tr>
 <td>To easily retrieve the shop code, you can also find this on your app under “Settings” &gt; “Show Shop Code”</td>
-<td><img src="/images/Shop_Code_2.png" alt="Sample RedeemSG App Menu" style="width:196px !important;height:419px !important;"><img src="/images/Shop_Code_3.png" alt="Sample Shop Code Display" style="width:196px !important;height:419px !important;"></td>
+<td><img src="/images/Shop_Code_2.png" alt="Sample RedeemSG App Menu"><img src="/images/Shop_Code_3.png" alt="Sample Shop Code Display"></td>
 </tr>
 </tbody>
 </table>
