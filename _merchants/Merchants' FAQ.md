@@ -14,13 +14,9 @@ variant: markdown
     <input type="checkbox" id="accordion1">
      <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2026 (January)? </span></label>
     <div>
-Each Singaporean household can claim $300 in CDC Vouchers digitally at go.gov.sg/cdcv.
-		
-
-The CDC Vouchers Scheme 2026 (January) was announced by Prime Minister Mr Lawrence Wong during Budget 2025. It aims to provide additional support for Singaporean households to tackle cost pressures.
-
-The value of the $300 CDC Vouchers 2026 (January) will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, and at participating supermarkets. Singaporean households have until 31 December 2026 to claim and spend their CDC Vouchers 2026 (January).
-
+<p>Each Singaporean household can claim $300 in CDC Vouchers digitally at go.gov.sg/cdcv.</p>
+<p>The CDC Vouchers Scheme 2026 (January) was announced by Prime Minister Mr Lawrence Wong during Budget 2025. It aims to provide additional support for Singaporean households to tackle cost pressures.</p>
+<p>The value of the $300 CDC Vouchers 2026 (January) will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, and at participating supermarkets. Singaporean households have until 31 December 2026 to claim and spend their CDC Vouchers 2026 (January).</p>
 </div>
 	</li>  
   <li>
