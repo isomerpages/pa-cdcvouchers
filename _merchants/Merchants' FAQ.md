@@ -87,43 +87,33 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <div>
 <p>Please register your interest with your CDC using the respective forms below. To find out which CDC your stall/shop falls under, please key in your postal code here: <a href="https://www.gowhere.gov.sg/cdc">www.gowhere.gov.sg/cdc</a></p>
 <table border="0" cellspacing="2" cellpadding="2">
-    <tbody>
-        <tr>
-            <td>Central Singapore CDC</td>
-            <td>
-                <a href="https://go.gov.sg/csmerchantreg">https://go.gov.sg/csmerchantreg </a>
-            </td>
-        </tr>
-        <tr>
-            <td>North East CDC</td>
-            <td>
-                <a href="https://go.gov.sg/csmerchantreg">https://go.gov.sg/nemerchantreg</a>
-            </td>
-        </tr>
-        <tr>
-            <td>North West CDC</td>
-            <td>
-                <a href="https://go.gov.sg/nwmerchantreg">https://go.gov.sg/nwmerchantreg</a>
-            </td>
-        </tr>
-        <tr>
-            <td>South East CDC</td>
-            <td>
-                <a href="https://go.gov.sg/semerchantreg">https://go.gov.sg/semerchantreg</a>
-            </td>
-        </tr>
-        <tr>
-            <td>South West CDC</td>
-            <td>
-                <a href="https://go.gov.sg/swmerchantreg">https://go.gov.sg/swmerchantreg</a>
-            </td>
-        </tr>
-    </tbody>
-    </table>
-			
-<p>In case of enquiries, please contact our hotline at 6225 5322. The operating hours of our hotline are:<br>
+<tbody>
+<tr>
+<td>Central Singapore CDC</td>
+<td><a href="https://go.gov.sg/csmerchantreg">go.gov.sg/csmerchantreg </a></td>
+<td rowspan="5"><p>In case of enquiries, please contact our hotline at 6225 5322. The operating hours of our hotline are:<br>
 ● 8am to 6pm, Mondays to Sundays, except Public Holidays (PH) <br>
-● 8.00 am to 1.00 pm on eve of the 3 public holidays, namely New Year, Chinese New Year and Christmas</p>
+● 8.00 am to 1.00 pm on eve of the 3 public holidays, namely New Year, Chinese New Year and Christmas</p></td>
+</tr>
+<tr>
+<td>North East CDC</td>
+<td><a href="https://go.gov.sg/csmerchantreg">go.gov.sg/nemerchantreg</a></td>
+</tr>
+<tr>
+<td>North West CDC</td>
+<td><a href="https://go.gov.sg/nwmerchantreg">go.gov.sg/nwmerchantreg</a></td>
+</tr>
+<tr>
+<td>South East CDC</td>
+<td><a href="https://go.gov.sg/semerchantreg">go.gov.sg/semerchantreg</a></td>
+</tr>
+<tr>
+<td>South West CDC</td>
+<td><a href="https://go.gov.sg/swmerchantreg">go.gov.sg/swmerchantreg</a></td>
+</tr>
+</tbody>
+</table>		
+<p>An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration.</p>
 </div>
 </li>
 				<li>    
