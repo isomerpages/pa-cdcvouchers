@@ -116,12 +116,13 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <p>An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration.</p>
 </div>
 </li>
-				<li>    
-	<input type="checkbox" id="accordion8">
-    <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I check my application status after I have submitted my interest to participate?</span></label>
-        <div> 
-		<p>If you have submitted your application and have not received a reply after 14 calendar days from the date of submission, please contact your respective CDCs to check on the status of your application. We seek your patience as our Ambassadors are reaching out to a large number of merchants progressively in the next few months.</p>
-			<p><table border="0" cellspacing="2" cellpadding="2">
+
+<li>    
+<input type="checkbox" id="accordion8">
+<label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I check my application status after I have submitted my interest to participate?</span></label>
+<div> 
+<p>If you have submitted your application and have not received a reply after 14 calendar days from the date of submission, please contact your respective CDC to check on the status of your application.</p>
+<table border="0" cellspacing="2" cellpadding="2">
 <tbody>
 <tr>
 <td>Central Singapore CDC</td>
@@ -145,25 +146,26 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 </tr>
 </tbody>
 </table>
-			</p>			
-    </div>
-  </li>
-	<li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I had previously participated as a merchant in CDC Vouchers 2023 under the digital scheme. Do I  need to register again to join CDC Vouchers Scheme 2025? </span></label>
-    <div>
-			<p>No, there is no need to register again to participate in CDC Vouchers 2025 if you have already been onboarded to the CDC Vouchers scheme. Our CDC Ambassadors will reach out to you to update on the new scheme and provide the welcome letter. </p>
-    </div>
-  </li>
-<li><input type="checkbox" id="accordion10">
-<label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What do I need to prepare to sign-up and onboard as a new participating heartland merchant/hawker?</span></label>
+</div>
+</li>
+
+<li>
+<input type="checkbox" id="accordion9">
+<label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I had previously participated as a merchant in the CDC Vouchers Scheme 2025  under the digital scheme.  Do I need to register again to join this CDC Vouchers Scheme 2026?</span></label>
 <div>
-<p>During the sign-up process, we will obtain your <strong>business contact information</strong> (such as bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
-<p>You will need to prepare supporting documents for your bank account or PayNow proxy (handphone, NRIC or UEN), depending on which mode of payment was chosen.</p>
-<p>If you are an iPhone user, please also prepare your Apple ID and password on hand as you will need this to be able to download the RedeemSG Merchant app to accept the CDC Vouchers.</p>
+<p>No, there is no need to register again to participate in CDC Vouchers Scheme 2026 if you have already been onboarded to the CDC Vouchers scheme. Our CDC Ambassadors will reach out to you to update on the new scheme and provide the welcome letter.</p>
+</div>
+</li>
+
+<li><input type="checkbox" id="accordion10">
+<label for="accordion10"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What do I need to prepare to sign up and onboard as a new merchant?</span></label>
+<div>
+<p>During the sign-up process, we will obtain your <b>business contact information</b> (such as the bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
+<p>Please also prepare supporting documents for your bank account or PayNow proxy (UEN, handphone, or NRIC), depending on which mode of payment was chosen.</p>
 <p><img src="/images/merchants/m-bank-supporting-doc-bankprofile.png" alt="Sample Bank documents" style="width:270px !important;height:447px !important;"><br><img src="/images/merchants/m-bank-supporting-doc-bankstatement.png" alt="Sample Bank documents" style="width:488px !important;height:335px !important;">	
-<br><i>Samples of supporting documents for merchant's PayNow (top) and bank account details (bottom). Merchants may prepare either type of supporting document based on mode of payment chosen.</i></p>
-	</div>
+<br><i>Samples of supporting documents for merchant's PayNow (top) and bank account details (bottom).</i></p>
+<p>If you are an iPhone user, please also prepare your Apple ID and password on hand as you will need this to download the RedeemSG Merchant app to accept the CDC Vouchers.</p>
+</div>
 </li>
 </ul>
 <a href="#cdcv_page_top">Back to Top</a>
