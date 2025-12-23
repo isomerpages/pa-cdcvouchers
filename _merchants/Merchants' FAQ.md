@@ -23,31 +23,26 @@ variant: markdown
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What are the key benefits of signing up?</span></label>
     <div>
-      <p>With the roll-out of the CDC Vouchers Scheme, participating merchants and hawkers can expect the following:</p>
-      <p>
-			</p><ol>
-        <li>Next-day payout*</li>
-        <li>No Commissions or fees</li>
-				<li>No need to count physical vouchers</li>
-      </ol>
-			<p>*Merchant would need to ensure bank account/PayNow proxy (handphone,  NRIC or UEN) provided to PA are accurate in order to achieve the reimbursement timeline.</p>
-			<p>To enable this, merchants will use the RedeemSG Merchant app to easily accept vouchers and tally transactions.</p>
-			<p>CDC Ambassadors will assist participating merchants and hawkers to successfully onboard the CDC Vouchers Scheme.</p>
-			<p></p>
+      <p>With the roll-out of the CDC Vouchers Scheme, participating merchants and hawkers can expect the following:<br>
+1. Next-day payout*<br>
+2. No Commissions or fees<br>
+3. No need to count physical vouchers</p>
+<p><i>*Merchant would need to ensure bank account/PayNow proxy (either UEN, handphone, or NRIC), provided to our CDC Ambassadors is accurate to facilitate the timely reimbursement.</i></p>
+<p>To enable this, merchants can use the RedeemSG Merchant application to seamlessly accept the CDC vouchers and manage transaction records.</p>
+<p>CDC Ambassadors will assist eligible participating merchants and hawkers in successfully onboarding to the CDC Vouchers Scheme.</p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What are the steps to come onboard the scheme?</span></label>
-    <div>
-      <p>
-				There are two (2) key stages of participation:
-      </p>
-			<p>1) Stage 1 - Register your interest with<br>
-a) the CDC Ambassadors, or<br>
-				b) the Digital Ambassadors from the SG Digital Office, or<br>
-c) <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a>.</p>
-			<p>2) Stage 2 - A CDC Ambassador will get in touch with you for the sign up and onboarding. Training will be provided during the onboarding process.</p>
+     <div>
+      <p>There are two (2) key stages of participation:
+
+</p><p>Stage 1 – Register your interest with:<br>
+a. the CDC Ambassadors, or <br>
+b. the Digital Ambassadors from the SG Digital Office, or<br>
+c. your CDC at https://vouchers.cdc.gov.sg/merchants/info</p>
+<p>Stage 2 – A CDC Ambassador will get in touch with you for the sign-up and onboarding. Training will be provided during the onboarding process.</p>
     </div>
   </li>
   <li>
