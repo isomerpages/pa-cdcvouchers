@@ -10,74 +10,69 @@ variant: markdown
 ## About CDC Vouchers Scheme
 
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-     <label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2026 (January)? </span></label>
-    <div>
-<p>Each Singaporean household can claim $300 in CDC Vouchers digitally at go.gov.sg/cdcv.</p>
+
+<li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the CDC Vouchers Scheme 2026 (January)? </span></label>
+<div>
+<p>Each Singaporean household can claim $300 in CDC Vouchers digitally at <a href="https://go.gov.sg/cdcv">go.gov.sg/cdcv</a>.</p>
 <p>The CDC Vouchers Scheme 2026 (January) was announced by Prime Minister Mr Lawrence Wong during Budget 2025. It aims to provide additional support for Singaporean households to tackle cost pressures.</p>
 <p>The value of the $300 CDC Vouchers 2026 (January) will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, and at participating supermarkets. Singaporean households have until 31 December 2026 to claim and spend their CDC Vouchers 2026 (January).</p>
 </div>
-	</li>  
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What are the key benefits of signing up?</span></label>
-    <div>
-      <p>With the roll-out of the CDC Vouchers Scheme, participating merchants and hawkers can expect the following:<br>
+</li>  
+
+<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What are the key benefits of signing up?</span></label>
+<div>
+<p>With the roll-out of the CDC Vouchers Scheme, participating merchants and hawkers can expect the following:<br>
 1. Next-day payout*<br>
 2. No Commissions or fees<br>
 3. No need to count physical vouchers</p>
 <p><i>*Merchant would need to ensure bank account/PayNow proxy (either UEN, handphone, or NRIC), provided to our CDC Ambassadors is accurate to facilitate the timely reimbursement.</i></p>
 <p>To enable this, merchants can use the RedeemSG Merchant application to seamlessly accept the CDC vouchers and manage transaction records.</p>
 <p>CDC Ambassadors will assist eligible participating merchants and hawkers in successfully onboarding to the CDC Vouchers Scheme.</p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What are the steps to come onboard the scheme?</span></label>
- <div>
-      <p>There are two (2) key stages of participation:
+</div>
+</li>
 
+<li>
+<input type="checkbox" id="accordion3">
+<label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What are the steps to come onboard the scheme?</span></label>
+<div>
+<p>There are two (2) key stages of participation:
 </p><p>Stage 1 – Register your interest with:<br>
 a. the CDC Ambassadors, or <br>
 b. the Digital Ambassadors from the SG Digital Office, or<br>
-c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info"><strong>vouchers.cdc.gov.sg/merchants/info</strong></a></p>
+c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc.gov.sg/merchants/info</a></p>
 <p>Stage 2 – A CDC Ambassador will get in touch with you for the sign-up and onboarding. Training will be provided during the onboarding process.</p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I was approached by individuals claiming to be Ambassadors for the CDC Vouchers Scheme. How can I verify that they are authorised personnel?</span></label>
-    <div>
-			<p>To assist merchants in the registration of interests and onboarding process, IMDA's Digital Ambassadors and CDC Ambassadors are deployed island-wide. The IMDA's Digital Ambassadors can be identified by the uniform and button badge that they will be wearing during deployment:</p>
-			<p><img src="/images/merchants/m-sample-digital-ambassador-uniform-wo-text.png" alt="Sample Digital Ambassadors and CDC Ambassadors Uniform" style="width:448px !important; height:288px !important;">
-				</p><div style="text-align: center;"><i>Sample of Digital Ambassador's Uniform</i></div>
-			<p></p>
-			<p>The CDC Ambassadors can be identified by the official lanyard and button badge during deployment as shown below:</p>
-			<p><img src="/images/merchants/m-sample-digital-ambassador-badge-wo-text.png" alt="Sample Digital Ambassadors and CDC Ambassadors badge" style="width:368px !important;height:323px !important;">
-				</p><div style="text-align: center;"><i>Sample of Button Badge worn by Digital Ambassador and CDC Ambassador</i></div>
-	<p></p>
-			<br>
-				<p><img src="/images/merchants/m-sample-digital-ambassador-lanyard2.png" alt="Sample Digital Ambassadors and CDC Ambassadors lanyard" style="width:400px !important;height:342px !important;">
-	</p><div style="text-align: center;"><i>Sample of CDC Ambassador's lanyard</i></div>
-<p></p>
-					    </div>
-  </li>
-    
-  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How will customers know that they can use the vouchers at my place of business?</span></label>
-    <div>
-			<p>All participating merchants and hawkers go.gov.sg/cdcvouchers so residents can conveniently search for shops nearest to them. You are required to prominently display the CDC Voucher decal at their stall / shop front for visibility to customers.</p>
-    </div>	
-	  </li>
+</div>
+</li>
+
 <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6"><span style="font-weight: 700; font-size: 20px; font- style: normal; color:#000080">How can I get more information about the CDC Vouchers Scheme?</span></label>
-    <div>
-			<p>Please visit the CDC website <a href="https://vouchers.cdc.gov.sg"><strong>https://vouchers.cdc.gov.sg </strong></a></p>
-    </div>
-  </li>
+<input type="checkbox" id="accordion4">
+<label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I was approached by individuals claiming to be Ambassadors for the CDC Vouchers Scheme. How can I verify that they are authorised personnel?</span></label>
+<div>
+<p>To assist merchants in the registration of interests and onboarding process, IMDA's Digital Ambassadors and CDC Ambassadors are deployed island-wide.</p>
+<p>The IMDA's Digital Ambassadors can be identified by the uniform that they will be wearing during deployment.</p>
+<p>The CDC Ambassadors can be identified by the official lanyard and CDC Vouchers badge during deployment.</p>
+</div>
+</li>
+    
+<li>
+<input type="checkbox" id="accordion5">
+<label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How will customers know that they can use the vouchers at my place of business?</span></label>
+<div>
+<p>All participating heartland merchants and hawkers will be featured on <a href="https://go.gov.sg/cdcvouchers">go.gov.sg/cdcvouchers</a> so residents can conveniently search for shops nearest to them. You are required to prominently display the CDC Voucher decal at your stall / shop front for visibility to customers.</p>
+</div>	
+</li>
+
+<li>
+<input type="checkbox" id="accordion6">
+<label for="accordion6"><span style="font-weight: 700; font-size: 20px; font- style: normal; color:#000080">How can I get more information about the CDC Vouchers Scheme?</span></label>
+<div>
+<p>Please visit the CDC website: <a href="https://vouchers.cdc.gov.sg">vouchers.cdc.gov.sg</a></p>
+</div>
+</li>
 </ul>
 <a href="#cdcv_page_top">Back to Top</a>
 <span id="cdcv_page_interested"></span>
@@ -85,11 +80,12 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info"><strong>vouc
 ##  Registration for Interested Merchants
 
 <ul class="jekyllcodex_accordion">
-			<li>
-		    <input type="checkbox" id="accordion7">
-    <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
-				<div>
-	<p>Please <a href="/merchants/info#merchantreginterest">register your interest with your CDC</a> using the respective CDC forms below. To find out which CDC your stall falls under, please key in your postal code using the <a href="https://www.gowhere.gov.sg/cdc">district locator</a>. An officer will be in touch with you within 14 calendar days upon submission of the form on the status of your registration.</p>
+
+<li>
+<input type="checkbox" id="accordion7">
+<label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
+<div>
+<p>Please register your interest with your CDC using the respective forms below. To find out which CDC your stall/shop falls under, please key in your postal code here: <a href="https://www.gowhere.gov.sg/cdc">www.gowhere.gov.sg/cdc</a></p>
 <table border="0" cellspacing="2" cellpadding="2">
     <tbody>
         <tr>
@@ -125,13 +121,11 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info"><strong>vouc
     </tbody>
     </table>
 			
-<p>In case of enquiries, please contact our hotline at 6225 5322.
-				The operating hours of our hotline are:</p>
-<p>● 8am to 6pm, Mondays to Sundays, except Public Holidays (PH) </p>
-<p>● 8.00 am to 1.00 pm on eve of the 3 public holidays, namely New Year, Chinese New Year and Christmas
-  </p>
+<p>In case of enquiries, please contact our hotline at 6225 5322. The operating hours of our hotline are:<br>
+● 8am to 6pm, Mondays to Sundays, except Public Holidays (PH) <br>
+● 8.00 am to 1.00 pm on eve of the 3 public holidays, namely New Year, Chinese New Year and Christmas</p>
 </div>
-	</li>
+</li>
 				<li>    
 	<input type="checkbox" id="accordion8">
     <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I check my application status after I have submitted my interest to participate?</span></label>
