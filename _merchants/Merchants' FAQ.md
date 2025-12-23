@@ -90,7 +90,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <tbody>
 <tr>
 <td>Central Singapore CDC</td>
-<td><a href="https://go.gov.sg/csmerchantreg">go.gov.sg/csmerchantreg </a></td>
+<td><a href="https://go.gov.sg/csmerchantreg">go.gov.sg/csmerchantreg</a></td>
 <td rowspan="5"><p>In case of enquiries, please contact our hotline at 6225 5322. The operating hours of our hotline are:<br>
 ● 8am to 6pm, Mondays to Sundays, except Public Holidays (PH) <br>
 ● 8.00 am to 1.00 pm on eve of the 3 public holidays, namely New Year, Chinese New Year and Christmas</p></td>
@@ -163,7 +163,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <p>During the sign-up process, we will obtain your <b>business contact information</b> (such as the bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
 <p>Please also prepare supporting documents for your bank account or PayNow proxy (UEN, handphone, or NRIC), depending on which mode of payment was chosen.</p>
 <p><img src="/images/merchants/m-bank-supporting-doc-bankprofile.png" alt="Sample Bank documents" style="width:270px !important;height:447px !important;"><br><img src="/images/merchants/m-bank-supporting-doc-bankstatement.png" alt="Sample Bank documents" style="width:488px !important;height:335px !important;">	
-<br><i>Samples of supporting documents for merchant's PayNow (top) and bank account details (bottom).</i></p>
+<br><i>Samples of supporting documents for merchant's PayNow (top) and bank account details (bottom). Merchants may prepare either type of supporting document based on mode of payment chosen.</i></p>
 <p>If you are an iPhone user, please also prepare your Apple ID and password on hand as you will need this to download the RedeemSG Merchant app to accept the CDC Vouchers.</p>
 </div>
 </li>
@@ -175,41 +175,67 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 ## Onboarding for Registered Merchants
 
 <ul class="jekyllcodex_accordion">
-			<li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I gain access to the app?</span></label>
-    <div>
-			<p>You may download the app 'RedeemSG Merchant' on Apple App Store or Google Play Store. A CDC Ambassador will get in touch with you for the sign up and onboarding. Training will be provided during the onboarding process, and you will be provided with your unique shop code to access the app.</p>
-    </div>
-	</li>
-			<li>
-    <input type="checkbox" id="accordion12">
-    <label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Where can I find my shop code?</span></label>
-    <div>
-			<p>The CDC Ambassador who has onboarded you should have a copy of the shop code. You should have also received the shop code via SMS during onboarding. You are encouraged to note down the shop code on the CDC Vouchers Scheme decal. After you have logged in to RedeemSG Merchant App, you can find the shop code under “Settings” &gt; “Show Shop Code”. You can use this to onboard other fellow staff.</p>
-				</div>
-	</li>  
-	<li>
-    <input type="checkbox" id="accordion13">
-    <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I share my RedeemSG Merchant account with my staff? How do they login to the app?</span></label>
-    <div>
-			<p>Your staff can download the RedeemSG Merchant app using their own device, and log-in using the same shop code that was issued to you by the CDC Ambassador or sent to you via SMS. Please get all your staff to download the app and login via your Shop Code to ensure that customers can redeem their vouchers with your staff even if you are not at the stall.</p>		
-		</div>	
-	</li>
 <li>
-    <input type="checkbox" id="accordion14">
-    <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I currently have multiple shop branches. Am I able to track each of the shops’ transactions individually and ensure only one branch’s staff can see that branch’s records?</span></label>
+<input type="checkbox" id="accordion11">
+<label for="accordion11"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I gain access to the RedeemSG Merchant app?</span></label>
 <div>
-			<p>Yes, in order to enable this, you can sign-up each branch as a single shop account and that shop will be issued its own shop code. Staff will then only be able to see that particular shop’s transactions.</p>
-	</div>	
-	</li>
-	<li>
-    <input type="checkbox" id="accordion15">
-    <label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I did not receive the SMS on One Time Password. What should I do?</span></label>
-    <div>
-			<p>If you are not receiving “gov.sg” SMS messages to your phone, please refer to the steps listed <a href="https://go.gov.sg/no-govsg-sms">here. </a>
-		</p></div>	
-	</li>
-			</ul>
+<p>You may download the app 'RedeemSG Merchant' on the Apple’s App Store or Google Play Store. A CDC Ambassador will get in touch with you for the sign-up and onboarding. Training will be provided during the onboarding process, and you will be provided with your unique shop code to access the app.</p>
+</div>
+</li>
+
+<li>
+<input type="checkbox" id="accordion12">
+<label for="accordion12"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I get my shop code?</span></label>
+<div>
+<p>You will receive your shop code from the CDC Ambassador during your onboarding session. It will also be sent to you via SMS to your registered mobile number.</p>
+</div>
+</li>  
+
+<li>
+<input type="checkbox" id="accordion13">
+<label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I currently have multiple shop branches. Am I able to track each of the shops’ transactions individually and ensure only one branch’s staff can see that branch’s records?</span></label>
+<div>
+<p>Yes, in order to enable this, you can sign up each branch as a single shop account and that shop will be issued its own shop code. Staff will then only be able to see that particular shop’s transactions.</p>
+</div>	
+</li>
+
+<li>
+<input type="checkbox" id="accordion14">
+<label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I share the RedeemSG Merchant account with my staff? How do they log in to the app?</span></label>
+<div>
+<p>Your staff can download the RedeemSG Merchant app using their own device, and log in using the same shop code that was issued to you by the CDC Ambassador or sent to you via SMS. Please get all your staff to download the app and log in with your shop code to ensure that customers can redeem their vouchers with your staff even when you are not at the stall.</p>
+<table border="0" cellspacing="2" cellpadding="2">
+<tbody>
+<tr>
+<td>Shop Code sent via SMS</td>
+<td><img src="/images/Shop_Code_1.png" alt="Sample Shop Code SMS" style="width:196px !important;height:419px !important;"></td>
+</tr>
+<tr>
+<td>To easily retrieve the shop code, you can also find this on your app under “Settings” &gt; “Show Shop Code”</td>
+<td><img src="/images/Shop_Code_2.png" alt="Sample RedeemSG App Menu" style="width:196px !important;height:419px !important;"><img src="/images/Shop_Code_3.png" alt="Sample Shop Code Display" style="width:196px !important;height:419px !important;"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+
+<li>
+<input type="checkbox" id="accordion15">
+<label for="accordion15"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Where can I find my shop code?</span></label>
+<div>
+<p>The CDC Ambassador who has onboarded you should have a copy of the shop code. You should have also received the shop code via SMS during onboarding. You are encouraged to note down the shop code on the CDC Vouchers Scheme decal.</p>
+<p>After you have logged in to RedeemSG Merchant App, you can find the shop code under “Settings” &gt; “Show Shop Code”. You can use this to onboard other fellow staff.</p>
+<p><img src="/images/Shop_Code_3.png" alt="Sample Shop Code Display" style="width:196px !important;height:419px !important;"></p>
+</div>	
+</li>
+
+<li>
+<input type="checkbox" id="accordion16">
+<label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I did not receive the SMS on One Time Password. What should I do?</span></label>
+<div>
+<p>If you are not receiving “gov.sg” SMS messages to your phone, please refer to the steps listed <a href="https://go.gov.sg/no-govsg-sms">here</a> from Gov.sg.</p>
+</div>	
+</li>
+</ul>
 			
 <a href="#cdcv_page_top">Back to Top</a>
