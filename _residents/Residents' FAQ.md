@@ -301,6 +301,6 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 </div>
 </li>
 
-</ul>
+</ul></ul>
 	
-<a href="#cdcv_page_top">Back to Top</a></ul>
+<a href="#cdcv_page_top">Back to Top</a>
