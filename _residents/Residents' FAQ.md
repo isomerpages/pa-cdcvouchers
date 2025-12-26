@@ -24,7 +24,7 @@ variant: markdown
 <input type="checkbox" id="accordion2">
 <label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Who is eligible for the CDC Vouchers Scheme?</span></label>
 <div>
-<p>Each Singaporean household will be able to claim $300 worth of CDC Vouchers 2025 (January) via the website <a href="https://go.gov.sg/cdcv">go.gov.sg/cdcv</a>.</p>
+<p>Each Singaporean household will be able to claim $300 worth of CDC Vouchers 2026 (January) via the website <a href="https://go.gov.sg/cdcv">go.gov.sg/cdcv</a>.</p>
 </div>
 </li>
 
@@ -53,15 +53,15 @@ variant: markdown
 <p>The vouchers can be shared with your household members via the following method.</p>
 <p>1. Click on “Share” button to copy the unique voucher link<br> 2. Paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration.</p>
 <p>Recipients are advised to be careful with sharing unique voucher links with others, as this would allow others to spend the household’s vouchers. To ensure that you safekeep your unique voucher links, we urge you to share only when necessary and to the right parties. We seek your understanding that there will be no reinstatement made for vouchers that were shared erroneously.</p>
-<table border="1" cellspacing="0" cellpadding="0">
+<table>
 <tbody>
 <tr>
 <td>Click on "Share vouchers" to share the voucher link with family members</td>
-<td><img src="/images/2026_Jan_Share_Vouchers.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;"></td>
+<td><img src="/images/2026_Jan_Share_Vouchers.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;height:auto !important;"></td>
 </tr>
 <tr>
 <td>Illustration of voucher link shared via Whatsapp</td>
-<td><img src="/images/residents/faq5b2.png" alt="Illustration of voucher link shared via Whatsapp" style="width:300px !important;"></td>
+<td><img src="/images/residents/faq5b2.png" alt="Illustration of voucher link shared via Whatsapp" style="width:300px !important;height:auto !important;"></td>
 </tr>
 </tbody>
 </table>
@@ -82,9 +82,9 @@ variant: markdown
 
 <li>
 <input type="checkbox" id="accordion7">
-<label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the voucher claiming and expiry date for CDC Vouchers 2026 (January)? </span></label>
+<label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the voucher claiming and expiry date for CDC Vouchers 2026 (January)?</span></label>
 <div>
-<p>The CDC Vouchers 2025 (January) can be claimed from 2 January 2026 and will expire on 31 December 2026.</p>
+<p>The CDC Vouchers 2026 (January) can be claimed from 2 January 2026 and will expire on 31 December 2026.</p>
 </div>
 </li>
 </ul>
@@ -96,7 +96,7 @@ variant: markdown
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion8">
-<label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I claim or retrieve my household's CDC Vouchers 2025 (May)?Do I need to re-claim the vouchers if I have already claimed my January2025 CDC Vouchers?</span></label>
+<label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I claim or retrieve my household’s CDC Vouchers? Do I need to re-claim the vouchers?</span></label>
 <div>
 <p>Yes. The claiming process remains the same as the past years’ CDC Vouchers. Only one member representing the household needs to make the claim digitally via Singpass at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a><strong>.</strong></p><strong>
 <p>To claim the vouchers,<br>
@@ -145,28 +145,28 @@ variant: markdown
 <div>
 <p>When you sign up for your vouchers, a One Time Password (OTP) will be sent to the mobile number you have keyed in for verification, to ensure vouchers will not be sent to the wrong mobile number.  If you had keyed in the wrong mobile number, you will not receive the One Time Password and you can return to the previous page to key in your mobile number again.</p>
 
-3May25.png"&gt;<table border="1" cellspacing="0" cellpadding="0">
+<table>
 <tbody>
 <tr>
 <td>One Time Password (OTP) will be sent to your registered mobile number</td>
-<td><img src="/images/RedeemSG_OTP.png" alt="Sample OTP Screen" style="width:169px !important;height:auto !important;"></td>
+<td><img src="/images/RedeemSG_OTP.png" alt="Sample OTP Screen" style="width:200px !important;height:auto !important;"></td>
 </tr>
 <tr>
 <td>Vouchers will be sent to your verified mobile number from <b>Gov.sg</b></td>
-<td><img type="checkbox" src="/images/2026_Jan_Sample_SMS.png</td>
-</tr>
+<td><img src="/images/2026_Jan_Sample_SMS.png" alt="Sample Voucher SMS" style="width:200px !important;height:auto !important;">
+</td></tr>
 </tbody>
 </table>
 </div>
 </li>
 
 <li>
-<input id=" alt="Sample Voucher SMS" style="width:210px !important;height:374px !important;">
+<input type="checkbox" id="accordion13">
 <label for="accordion13"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I was not prompted to key in an OTP after keying in my mobile number. Why is this so?</span></label>
 <div>
 <p>Once you have keyed in your mobile number, RedeemSG will verify this number against the mobile number listed in your Singpass. If the mobile number matches your Singpass records, you will not be prompted to key in an OTP.</p>
 </div>
-
+</li>
 
 <li>
 <input type="checkbox" id="accordion14">
@@ -183,24 +183,24 @@ variant: markdown
 <p>The SMS is identifiable by the sender named “Gov.sg”. The voucher link should also start with the prefix https://voucher.redeem.gov.sg.  Do not trust voucher links starting with other prefixes.</p>
 <p>Please be careful to only use the official links and QR code (<a href="https://go.gov.sg/cdcv">go.gov.sg/cdcv</a>) to claim your vouchers. Gov.sg will only send you an SMS with your unique voucher link after you claim your vouchers at go.gov.sg/cdcv and will never send SMSes requiring your personal or banking details.</p>
 <p>If you detect any suspicious messages relating to RedeemSG or Gov.sg or CDC vouchers, please contact PA at 6225 5322, or submit the information online at <a href="https://www.police.gov.sg/iwitness">www.police.gov.sg/iwitness</a> or call 1800 2555 0000 to make a police report.</p>
-<table border="1" cellspacing="0" cellpadding="0">
+<table>
 <tbody>
 <tr>
-<td>A typical SMS from Gov.sg will look like the screenshot on the left. Please note that the exact voucher link URL blurred will vary.</td>
-<td><img type="checkbox" src="/images/2026_Jan_Sample_SMS.png</td>
-</tr>
+<td>A typical SMS from Gov.sg will look like the screenshot on the right. Please note that the exact voucher link URL blurred will vary.</td>
+<td><img src="/images/2026_Jan_Sample_SMS.png" alt="Sample Voucher SMS" style="width:210px !important;height:374px !important;">
+</td></tr>
 </tbody>
 </table>
 </div>
 </li>
 
 <li>
-<input id=" alt="Sample Voucher SMS" style="width:210px !important;height:374px !important;">
+<input type="checkbox" id="accordion16">
 <label for="accordion16"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What happens if I accidentally delete the SMS with the voucher link?</span></label>
 <div>
 <p>To retrieve your existing voucher link for your CDC Vouchers, please visit <a href="https://go.gov.sg/cdcv">go.gov.sg/cdcv</a> and log in with Singpass again. A SMS with your existing voucher link will be sent to you.</p>
 </div>
- 
+</li> 
 
 <li>
 <input type="checkbox" id="accordion17">
@@ -217,7 +217,8 @@ variant: markdown
 <label for="accordion18"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I ask a non-household member to claim my vouchers on behalf of my household?</span></label>
 <div>
 <p>Yes, you may authorise a non-household member to claim your household vouchers. He or she should bring along a completed <a href="/files/Voucher_Claim_Authorisation_Letter_2026_Jan.pdf">Authorisation Form</a>, and the necessary supporting documents (specified in the authorisation form) to the Community Centre/Club (CC).</p>
-</div></li>
+</div>
+</li>
 
 <li>
 <input type="checkbox" id="accordion19">
@@ -267,7 +268,7 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 <label for="accordion23"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I verify that the merchant has successfully deducted my vouchers?</span></label>
 <div>
 <p>Merchants will receive a transaction successful confirmation on either their RedeemSG Merchant mobile application or Point-of-Sales interface. At the same time, your QR code will be updated to “Redeemed” along with the merchant’s name and time of transaction. If you have exited that page, you can view your transaction history on the main vouchers page instead. All spent vouchers will no longer be clickable and will be marked as redeemed.</p>
-<table style="border-collapse: collapse; border-style: solid;" border="1" cellspacing="1" cellpadding="1">
+<table>
 <tbody>
 <tr>
 <td>QR code will be updated to “Redeemed” status</td>
@@ -295,9 +296,9 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 <div>
 <p>Yes, the CDC vouchers can be used at all participating heartland merchants, hawkers and supermarkets island wide. You can visit go.gov.sg/cdcvouchers to find out where to spend your CDC Vouchers.</p>
 <p>You can also identify participating heartland merchants and hawkers with the teal-coloured “CDC Voucher” decal displayed at shopfronts.</p>
-<p><img src="/images/Decal_1.png" alt="Teal Decal" style="width:50% !important;height:auto !important;"></p>
+<p><img src="/images/Decal_1.jpg" alt="Teal Decal" style="width:50% !important;height:auto !important;"></p>
 <p>Similarly, you can also identify participating supermarkets with the yellow-coloured “CDC Supermarket Voucher” decal displayed at the supermarkets.</p>
-<p><img src="/images/Decal_2.png" alt="Yellow Decal" style="width:50% !important;height:auto !important;"></p>
+<p><img src="/images/Decal_2.jpg" alt="Yellow Decal" style="width:50% !important;height:auto !important;"></p>
 </div>
 </li>
 
@@ -331,23 +332,19 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 <div>
 <p>Similar to other vouchers like supermarket vouchers, merchants are unable to provide change for this case. However, you may use your CDC Vouchers, and top up the difference using cash.</p>
 <p>For example, if the cost of item is $6.90:</p>
-<table style="border-collapse: collapse; border-style: solid;" border="1" cellspacing="1" cellpadding="1">
+<table>
 <tbody>
 <tr>
-<td>Cost of Item: $6.90</td>
+<td>Value of Vouchers Used <br>(in $2, $5 and $10 denomination)</td>
+<td>Unused amount / value</td>
 </tr>
 <tr>
-<td>Value of Vouchers Used <br>(in $2, $5 and $10 denomination)<p></p>
-</td>
-<td style="width: 60%;">Unused amount / value</td>
+<td>$7.00</td>
+<td>Merchant is unable to provide the change</td>
 </tr>
 <tr>
-<td style="width: 40%;">$7.00</td>
-<td style="width: 60%;">Merchant is unable to provide the change</td>
-</tr>
-<tr>
-<td style="width: 40%;">$5.00</td>
-<td style="width: 60%;">Resident may <b>top-up</b> the difference of $1.90 using cash.</td>
+<td>$5.00</td>
+<td>Resident may <b>top-up</b> the difference of $1.90 using cash.</td>
 </tr>
 </tbody>
 </table>
@@ -364,4 +361,4 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 
 </ul>
 
-[Back to Top](#cdcv_page_top)</td></tr></tbody></table></div></li></td></tr></tbody></table></div></li></strong></ul>
+[Back to Top](#cdcv_page_top)</strong></ul>
