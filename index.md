@@ -34,7 +34,7 @@ sections:
       url: /about
       image: /images/CDCV_Identifier_and_Budget_2025_Logo.png
   - infopic:
-      title: Claim your CDC Vouchers 2025 (May)
+      title: Claim your CDC Vouchers 2026 (January)
       subtitle: Residents
       description: Similar to previous tranches, there is no need to download a mobile
         app. Claim your digital CDC Vouchers 2026 (January) easily.
