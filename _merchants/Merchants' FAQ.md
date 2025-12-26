@@ -97,7 +97,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 </tr>
 <tr>
 <td>North East CDC</td>
-<td><a href="https://go.gov.sg/csmerchantreg">go.gov.sg/nemerchantreg</a></td>
+<td><a href="https://go.gov.sg/nemerchantreg">go.gov.sg/nemerchantreg</a></td>
 </tr>
 <tr>
 <td>North West CDC</td>
@@ -153,7 +153,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <input type="checkbox" id="accordion9">
 <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I had previously participated as a merchant in the CDC Vouchers Scheme 2025  under the digital scheme.  Do I need to register again to join this CDC Vouchers Scheme 2026?</span></label>
 <div>
-<p>No, there is no need to register again to participate in CDC Vouchers Scheme 2026 if you have already been onboarded to the CDC Vouchers scheme. Our CDC Ambassadors will reach out to you to update on the new scheme and provide the welcome letter.</p>
+<p>No, there is no need to register again to participate in CDC Vouchers Scheme 2026 if you have already been onboarded to the CDC Vouchers scheme.</p>
 </div>
 </li>
 
@@ -162,7 +162,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <div>
 <p>During the sign-up process, we will obtain your <b>business contact information</b> (such as the bank account details, contact information and UEN used by your business). If you wish to provide other personal information to us (such as your NRIC No.), we may accept the information.</p>
 <p>Please also prepare supporting documents for your bank account or PayNow proxy (UEN, handphone, or NRIC), depending on which mode of payment was chosen.</p>
-<p><img src="/images/merchants/m-bank-supporting-doc-bankprofile.png" alt="Sample Bank documents" style="width:270px !important;height:447px !important;"><br><img src="/images/merchants/m-bank-supporting-doc-bankstatement.png" alt="Sample Bank documents" style="width:488px !important;height:335px !important;">	
+<p><img src="/images/merchants/m-bank-supporting-doc-bankprofile.png" alt="Sample Bank documents" style="width:210px !important;height:auto !important;"><br><img src="/images/merchants/m-bank-supporting-doc-bankstatement.png" alt="Sample Bank documents" style="width:420px !important;height:auto !important;">	
 <br><i>Samples of supporting documents for merchant's PayNow (top) and bank account details (bottom). Merchants may prepare either type of supporting document based on mode of payment chosen.</i></p>
 <p>If you are an iPhone user, please also prepare your Apple ID and password on hand as you will need this to download the RedeemSG Merchant app to accept the CDC Vouchers.</p>
 </div>
@@ -204,15 +204,15 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <label for="accordion14"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can I share the RedeemSG Merchant account with my staff? How do they log in to the app?</span></label>
 <div>
 <p>Your staff can download the RedeemSG Merchant app using their own device, and log in using the same shop code that was issued to you by the CDC Ambassador or sent to you via SMS. Please get all your staff to download the app and log in with your shop code to ensure that customers can redeem their vouchers with your staff even when you are not at the stall.</p>
-<table border="0" cellspacing="2" cellpadding="2">
+<table>
 <tbody>
 <tr>
-<td style="width: 30%;">Shop Code sent via SMS</td>
-<td style="width: 70%;"><img src="/images/Shop_Code_1.png" alt="Sample Shop Code SMS" style="width:196px !important;height:419px !important;"></td>
+<td style="width: 40%;">Shop Code sent via SMS</td>
+<td style="width: 60%;"><img src="/images/Shop_Code_1.png" alt="Sample Shop Code SMS" style="width:210px !important;height:auto !important;"></td>
 </tr>
 <tr>
-<td style="width: 30%;">To easily retrieve the shop code, you can also find this on your app under “Settings” &gt; “Show Shop Code”</td>
-<td style="width: 70%;"><img src="/images/Shop_Code_2.png" alt="Sample RedeemSG App Menu" style="width:196px !important;height:419px !important;"><img src="/images/Shop_Code_3.png" alt="Sample Shop Code Display" style="width:196px !important;height:419px !important;"></td>
+<td style="width: 40%;">To easily retrieve the shop code, you can also find this on your app under “Settings” &gt; “Show Shop Code”</td>
+<td style="width: 60%;"><img src="/images/Shop_Code_2.png" alt="Sample RedeemSG App Menu" style="width:210px !important;height:auto !important;"><img src="/images/Shop_Code_3.png" alt="Sample Shop Code Display" style="width:210px !important;height:auto !important;"></td>
 </tr>
 </tbody>
 </table>
@@ -225,7 +225,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <div>
 <p>The CDC Ambassador who has onboarded you should have a copy of the shop code. You should have also received the shop code via SMS during onboarding. You are encouraged to note down the shop code on the CDC Vouchers Scheme decal.</p>
 <p>After you have logged in to RedeemSG Merchant App, you can find the shop code under “Settings” &gt; “Show Shop Code”. You can use this to onboard other fellow staff.</p>
-<p><img src="/images/Shop_Code_3.png" alt="Sample Shop Code Display" style="width:196px !important;height:419px !important;"></p>
+<p><img src="/images/Shop_Code_3.png" alt="Sample Shop Code Display" style="width:210px !important;height:auto !important;"></p>
 </div>	
 </li>
 
