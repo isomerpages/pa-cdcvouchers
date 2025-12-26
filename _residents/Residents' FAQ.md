@@ -80,13 +80,13 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<td>One Time Password (OTP) will be sent to your registered mobile number</td>
-<td><img src="/images/RedeemSG_OTP.png" alt="Sample OTP Screen" style="width:200px !important;height:auto !important;"></td>
+<td style="width: 40%;">One Time Password (OTP) will be sent to your registered mobile number</td>
+<td style="width: 60%;"><img src="/images/RedeemSG_OTP.png" alt="Sample OTP Screen" style="width:200px !important;height:auto !important;"></td>
 </tr>
 <tr>
-<td>Vouchers will be sent to your verified mobile number from <b>Gov.sg</b></td>
-<td><img src="/images/2026_Jan_Sample_SMS.png" alt="Sample Voucher SMS" style="width:200px !important;height:auto !important;">
-</td></tr>
+<td style="width: 40%;">Vouchers will be sent to your verified mobile number from <b>Gov.sg</b></td>
+<td style="width: 60%;"><img src="/images/2026_Jan_Sample_SMS.png" alt="Sample Voucher SMS" style="width:200px !important;height:auto !important;"></td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -118,9 +118,9 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<td>A typical SMS from Gov.sg will look like the screenshot on the right. Please note that the exact voucher link URL blurred will vary.</td>
-<td><img src="/images/2026_Jan_Sample_SMS.png" alt="Sample Voucher SMS" style="width:210px !important;height:374px !important;">
-</td></tr>
+<td style="width: 40%;">A typical SMS from Gov.sg will look like the screenshot on the right. Please note that the exact voucher link URL blurred will vary.</td>
+<td style="width: 60%;"><img src="/images/2026_Jan_Sample_SMS.png" alt="Sample Voucher SMS" style="width:210px !important;height:374px !important;"></td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -166,7 +166,7 @@ variant: markdown
 <label for="accordion20"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">I tried to claim my vouchers, but the website informs me that someone else in my household has already claimed the vouchers. What should I do next?</span></label>
 <div>
 <p>If someone else has claimed the vouchers, the page will display the name of the family member who has claimed the vouchers on behalf of the household, as shown below, after you have logged in with Singpass. You may wish to check with that household member.</p>
-<p><img src="/images/Claimed.png" alt="Sample Double Claim" style="width:210px !important;height:374px !important;"></p>
+<p><img src="/images/Claimed.png" alt="Sample Double Claim" style="width:210px !important;height:auto !important;"></p>
 <p>Should the individual belong to another household staying at the same address, please visit your nearest CC to apply for the CDC Vouchers. Please bring along the following supporting documents:<br>
 o Your NRIC (physical / digital), and<br>
 o Any one of the relevant documents to show proof of household e.g. proof of previous overseas employment / proof of overseas address / tenancy agreement / proof of new resident e.g. taking/handing over keys</p>
@@ -203,19 +203,19 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 <table>
 <tbody>
 <tr>
-<td>QR code will be updated to “Redeemed” status</td>
-<td><img src="/images/Vouchers_Spending_2.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
-<td><img src="/images/Supermarket_Vouchers_Spending_2.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
+<td style="width: 20%;">QR code will be updated to “Redeemed” status</td>
+<td style="width: 40%;"><img src="/images/Vouchers_Spending_2.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
+<td style="width: 40%;"><img src="/images/Supermarket_Vouchers_Spending_2.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
 </tr>
 <tr>
-<td>Spent vouchers marked as “Redeemed” status</td>
-<td><img src="/images/Vouchers_Spending_1.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
-<td><img src="/images/Supermarket_Vouchers_Spending_1.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
+<td style="width: 20%;">Spent vouchers marked as “Redeemed” status</td>
+<td style="width: 40%;"><img src="/images/Vouchers_Spending_1.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
+<td style="width: 40%;"><img src="/images/Supermarket_Vouchers_Spending_1.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
 </tr>
 <tr>
-<td>View Transaction History</td>
-<td><img src="/images/View_History.png" alt="View History Button" style="width:210px !important;height:374px !important;"></td>
-<td><img src="/images/Supermarket_Vouchers_Spending_1.png" alt="Sample Transaction History" style="width:210px !important;height:374px !important;"></td>
+<td style="width: 20%;">View Transaction History</td>
+<td style="width: 40%;"><img src="/images/View_History.png" alt="View History Button" style="width:210px !important;height:374px !important;"></td>
+<td style="width: 40%;"><img src="/images/Supermarket_Vouchers_Spending_1.png" alt="Sample Transaction History" style="width:210px !important;height:374px !important;"></td>
 </tr>
 </tbody>
 </table>
