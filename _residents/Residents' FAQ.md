@@ -180,7 +180,7 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 <p>After multiple tranches of CDC Vouchers Scheme, residents are familiar with the claim and spend process of CDC Vouchers, making hardcopy notification letter as reminder less necessary. As such, as part of CDCs’ commitment towards environmental sustainability, it was decided not to issue any hardcopy letters since CDC Vouchers 2025 (May).  Information on CDC Vouchers will be announced through official channels (such as the CDC Vouchers Scheme website, HDB Digital Display Panels, noticeboards at CCs) and media outlets. For assistance, residents can approach any of their Community Centres/Clubs during their opening hours.</p>
 </div>
 </li> 
-
+</ul>
 <a href="#cdcv_page_top">Back to Top</a>
 
 <span id="cdcv_page_spending"></span>
@@ -301,6 +301,6 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 </div>
 </li>
 
-</ul></ul>
+</ul>
 	
 <a href="#cdcv_page_top">Back to Top</a>
