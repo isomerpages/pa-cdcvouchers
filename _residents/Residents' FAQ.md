@@ -19,74 +19,6 @@ variant: markdown
 <p>The value of the $300 CDC Vouchers 2026 (January) will be allocated equally (i.e. $150 each) to be spent at participating heartland merchants and hawkers, and at participating supermarkets. Singaporean households have until 31 December 2026 to claim and spend their CDC Vouchers 2026 (January).</p>
 </div>
 </li>  
-
-<li>
-<input type="checkbox" id="accordion2">
-<label for="accordion2"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Who is eligible for the CDC Vouchers Scheme?</span></label>
-<div>
-<p>Each Singaporean household will be able to claim $300 worth of CDC Vouchers 2026 (January) via the website <a href="https://go.gov.sg/cdcv">go.gov.sg/cdcv</a>.</p>
-</div>
-</li>
-
-<li>
-<input type="checkbox" id="accordion3">
-<label for="accordion3"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I/my household apply for the CDC Vouchers Scheme?</span></label>
-<div>
-<p>Only one member representing the household needs to make the claim digitally via Singpass at <a href="https://go.gov.sg/cdcv">go.gov.sg/cdcv</a>.</p>
-</div>
-</li>
-
-<li>
-<input type="checkbox" id="accordion4">
-<label for="accordion4"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Why are the CDC vouchers in fixed denominations? / Can we choose or key in the exact amount of vouchers we want to use (for example, $1.50)?</span></label>
-<div>
-<p>The vouchers are in fixed denominations because it is less confusing for residents, especially the digitally less-savvy, and reduces the chance for errors to occur when residents key in the amount.</p>
-<p>The CDCs and Govtech had several rounds of consultations with residents and merchants to gather feedback on the design of the denominations.</p><p>For the CDC Vouchers to be used at heartland merchants and hawkers, the fixed denominations of $2, $5 and $10 allow residents to make purchases at different heartland shops and hawkers. For example, residents may patronise mini-marts or mom-and-pop shops, to purchase groceries or other essential household items, and services such as dental clinics, or hair salons.</p>
-<p>For the CDC Vouchers to be used at supermarkets, the larger denominations of $10 will come in handy as the purchase amounts are typically larger due to the nature of goods sold at supermarkets.</p>
-</div>
-</li>  
-
-<li>
-<input type="checkbox" id="accordion5">
-<label for="accordion5"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Can the vouchers be shared with my household members?</span></label>
-<div>
-<p>The vouchers can be shared with your household members via the following method.</p>
-<p>1. Click on “Share” button to copy the unique voucher link<br> 2. Paste into any preferred messaging apps e.g. SMS/ Whatsapp/ Telegram. Please refer to diagram below for illustration.</p>
-<p>Recipients are advised to be careful with sharing unique voucher links with others, as this would allow others to spend the household’s vouchers. To ensure that you safekeep your unique voucher links, we urge you to share only when necessary and to the right parties. We seek your understanding that there will be no reinstatement made for vouchers that were shared erroneously.</p>
-<table>
-<tbody>
-<tr>
-<td>Click on "Share vouchers" to share the voucher link with family members</td>
-<td><img src="/images/2026_Jan_Share_Vouchers.png" alt="Screenshot of Share My Vouchers" style="width:200px !important;height:auto !important;"></td>
-</tr>
-<tr>
-<td>Illustration of voucher link shared via Whatsapp</td>
-<td><img src="/images/residents/faq5b2.png" alt="Illustration of voucher link shared via Whatsapp" style="width:300px !important;height:auto !important;"></td>
-</tr>
-</tbody>
-</table>
-</div>
-</li>
-
-<li>
-<input type="checkbox" id="accordion6">
-<label for="accordion6"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">On some other e-payment platforms, the customers scan the merchant's QR code to make payment. For the CDC Vouchers Scheme, why must merchants scan the customer's voucher QR code instead? </span></label>
-<div>
-<p>CDCs in partnership with Open Government Products, GovTech, had previously tested the model in which the customer scans the merchant’s QR code. While this is technically possible, we identified it would come with the following drawbacks:</p>
-<p>a) If customers were to scan merchants’ QR, all citizens will need to download a mobile app.</p>
-<p>b) Digitally less-savvy residents would be excluded from the scheme if they do not download an app or have an e-wallet, unless we specially cater for paper vouchers on top of the e-wallet.</p>
-<p>c) We have also found through previous trials with residents that selecting the exact amount to be spent (as in an e-wallet model) was confusing for some residents and error prone.</p>
-<p>To ensure that the digital system caters to both digitally savvy and less-savvy residents, we have designed the digital solution such that merchants and residents will have the same workflow regardless of whether digital or paper voucher is used -- i.e., residents will present the digital/ paper voucher, and merchants will scan digital/paper vouchers.</p>
-</div>
-</li>
-
-<li>
-<input type="checkbox" id="accordion7">
-<label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What is the voucher claiming and expiry date for CDC Vouchers 2026 (January)?</span></label>
-<div>
-<p>The CDC Vouchers 2026 (January) can be claimed from 2 January 2026 and will expire on 31 December 2026.</p>
-</div>
-</li>
 </ul>
 <a href="#cdcv_page_top">Back to Top</a>
 
@@ -116,7 +48,7 @@ variant: markdown
 <label for="accordion9"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">What do I need to claim the vouchers?</span></label>
 <div>
 <p>You will require a valid Singpass account and smartphone to log in and claim your vouchers. Singpass is needed to verify your identity for voucher claims on behalf of your household.</p> 
-<p>Please refer to the step-by-step infographics on how to claim your household’s CDC vouchers on <a href="https://go.gov.sg/cdcv">go.gov.sg/cdcv</a>.</p>			
+<p>Please refer to the step-by-step infographics on how to claim your household’s CDC vouchers on <a href="https://vouchers.cdc.gov.sg">vouchers.cdc.gov.sg</a>.</p>			
 </div>
 </li>
 
@@ -208,7 +140,7 @@ variant: markdown
 <div>
 <p>Please seek help from your family members for assistance to claim the vouchers.</p>
 <p>If you are unable to seek help, you can approach the nearest Community Centre/Club (CC) for assistance to print the vouchers.  Please bring along your Identification Card (IC), and ensure that you have a valid Singpass account.</p>
-<p>To find out the location of your nearest CC, please key in your postal code at <a href="https://www.gowhere.gov.sg/ccrn">www.gowhere.gov.sg/ccrn</a></p>
+<p>You may locate your CC at <a href="https://www.onepa.gov.sg/cc">www.onepa.gov.sg/cc</a></p>
 </div>
 </li>
 
@@ -235,7 +167,7 @@ variant: markdown
 <div>
 <p>If someone else has claimed the vouchers, the page will display the name of the family member who has claimed the vouchers on behalf of the household, as shown below, after you have logged in with Singpass. You may wish to check with that household member.</p>
 <p><img src="/images/Claimed.png" alt="Sample Double Claim" style="width:210px !important;height:374px !important;"></p>
-<p>Should the individual belong to another household staying at the same address, please visit your nearest Community Centre/Club (CC) to apply for the CDC Vouchers before 15 December 2026. Please bring along the following supporting documents:<br>
+<p>Should the individual belong to another household staying at the same address, please visit your nearest CC to apply for the CDC Vouchers. Please bring along the following supporting documents:<br>
 o Your NRIC (physical / digital), and<br>
 o Any one of the relevant documents to show proof of household e.g. proof of previous overseas employment / proof of overseas address / tenancy agreement / proof of new resident e.g. taking/handing over keys</p>
 </div>
@@ -353,7 +285,16 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 
 <li>
 <input type="checkbox" id="accordion29">
-<label for="accordion29"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Previously the CDCs provided an option for residents to donate their CDC Vouchers 2025. Similarly, can I donate my 2026 vouchers for a good cause?</span></label>
+<label for="accordion29"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I find out how much value is left for my CDC vouchers?</span></label>
+<div>
+<p>You may access your voucher link found in the SMS sent by Gov.sg to find out the remaining balance of your CDC Vouchers. The value is shown on the respective tabs:</p>
+<p><img src="/images/2026_Jan_Vouchers_Homepage.png" alt="Sample Voucher Homepage" style="width:210px !important;height:374px !important;"></p>
+</div>
+</li>
+
+<li>
+<input type="checkbox" id="accordion30">
+<label for="accordion30"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">Previously the CDCs provided an option for residents to donate their CDC Vouchers 2025. Similarly, can I donate my 2026 vouchers for a good cause?</span></label>
 <div>
 <p>Similar to previous tranches, we will announce the details for donation at a later date.  We encourage all households to claim and spend their CDC Vouchers.</p>
 </div>
