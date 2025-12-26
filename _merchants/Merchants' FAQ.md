@@ -7,7 +7,7 @@ variant: markdown
 <span id="cdcv_page_top"></span>
 <a href="#cdcv_page_interested"><strong>Registration for Interested Merchants</strong></a> | <a href="#cdcv_page_onboarding"><strong>Onboarding for Registered Merchants</strong></a>
 
-## About CDC Vouchers Scheme
+<h3>About CDC Vouchers Scheme</h3>
 
 <ul class="jekyllcodex_accordion">
 
@@ -77,7 +77,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <a href="#cdcv_page_top">Back to Top</a>
 <span id="cdcv_page_interested"></span>
 
-##  Registration for Interested Merchants
+<h3>Registration for Interested Merchants</h3>
 
 <ul class="jekyllcodex_accordion">
 
@@ -86,7 +86,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <label for="accordion7"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I register interest to participate in the CDC Vouchers Scheme?</span></label>
 <div>
 <p>Please register your interest with your CDC using the respective forms below. To find out which CDC your stall/shop falls under, please key in your postal code here: <a href="https://www.gowhere.gov.sg/cdc">www.gowhere.gov.sg/cdc</a></p>
-<table border="0" cellspacing="2" cellpadding="2">
+<table>
 <tbody>
 <tr>
 <td>Central Singapore CDC</td>
@@ -122,7 +122,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How can I check my application status after I have submitted my interest to participate?</span></label>
 <div> 
 <p>If you have submitted your application and have not received a reply after 14 calendar days from the date of submission, please contact your respective CDC to check on the status of your application.</p>
-<table border="0" cellspacing="2" cellpadding="2">
+<table>
 <tbody>
 <tr>
 <td>Central Singapore CDC</td>
@@ -172,7 +172,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <span id="cdcv_page_onboarding"></span>
 
 
-## Onboarding for Registered Merchants
+<h3>Onboarding for Registered Merchants</h3>
 
 <ul class="jekyllcodex_accordion">
 <li>
@@ -208,11 +208,11 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <tbody>
 <tr>
 <td style="width: 40%;">Shop Code sent via SMS</td>
-<td style="width: 60%;"><img src="/images/Shop_Code_1.png" alt="Sample Shop Code SMS" style="width:210px !important;height:auto !important;"></td>
+<td style="width: 60%;"><img src="/images/008.png" alt="Sample Shop Code SMS" style="width:210px !important;height:auto !important;"></td>
 </tr>
 <tr>
 <td style="width: 40%;">To easily retrieve the shop code, you can also find this on your app under “Settings” &gt; “Show Shop Code”</td>
-<td style="width: 60%;"><img src="/images/Shop_Code_2.png" alt="Sample RedeemSG App Menu" style="width:210px !important;height:auto !important;"><img src="/images/Shop_Code_3.png" alt="Sample Shop Code Display" style="width:210px !important;height:auto !important;"></td>
+<td style="width: 60%;"><img src="/images/009.png" alt="Sample RedeemSG App Menu" style="width:210px !important;height:auto !important;"><img src="/images/010.png" alt="Sample Shop Code Display" style="width:210px !important;height:auto !important;"></td>
 </tr>
 </tbody>
 </table>
@@ -225,7 +225,7 @@ c. your CDC at <a href="https://vouchers.cdc.gov.sg/merchants/info">vouchers.cdc
 <div>
 <p>The CDC Ambassador who has onboarded you should have a copy of the shop code. You should have also received the shop code via SMS during onboarding. You are encouraged to note down the shop code on the CDC Vouchers Scheme decal.</p>
 <p>After you have logged in to RedeemSG Merchant App, you can find the shop code under “Settings” &gt; “Show Shop Code”. You can use this to onboard other fellow staff.</p>
-<p><img src="/images/Shop_Code_3.png" alt="Sample Shop Code Display" style="width:210px !important;height:auto !important;"></p>
+<p><img src="/images/010.png" alt="Sample Shop Code Display" style="width:210px !important;height:auto !important;"></p>
 </div>	
 </li>
 
