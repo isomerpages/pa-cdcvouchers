@@ -31,7 +31,7 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe aria-label="CDC Vouchers Scheme 2024 - Merchants Video (Tamil)" class="youtubevideo" src="https://www.youtube.com/embed/HgaA8luD9Wk?si=URp6pRV9yNhz-0Jz" title="CDC Vouchers Scheme 2024 - Merchants Video (Tamil)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe aria-label="CDC Vouchers Scheme - Merchants Video (Tamil)" class="youtubevideo" src="https://www.youtube.com/embed/HgaA8luD9Wk?si=URp6pRV9yNhz-0Jz" title="CDC Vouchers Scheme - Merchants Video (Tamil)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 <p>1: RedeemSG Merchant செயலியைப் பதிவிறக்கம் செய்து, உங்கள் கைப்பேசி எண்ணுடன் உட்பதிவு செய்யுங்கள்.</p>
