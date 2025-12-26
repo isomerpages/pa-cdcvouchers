@@ -98,18 +98,18 @@ variant: markdown
 <input type="checkbox" id="accordion8">
 <label for="accordion8"><span style="font-weight: 700; font-size: 20px; font-style: normal; color:#000080">How do I claim or retrieve my household’s CDC Vouchers? Do I need to re-claim the vouchers?</span></label>
 <div>
-<p>Yes. The claiming process remains the same as the past years’ CDC Vouchers. Only one member representing the household needs to make the claim digitally via Singpass at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a><strong>.</strong></p><strong>
+<p>Yes. The claiming process remains the same as the past years’ CDC Vouchers. Only one member representing the household needs to make the claim digitally via Singpass at <a href="https://go.gov.sg/cdcv"><strong>go.gov.sg/cdcv</strong></a><strong>.</strong></p>
 <p>To claim the vouchers,<br>
 1) Visit go.gov.sg/cdcv, select CDC Vouchers 2026 (January), and log in with Singpass to claim your CDC vouchers.<br>
 2) Upon successful claim, you will receive the voucher link via SMS.</p>
 <p>To retrieve the voucher link,<br>
 1) You may also visit <a href="https://go.gov.sg/cdcv">go.gov.sg/cdcv</a><br>
-2) Select CDC Vouchers 2026 (January) , and log in with Singpass to retrieve your previous voucher link.
+2) Select CDC Vouchers 2026 (January) , and log in with Singpass to retrieve your previous voucher link.<br>
 3) Existing voucher link will be sent via SMS.</p>
 <p>Do note that the voucher is valid until 31 December 2026.</p>
 <p>You can refer to the step-by-step infographics on the <a href="https://vouchers.cdc.gov.sg">website</a> on how to claim and spend the CDC Vouchers.</p>
-</strong></div><strong>
-</strong></li><strong>
+</div>
+</li>
 
 <li>
 <input type="checkbox" id="accordion9">
@@ -361,4 +361,4 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 
 </ul>
 
-[Back to Top](#cdcv_page_top)</strong></ul>
+[Back to Top](#cdcv_page_top)</ul>
