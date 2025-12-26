@@ -335,8 +335,8 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 <table>
 <tbody>
 <tr>
-<td>Value of Vouchers Used <br>(in $2, $5 and $10 denomination)</td>
-<td>Unused amount / value</td>
+<td><strong>Value of Vouchers Used <br>(in $2, $5 and $10 denomination)</strong></td>
+<td><strong>Unused amount / value</strong></td>
 </tr>
 <tr>
 <td>$7.00</td>
