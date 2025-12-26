@@ -204,18 +204,18 @@ o Any one of the relevant documents to show proof of household e.g. proof of pre
 <tbody>
 <tr>
 <td style="width: 20%;">QR code will be updated to “Redeemed” status</td>
-<td style="width: 40%;"><img src="/images/Vouchers_Spending_2.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
-<td style="width: 40%;"><img src="/images/Supermarket_Vouchers_Spending_2.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
+<td style="width: 40%;"><img src="/images/Vouchers_Spending_2.png" alt="Sample Redeemed Voucher" style="width:auto !important;height:400px !important;"></td>
+<td style="width: 40%;"><img src="/images/Supermarket_Vouchers_Spending_2.png" alt="Sample Redeemed Voucher" style="width:auto !important;height:400px !important;"></td>
 </tr>
 <tr>
 <td style="width: 20%;">Spent vouchers marked as “Redeemed” status</td>
-<td style="width: 40%;"><img src="/images/Vouchers_Spending_1.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
-<td style="width: 40%;"><img src="/images/Supermarket_Vouchers_Spending_1.png" alt="Sample Redeemed Voucher" style="width:210px !important;height:374px !important;"></td>
+<td style="width: 40%;"><img src="/images/Vouchers_Spending_1.png" alt="Sample Redeemed Voucher" style="width:auto !important;height:400px !important;"></td>
+<td style="width: 40%;"><img src="/images/Supermarket_Vouchers_Spending_1.png" alt="Sample Redeemed Voucher" style="width:auto !important;height:400px !important;"></td>
 </tr>
 <tr>
 <td style="width: 20%;">View Transaction History</td>
-<td style="width: 40%;"><img src="/images/View_History.png" alt="View History Button" style="width:210px !important;height:374px !important;"></td>
-<td style="width: 40%;"><img src="/images/Supermarket_Vouchers_Spending_1.png" alt="Sample Transaction History" style="width:210px !important;height:374px !important;"></td>
+<td style="width: 40%;"><img src="/images/View_History.png" alt="View History Button" style="width:auto !important;height:400px !important;"></td>
+<td style="width: 40%;"><img src="/images/Supermarket_Vouchers_Spending_1.png" alt="Sample Transaction History" style="width:auto !important;height:400px !important;"></td>
 </tr>
 </tbody>
 </table>
