@@ -40,8 +40,8 @@ sections:
         app. Claim your digital CDC Vouchers 2026 (January) easily.
       button: Claim now
       url: https://go.gov.sg/cdcv
-      image: /images/Key_Visual_May_2025.png
-      alt: cdc vouchers scheme may visual
+      image: /images/2026_Jan_Banner_Header.jpg
+      alt: cdc vouchers 2026 jan visual
   - infopic:
       title: Where to spend your $300 CDC Vouchers 2026 (January)?
       subtitle: Residents
@@ -50,7 +50,7 @@ sections:
         supermarkets.
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
-      alt: Image alt text
+      alt: cdc vouchers 2026 jan logo
       image: /images/2026_Jan_Hero_Image.png
   - textcards:
       title: Have Questions?
