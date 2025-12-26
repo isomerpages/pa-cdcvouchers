@@ -37,29 +37,29 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe aria-label="CDC Vouchers Scheme 2024 - Step by Step Video for Residents (English)" class="youtubevideo" src="https://www.youtube.com/embed/PlE4lHek27k?si=wa_w_o-5OuHSKW1r" title="CDC Vouchers Scheme 2024 - Step by Step Video for Residents (English)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe aria-label="CDC Vouchers Scheme 2026 (January) - Step by Step Video for Residents (English)" class="youtubevideo" src="https://www.youtube.com/embed/PlE4lHek27k?si=wa_w_o-5OuHSKW1r" title="CDC Vouchers Scheme 2024 - Step by Step Video for Residents (English)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
-## How to claim and spend your CDC Vouchers 2025 (May)
+## How to claim and spend your CDC Vouchers 2026 (January)
 
-1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv).** Tap on CDC Vouchers 2025 (May).
+1: **Visit [go.gov.sg/cdcv](https://go.gov.sg/cdcv).** Tap on CDC Vouchers 2026 (January).
 
-<img src="/images/EN_1May25.png" alt="Step 1" style="width:300px !important;">
+<img src="/images/2026_Jan_RedeemSG_Homepage.png" alt="Step 1" style="width:300px !important;">
 
 
 2: **Log in with Singpass.** Only one household member needs to claim on behalf of the household.
 
-<img src="/images/EN_2May25.png" alt="Step 1" style="width:300px !important;">
+<img src="/images/2026_Jan_Singpass_Login.png" alt="Step 1" style="width:300px !important;">
 
 
 3: **Receive your CDC Voucher link by SMS from “gov.sg”.** Forward the SMS to share with household members.  
 
-<img src="/images/EN_3May25.png" alt="Step 2" style="width:300px !important;">
+<img src="/images/2026_Jan_Sample_SMS.png" alt="Step 2" style="width:300px !important;">
 
 
 4: **Select the voucher type and amount you want to use.** Show the QR code to the participating merchant to scan.
 
-<img src="/images/EN_4May25.png" alt="Step 1" style="width:600px !important;">
+<img src="/images/2026_Jan_Vouchers_Homepage.png" alt="Step 1" style="width:300px !important;">
 
 
 If you do not have a smartphone or Singpass, or for further enquiries or assistance, visit your nearest Community Centre/Club (CC) or call the PA Contact Centre at <a href="tel:6225 5322">6225 5322</a>.
