@@ -167,7 +167,7 @@ variant: markdown
 <div>
 <p>If someone else has claimed the vouchers, the page will display the name of the family member who has claimed the vouchers on behalf of the household, as shown below, after you have logged in with Singpass. You may wish to check with that household member.</p>
 <p><img src="/images/002.png" alt="Sample Double Claim" style="width:210px !important;height:auto !important;"></p>
-<p>Should the individual belong to another household staying at the same address, please visit your nearest CC to apply for the CDC Vouchers. Please bring along the following supporting documents:<br>
+<p>Should the individual belong to another household staying at the same address, please visit your nearest CC to apply for the CDC Vouchers before 15 December 2026. Please bring along the following supporting documents:<br>
 o Your NRIC (physical / digital), and<br>
 o Any one of the relevant documents to show proof of household e.g. proof of previous overseas employment / proof of overseas address / tenancy agreement / proof of new resident e.g. taking/handing over keys</p>
 </div>
