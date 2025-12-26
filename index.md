@@ -12,7 +12,7 @@ notification: Government officials will never ask you to transfer money or
 sections:
   - hero:
       key_highlights:
-        - title: I AM A RESIDENT
+        - title: I am a Resident
           description: Click here for next steps
           url: /residents/info/
         - title: I am a Heartland Merchant
