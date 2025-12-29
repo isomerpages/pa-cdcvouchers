@@ -58,7 +58,7 @@ The CDC Vouchers 2026 (January) is valid till 31 December 2026.
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/PlE4lHek27k?si=cOKxl90U9lT6td8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="youtubevideo" src="https://www.youtube.com/watch?v=qRGuXnrUffg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 	</div>
 
 Our step-by-step guide and video are available in the following languages:
