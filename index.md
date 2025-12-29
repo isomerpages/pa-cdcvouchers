@@ -18,7 +18,7 @@ sections:
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-      background: /images/2026_Jan_Website_Banner.png
+      background: /images/2026_Jan_Website_Banner_1.png
       variant: center
       backgroundColor: gray
       size: md
