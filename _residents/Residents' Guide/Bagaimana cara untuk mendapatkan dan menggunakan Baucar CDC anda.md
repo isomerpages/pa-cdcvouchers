@@ -50,9 +50,9 @@ a.bp-button {
 4: **Pilih jenis baucar dan jumlah yang ingin anda gunakan.** Tunjukkan kod QR kepada peniaga yang mengambil bahagian untuk diimbas.
 <img src="/images/2026_Jan_ML_4.png" alt="Step 4" style="width:300px !important;">
 
-Gunakan baucar anda selawat-lewatnya 31 Disember 2026.
+Gunakan baucar anda selawat-lewatnya pada 31 Disember 2026. 
 
-Jika anda tidak ada telefon bijak, Singpass, atau memerlukan bantuan, sila pergi ke Balai Rakyat/Kelab Masyarakat yang terdekat antara 10 page hingga 6 petang (kecuali Cuti Umuum). 
+Jika anda tidak ada telefon bijak, Singpass, atau memerlukan bantuan, sila pergi ke Balai Rakyat/Kelab Masyarakat yang terdekat antara 10 pagi hingga 6 petang (kecuali Cuti Umum).
 
 Talian penting: 6225 5322
 
