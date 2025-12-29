@@ -27,8 +27,8 @@ sections:
   - infopic:
       title: About CDC Vouchers Scheme 2026 (January)
       id: infopic
-      description: Additional $300 CDC Vouchers 2026 in January for every Singaporean
-        household to help with daily expenses.
+      description: $300 CDC Vouchers 2026 in January for every Singaporean household
+        to help with daily expenses.
       button: Find out more
       alt: CDC Identifier and Budget Logo
       url: /about
@@ -57,11 +57,11 @@ sections:
       id: textcards
       description: Check out the Frequently Asked Questions (FAQ).
       cards:
-        - title: FOR RESIDENTS
+        - title: For Residents
           description: ""
           linktext: Learn more
           url: /residents/faq
-        - title: FOR HEARTLAND MERCHANTS AND HAWKERS
+        - title: For Heartland Merchants and Hawkers
           description: ""
           linktext: Learn more
           url: /merchants/faq
