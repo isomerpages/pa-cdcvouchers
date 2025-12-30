@@ -44,7 +44,8 @@ variant: tiptap
 <p><a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-the-CDC-Vouchers-Scheme-2025-May" rel="noopener noreferrer nofollow" target="_blank">Speech by Prime Minister Lawrence Wong</a>
 </p>
 <p></p>
-<p><a href="/files/Speech_Mayor_Low_CDCV_2025_May.pdf" rel="noopener nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and Mayor of South West District</a>
+<p><a href="/files/Speech_Mayor_Low_CDCV_2025_May.pdf" rel="noopener nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committ</a>
+<a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_Scheme_2025__May_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Speech_Mayor_Low_CDCV_2025_May.pdf" rel="noopener nofollow" target="_blank">ee and Mayor of South West District</a>
 </p>
 <p></p>
 </td>
@@ -188,7 +189,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://www.pmo.gov.sg/Newsroom/DPM-Gan-Kim-Yong-at-the-Launch-of-CDC-Vouchers-Scheme-2024" rel="noopener noreferrer nofollow" target="_blank">Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong</a> 
 <br>
-<br><a href="/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District</a>
+<br><a href="/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Address by Ms Low Yen Lin</a>
+<a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_Scheme_2024__June_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Checked_Mayor_Low_Speech_for_Launch_of_CDC_Vouchers_Scheme__June____25_Jun_24.pdf" rel="noopener noreferrer nofollow" target="_blank">g, Chairman of Mayors' Committee and Mayor of South West District</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,8 +237,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-at-the-Launch-of-the-CDC-Vouchers-Scheme-2024" rel="noopener noreferrer nofollow" target="_blank">Speech by Deputy Prime Minister and Minister for Finance Lawrence Wong</a> 
 <br>
-<br><a href="/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District</a>
+<br>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -329,7 +332,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-at-the-Launch-of-CDC-Vouchers-Scheme-Jan-2023" rel="noopener noreferrer nofollow" target="_blank">Speech by Deputy Prime Minister and Minister for Finance Lawrence Wong</a> 
 <br>
-<br><a href="https://www.cdc.gov.sg/files/Speech%20by%20Mayor%20Low%20Yen%20Ling%20at%20the%20Launch%20of%20CDC%20Vouchers%20Scheme%202023_3%20Jan%20(002).pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayors' Committee and Mayor of South West District</a>
+</p>
+<p><a href="/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Address by Ms Low Yen L</a>
+<a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_Scheme_2024.pdf" rel="noopener nofollow" target="_blank">i</a><a href="/files/CDC_Vouchers_Scheme_2024_Launch___Mayor_Low_Speech__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">ng, Chairman of Mayors' Committee and Mayor of South West District</a>
+<a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_Scheme_2023.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
