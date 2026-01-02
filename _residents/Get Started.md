@@ -8,16 +8,14 @@ variant: markdown
 ---
 <span id="cdcv_page_top"></span>
 
-![](/images/Key_Visual_May_2025.png)
+![](/images/2026_Jan_Banner_Header.png)
 
 
 As announced in Budget 2025, all Singaporean households will receive an additional $800 in CDC Vouchers to help with daily expenses. The vouchers are distributed in two tranches — $500 in May 2025 and $300 in January 2026.
 
-This is in addition to the $300 CDC Vouchers given on 3 January 2025. Therefore, all Singaporean households will receive a total of $800 CDC Vouchers in 2025.
+The process for claiming and spending the vouchers remains the same. Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2026 (January), and login with Singpass to claim the vouchers.  <br>    
 
-The process for claiming and spending the vouchers remains the same. Only one household member with a Singpass account needs to claim the vouchers on behalf of the entire household.  Visit <a href="https://go.gov.sg/cdcv" target="redeemsg"><strong>go.gov.sg/cdcv</strong></a>, select CDC Vouchers Scheme 2025 (May), and login with Singpass to claim the vouchers.  <br>    
-
-Both the CDC Vouchers 2025 (January) and CDC Vouchers 2025 (May) are valid till 31 December 2025. 
+The CDC Vouchers 2026 (January) is valid till 31 December 2026. 
 
 <table border="0" cellspacing="0" cellpadding="0" style="font-size: 120%;">
 <tbody>
@@ -27,15 +25,15 @@ Both the CDC Vouchers 2025 (January) and CDC Vouchers 2025 (May) are valid till 
 </tr>
 	<tr>
 <td><img src="/images/CDCV2023/heartland%20voucher%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"></td>
-<td style="vertical-align: middle;"><p><strong>$250 CDC Vouchers 2025 (May) to spend at participating heartland merchants and hawkers</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>$150 CDC Vouchers 2026 (January) to spend at participating heartland merchants and hawkers</strong></p></td>
 </tr>
 <tr>
 <td><img src="/images/CDCV2023/supermarket%20icon.png" alt="Claim your digital vouchers easily" style="width:125px !important;"></td>
-<td style="vertical-align: middle;"><p><strong>$250 CDC Vouchers 2025 (May) to spend at participating supermarkets</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>$150 CDC Vouchers 2026 (January) to spend at participating supermarkets</strong></p></td>
 </tr>
 	<tr>
 <td><img src="/images/CDCV2023/expiry%20icon.png" alt="Use digital vouchers at participating hawkers and merchants" style="width:125px !important;"></td>
-<td style="vertical-align: middle;"><p><strong>Use your vouchers by 31 December 2025</strong></p></td>
+<td style="vertical-align: middle;"><p><strong>Use your vouchers by 31 December 2026</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -60,7 +58,7 @@ Both the CDC Vouchers 2025 (January) and CDC Vouchers 2025 (May) are valid till 
 </style>
 
 <div class="youtubecontainer">
-<iframe class="youtubevideo" src="https://www.youtube.com/embed/PlE4lHek27k?si=cOKxl90U9lT6td8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qRGuXnrUffg?si=ujGpJg__ImzbJaAg" height="315" width="560"></iframe>
 	</div>
 
 Our step-by-step guide and video are available in the following languages:
@@ -109,7 +107,7 @@ ________
 
 * If you need help in claiming your vouchers, please bring along your NRIC to the nearest Community Centre/Club (CC). All CCs are open daily from 10am to 6pm and 2pm to 6pm for void deck CCs.  Closed on Public Holidays (PH) 
 
-* Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form for CDC Vouchers 2025 (January)](/files/Voucher_Claim_Authorisation_Letter_2025_Jan.pdf) or [Authorisation Form for CDC Vouchers 2025 (May)](/files/Voucher_Claim_Authorisation_Letter_2025_May.pdf) necessary supporting documents (specified in the authorisation form) to the CC.
+* Alternatively, you may authorise a non-household member to claim your household vouchers. He or she should bring along the notification letter sent to your household, a completed [Authorisation Form for CDC Vouchers 2026 (January)](/files/Voucher_Claim_Authorisation_Letter_2026_Jan.pdf), and necessary supporting documents (specified in the authorisation form) to the CC.
 *  For further enquiries, please contact our hotline at <a href="tel:6225 5322">6225 5322</a> from 8am to 6pm daily, except on public holidays; or write to us using this <a href="https://www.pa.gov.sg/feedback" style="color:#22499B" target="_blank"> feedback form</a>.
 If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance. <br>
 Monday to Sunday: 8am - 6pm<br>

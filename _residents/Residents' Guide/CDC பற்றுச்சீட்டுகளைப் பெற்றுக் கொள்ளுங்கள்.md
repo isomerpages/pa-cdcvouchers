@@ -37,31 +37,32 @@ a.bp-button {
 </style>
 
 <div class="youtubecontainer">
-<iframe aria-label="CDC Vouchers Scheme 2024 - Step by Step Video for Residents (Tamil)" class="youtubevideo" src="https://www.youtube.com/embed/axt_DyfMR60?si=UupvWhY453ryzHto" title="CDC Vouchers Scheme 2024 - Step by Step Video for Residents (Tamil)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_x7hU0nuUKY?si=enKeKElmxI7_1IHB" height="315" width="560"></iframe>
 </div>
 
-## உங்களுக்கான CDC பற்றுச்சீட்டுகளைப் பெற்றுக்கொண்டு பயன்படுத்துவது எப்படி
+## 	
+உங்கள் சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகளைப் பெற்றுக்கொண்டு செலவு செய்வது எப்படி
 
 
-1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் செல்லுங்கள்.</strong> சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் 2025 (மே) என்பதைத் தெரிவுசெய்யுங்கள்.<img src="/images/TML_1May25.png" alt="Step 1" style="width:300px !important;">
+1: <strong>[go.gov.sg/cdcv](https://go.gov.sg/cdcv) இணையத்தளத்திற்குச் செல்லுங்கள்.</strong> 2026 ஜனவரி மாதச் சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகள் மீது தட்டுங்கள்.<img src="/images/2026_Jan_TM_1.png" alt="Step 1" style="width:300px !important;">
 
-2: <strong>சிங்பாஸ் (Singpass) வழி புகுபதிவு செய்யுங்கள். </strong> ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இவ்வாறு செய்தால் போதும்.  
-<img src="/images/TML_2May25.png" alt="Step 2" style="width:300px !important;">
+2: <strong>Singpass வழி புகுபதிவு செய்யுங்கள்.</strong> ஒரு குடும்பத்தின் சார்பில் ஒருவர் மட்டும் இவ்வாறு செய்தால் போதும்.
+<img src="/images/2026_Jan_TM_2.png" alt="Step 2" style="width:300px !important;">
 
 
-3: **உங்களுக்கான சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகளின் இணைப்பை gov.sg அனுப்பி வைக்கும் குறுஞ்செய்தி வழி பெற்றுக்கொள்ளுங்கள்.** பற்றுச்சீட்டுகளைக் குடும்பத்தாருடன் பகிர்ந்துகொள்ள குறுஞ்செய்தியை அவர்களுக்கு அனுப்புங்கள். 
+3: <strong>உங்களுக்கான சமூக மேம்பாட்டு மன்றப் பற்றுச்சீட்டுகளின் இணைப்பை gov.sg அனுப்பும் குறுஞ்செய்தி வழி பெற்றுக்கொள்ளுங்கள்.</strong> பற்றுச்சீட்டுகளைக் குடும்பத்தாருடன் பகிர்ந்துகொள்ள குறுஞ்செய்தியை அவர்களுக்கு அனுப்புங்கள்.
 
-<img src="/images/TML_3May25.png" alt="Step 3" style="width:300px !important;">
+<img src="/images/2026_Jan_TM_3.png" alt="Step 3" style="width:300px !important;">
 
-4: **நீங்கள் பயன்படுத்த விரும்பும் பற்றுச்சீட்டின் வகையையும் தொகையையும் தெரிவுசெயுங்கள்.** பங்குபெறும் வணிகரிடம் QR குறியீட்டைக் காட்டுங்கள்.
-<img src="/images/TML_4May25.png" alt="Step 4" style="width:600px !important;"> 
+4: <strong>நீங்கள் பயன்படுத்த விரும்பும் பற்றுச்சீட்டின் வகையையும் தொகையையும் தெரிவு செய்யுங்கள்.</strong> பங்குபெறும் வணிகரிடம் விரைவுத் தகவல் (QR) குறியீட்டைக் காண்பியுங்கள்.
+<img src="/images/2026_Jan_TM_4.png" alt="Step 4" style="width:600px !important;"> 
 
-பற்றுச்சீட்டுகள் 31 டிசம்பர் 2025 வரை செல்லுபடியாகும்.
+பற்றுச்சீட்டுகள் 31 டிசம்பர் 2026 வரை செல்லுபடியாகும்.
 
-உங்களிடம் திறன்பேசி அல்லது சிங்பாஸ் (Singpass) கணக்கு இல்லாவிட்டால் அல்லது மேற்கொண்டு விவரமும் உதவியும் தேவைப்பட்டால் உங்களுக்கு அருகிலுள்ள சமூக நிலையத்திற்கு/ மன்றத்திற்குக் காலை 10 மணி முதல் மாலை 6 மணி வரை (பொது விடுமுறை நாட்கள் தவிர்த்து) செல்லுங்கள்.
-
+உங்களிடம் திறன்பேசி அல்லது Singpass இல்லையெனில், அல்லது உங்களுக்கு உதவி தேவைப்பட்டால், உங்களுக்கு மிக அருகிலுள்ள சமூக நிலையத்திற்கு / மன்றத்திற்குக் காலை 10 மணி முதல் மாலை 6 மணி வரை செல்லுங்கள் (பொது விடுமுறை நாள்களைத் தவிர்த்து).
+	
 தொலைபேசி: 6225 5322
 
-*<i>படங்கள் விளக்கத்திற்கு மட்டுமே</i>
+<i>*இப்படங்கள் விளக்கத்திற்காக மட்டுமே.</i>
 
 [Back to Top](#cdcv_page_top)

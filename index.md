@@ -12,56 +12,56 @@ notification: Government officials will never ask you to transfer money or
 sections:
   - hero:
       key_highlights:
-        - title: I AM A RESIDENT
+        - title: I am a Resident
           description: Click here for next steps
           url: /residents/info/
         - title: I am a Heartland Merchant
           description: Click here for next steps
           url: /merchants/info/
-      background: /images/Landing_page_banner_3.png
+      background: /images/2026_Jan_Website_Banner.png
       variant: center
       backgroundColor: gray
       size: md
       alignment: left
       title: CDC Vouchers Scheme
   - infopic:
-      title: About CDC Vouchers Scheme 2025 (May)
+      title: About CDC Vouchers Scheme 2026 (January)
       id: infopic
-      description: Additional $500 CDC Vouchers 2025 in May for every Singaporean
-        household to help with daily expenses.
+      description: $300 CDC Vouchers 2026 in January for every Singaporean household
+        to help with daily expenses.
       button: Find out more
       alt: CDC Identifier and Budget Logo
       url: /about
       image: /images/CDCV_Identifier_and_Budget_2025_Logo.png
   - infopic:
-      title: Claim your CDC Vouchers 2025 (May)
+      title: Claim your CDC Vouchers 2026 (January)
       subtitle: Residents
       description: Similar to previous tranches, there is no need to download a mobile
-        app. Claim your digital CDC Vouchers 2025 (May) easily.
+        app. Claim your digital CDC Vouchers 2026 (January) easily.
       button: Claim now
       url: https://go.gov.sg/cdcv
-      image: /images/Key_Visual_May_2025.png
-      alt: cdc vouchers scheme may visual
+      image: /images/2026_Jan_Banner_Header.png
+      alt: cdc vouchers 2026 jan visual
   - infopic:
-      title: Where to spend your $500 CDC Vouchers 2025 (May)?
+      title: Where to spend your $300 CDC Vouchers 2026 (January)?
       subtitle: Residents
-      description: Spend $250 CDC Vouchers 2025 (May) at participating
-        hawkers/heartland merchants, and the other $250 at participating
+      description: Spend $150 CDC Vouchers 2026 (January) at participating
+        hawkers/heartland merchants, and the other $150 at participating
         supermarkets.
       button: FIND PARTICIPATING SHOPS
       url: https://go.gov.sg/cdcvouchers
-      alt: Image alt text
-      image: /images/CDCV_2025__April____Gowhere_Hero_Image.png
+      alt: cdc vouchers 2026 jan logo
+      image: /images/2026_Jan_Hero_Image.png
   - textcards:
       title: Have Questions?
       id: textcards
       description: Check out the Frequently Asked Questions (FAQ).
       cards:
-        - title: FOR RESIDENTS
+        - title: For Residents
           description: ""
           linktext: Learn more
           url: /residents/faq
-        - title: FOR HEARTLAND MERCHANTS AND HAWKERS
+        - title: For Heartland Merchants and Hawkers
           description: ""
           linktext: Learn more
           url: /merchants/faq

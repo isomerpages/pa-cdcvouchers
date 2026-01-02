@@ -28,34 +28,34 @@ a.bp-button {
 }
 </style>
 <div class="youtubecontainer">
-<iframe aria-label="CDC Vouchers Scheme 2024 - Step by Step Video for Residents (Malay)" class="youtubevideo" src="https://www.youtube.com/embed/NkqJOkRrg8Y?si=vlOQqOQtcXdyF12S" title="CDC Vouchers Scheme 2024 - Step by Step Video for Residents (Malay)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vWTp0GFRA70?si=KvyWSLhvngdowJOJ" height="315" width="560"></iframe>
 </div>
 
 
-## Bagaimana untuk Dapatkan dan Gunakan Baucar CDC anda
+## Cara Mendapatkan dan Menggunakan Baucar CDC anda
 
-1: Lungsuri **[go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Klik pada ‘CDC Vouchers 2025 (May)’. 
+1: **Lungsuri [go.gov.sg/cdcv.](https://go.gov.sg/cdcv)** Klik pada ‘CDC Vouchers 2026 (January)’. 
 
-<img src="/images/ML_1May25.png" alt="Step 1" style="width:300px !important;">
+<img src="/images/2026_Jan_ML_1.png" alt="Step 1" style="width:300px !important;">
 
 
 2: **Log masuk menggunakan Singpass.** Hanya seorang anggota keluarga sahaja yang perlu dapatkan bagi pihak keluarga.
 
-<img src="/images/ML_2May2025.png" alt="Step 2" style="width:300px !important;">
+<img src="/images/2026_Jan_ML_2.png" alt="Step 2" style="width:300px !important;">
 
-3: **Pautan Baucar CDC anda daripada gov.sg akan dihantar melalui SMS.** Hantarkan SMS tersebut kepada anggota keluarga supaya mereka juga dapat menggunakan baucar.
+3: **Terima pautan Baucar CDC anda melalui SMS, daripada gov.sg.** Hantarkan SMS tersebut kepada anggota keluarga supaya mereka juga dapat menggunakan baucar.
 
-<img src="/images/ML_3May25.png" alt="Step 3" style="width:300px !important;">
+<img src="/images/2026_Jan_ML_3.png" alt="Step 3" style="width:300px !important;">
 
-4: **Pilih jenis baucar dan jumlah yang ingin anda gunakan.** Tunjuk kod QR kepada penjual yang mengambil bahagian untuk diimbas.  
-<img src="/images/ML_4May25.png" alt="Step 4" style="width:600px !important;">
+4: **Pilih jenis baucar dan jumlah yang ingin anda gunakan.** Tunjukkan kod QR kepada peniaga yang mengambil bahagian untuk diimbas.
+<img src="/images/2026_Jan_ML_4.png" alt="Step 4" style="width:300px !important;">
 
-Gunakan baucar anda selawat-lewatnya 31 Disember 2025.
+Gunakan baucar anda selawat-lewatnya pada 31 Disember 2026. 
 
-Jika anda tidak mempunyai telefon bijak atau Singpass, dan untuk pertanyaan dan bantuan selanjutnya, kunjungi Balai Rakyat/Kelab Masyarakat terdekat anda dari 10 pagi hingga 6 petang (kecuali pada cuti umum).
+Jika anda tidak ada telefon bijak, Singpass, atau memerlukan bantuan, sila pergi ke Balai Rakyat/Kelab Masyarakat yang terdekat antara 10 pagi hingga 6 petang (kecuali Cuti Umum).
 
-Nombor Talian: 6225 5322
+Talian penting: 6225 5322
 
-*<i>Visual yang ditunjukkan adalah untuk tujuan ilustrasi sahaja.</i>
+*<i>Gambar-gambar hanya sebagai contoh sahaja.</i>
 
 [Back to Top](#cdcv_page_top)
