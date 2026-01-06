@@ -5,6 +5,54 @@ description: ""
 variant: tiptap
 ---
 <h2>Newsroom</h2>
+<h4>2 January 2026 - <br>Launch of CDC Vouchers Scheme 2026 (January)</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Media Release</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/CDC_Vouchers_Scheme_2026_Jan_Media_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">$300 worth of CDC Vouchers 2026 (January) for all Singaporean households to support daily expenses and strengthen community resilience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speeches</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.pmo.gov.sg/newsroom/dpm-gan-kim-yong-at-the-launch-of-cdc-vouchers-scheme-2026-january/" rel="noopener nofollow" target="_blank">Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong</a>
+</p>
+<p></p>
+<p><a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_2026_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and Mayor of South West District</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>13 May 2025 - <br>Launch of CDC Vouchers Scheme 2025 (May)</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -44,8 +92,7 @@ variant: tiptap
 <p><a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-the-CDC-Vouchers-Scheme-2025-May" rel="noopener noreferrer nofollow" target="_blank">Speech by Prime Minister Lawrence Wong</a>
 </p>
 <p></p>
-<p><a href="/files/Speech_Mayor_Low_CDCV_2025_May.pdf" rel="noopener nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committ</a>
-<a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_Scheme_2025__May_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Speech_Mayor_Low_CDCV_2025_May.pdf" rel="noopener nofollow" target="_blank">ee and Mayor of South West District</a>
+<p><a href="/files/Speech_Mayor_Low_CDCV_2025_May.pdf" rel="noopener nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and Mayor of South West District</a>
 </p>
 <p></p>
 </td>

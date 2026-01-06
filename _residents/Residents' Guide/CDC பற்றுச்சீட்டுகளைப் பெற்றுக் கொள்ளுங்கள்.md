@@ -55,7 +55,7 @@ a.bp-button {
 <img src="/images/2026_Jan_TM_3.png" alt="Step 3" style="width:300px !important;">
 
 4: <strong>நீங்கள் பயன்படுத்த விரும்பும் பற்றுச்சீட்டின் வகையையும் தொகையையும் தெரிவு செய்யுங்கள்.</strong> பங்குபெறும் வணிகரிடம் விரைவுத் தகவல் (QR) குறியீட்டைக் காண்பியுங்கள்.
-<img src="/images/2026_Jan_TM_4.png" alt="Step 4" style="width:600px !important;"> 
+<img src="/images/2026_Jan_TM_4.png" alt="Step 4" style="width:300px !important;"> 
 
 பற்றுச்சீட்டுகள் 31 டிசம்பர் 2026 வரை செல்லுபடியாகும்.
 
