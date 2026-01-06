@@ -44,8 +44,8 @@ variant: tiptap
 <p><a href="https://www.pmo.gov.sg/newsroom/dpm-gan-kim-yong-at-the-launch-of-cdc-vouchers-scheme-2026-january/" rel="noopener nofollow" target="_blank">Speech by Deputy Prime Minister and Minister for Trade and Industry Gan Kim Yong</a>
 </p>
 <p></p>
-<p>Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and
-Mayor of South West District</p>
+<p><a href="/files/Speech_by_Mayor_Low_Yen_Ling_at_the_Launch_of_CDC_Vouchers_2026_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome Address by Ms Low Yen Ling, Chairman of Mayor's Committee and Mayor of South West District</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
